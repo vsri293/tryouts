@@ -1,0 +1,1276 @@
+(lp0
+VRaghavendranagar
+p1
+aVRaghavendra Nagar
+p2
+aVBlock 1A
+p3
+aVBlock 3
+p4
+aVSri Maruthi Nagar Prasanna Layout
+p5
+aVMaruthi Nagar
+p6
+aVBlock 14
+p7
+aV2 Block
+p8
+aVBlock 2
+p9
+aVModern Layout
+p10
+aVBlock C Thirumala Nagar
+p11
+aVSantosh Sagar
+p12
+aVSantosh Nagar
+p13
+aVEWS Colony
+p14
+aVSudarshan Layout
+p15
+aVHaridas Nagar
+p16
+aVPanchsheel Block
+p17
+aVSrinivasaiah Block
+p18
+aVDhobi Ghat
+p19
+aVAchaiah Setty Layout
+p20
+aVBagalur Layout
+p21
+aVBlock 3
+p22
+aVMottappa Compound
+p23
+aVAnjappa Layout
+p24
+aVNAL Colony
+p25
+aVBayarappa Layout
+p26
+aVParangipalya
+p27
+aVGeneral Pool PWD Quarters
+p28
+aVManjunatha Layout
+p29
+aVOakyard Apartment
+p30
+aVSapthagiri Layout
+p31
+aVSaptagiri Nagar
+p32
+aVRR Layout
+p33
+aVWriters Colony
+p34
+aVVenkateshappa Layout
+p35
+aVMukambikanagar
+p36
+aVMukambika Nagar
+p37
+aVHRBR Extension Block 3
+p38
+aV3 Block
+p39
+aVBlock 3
+p40
+aVStage 5 3 Block
+p41
+aVBlock 3 Stage 5
+p42
+aVPhase 2
+p43
+aVPhase 1
+p44
+aVK Krishnaiah Layout
+p45
+aVBDA Layout
+p46
+aVDurga Parameshwari Nagar
+p47
+aVKrishnappa Nagar
+p48
+aVKariyappa Layout
+p49
+aVSrinivasanagar
+p50
+aVSBM Colony
+p51
+aVGajendra Nagar
+p52
+aVVinobha Colony
+p53
+aVVijaya Colony
+p54
+aVTeachers Colony
+p55
+aVBlock 2
+p56
+aVArunachalam Layout
+p57
+aVShakthi Garden
+p58
+aVVinayaka Layout
+p59
+aVCoconut Garden
+p60
+aVArogya Layout
+p61
+aVBlock 6 RHCS Layout
+p62
+aVAnnapurneshwarinagar
+p63
+aVRHCS Layout
+p64
+aVBlock 11
+p65
+aVBDA Layout
+p66
+aVBlock 1
+p67
+aVBlock A
+p68
+aVBlock E
+p69
+aVStage 1
+p70
+aVStage 2
+p71
+aVPhase 1
+p72
+aVStage 2
+p73
+aVBlock 3
+p74
+aVJamuna Kunte Layout
+p75
+aVBlock D Thirumala Nagar
+p76
+aVEscorts Layout
+p77
+aVBlock B Thirumala Nagar
+p78
+aVThirumala Nagar Satge 2
+p79
+aVBasaveshwara Layout
+p80
+aVChandrashekaran Block
+p81
+aVByregowda Layout
+p82
+aVPhase 1
+p83
+aVHarishtanagar
+p84
+aVHarishta Nagar
+p85
+aVGauripuram Extension
+p86
+aVBrindavannagar
+p87
+aVBrindavan Nagar
+p88
+aVHIG Colony
+p89
+aVKalidasa Layout
+p90
+aVKalappa Block
+p91
+aVBlock 4
+p92
+aVBlock 1
+p93
+aVYelenahalli
+p94
+aVJantha Colony
+p95
+aV6 Block
+p96
+aVBlock 6
+p97
+aVHanumanth Nagar
+p98
+aVHealth Layout
+p99
+aVArogya Layout
+p100
+aV11 Block
+p101
+aVBlock 11
+p102
+aV10 Block
+p103
+aVBlock 10
+p104
+aVBlock 3
+p105
+aVBlock B
+p106
+aVBlock D
+p107
+aVPhase 2 Leo Sai Nagar
+p108
+aVPhase 2
+p109
+aVStage 1
+p110
+aVPhase 1
+p111
+aVSoap Factory Layout
+p112
+aVMLA Layout
+p113
+aVAkshaya Nagar Stage 2
+p114
+aVVinayakanagar
+p115
+aVBlock B
+p116
+aVPoojari Marappa Layout
+p117
+aVSennappa Layout
+p118
+aVSampangappa Layout
+p119
+aVLBS Nagar
+p120
+aVStage 1
+p121
+aVSector A
+p122
+aVPhase 2
+p123
+aVITC Clny  Jivanahalli
+p124
+aVITC Colony
+p125
+aVRaghavappa Garden
+p126
+aVJai Jawannagar
+p127
+aVJai Jawan Nagar
+p128
+aVChowdeswari Layout
+p129
+aVDodanna Layout
+p130
+aVMuniswamappa Compound Chikka Banaswadi
+p131
+aVMuniswamappa Layout
+p132
+aVAkshayanagar Block 2
+p133
+aVAkshaya Nagar 2 Block
+p134
+aVBlock 2
+p135
+aVMunikalappa Garden Layout
+p136
+aVShiva Rammaiyah Layout
+p137
+aVMurthi Layout
+p138
+aVCMR Garden
+p139
+aVCMR Garden
+p140
+aVMuniveerappa Layout
+p141
+aVMuniswamappa Layout
+p142
+aVMSH Layout
+p143
+aVChikkamunivenkatappa Layout Guddadahalli
+p144
+aVChikka Munivenkatappa Layout
+p145
+aVGovindaraj Garden
+p146
+aVShankarappa Layout
+p147
+aVStage 1
+p148
+aVEast
+p149
+aVPhase 1
+p150
+aVPhase 2
+p151
+aVBlock 2
+p152
+aVPhase 1
+p153
+aVPhase 2
+p154
+aVWest Wing
+p155
+aVBM Kaval
+p156
+aVAkshayanagara East
+p157
+aVAkshaya Vana
+p158
+aVStage 2
+p159
+aVB Chikkanna Layout
+p160
+aVPhase 1
+p161
+aVHirachandra Layout
+p162
+aVMuninaraynappa Garden
+p163
+aVKHB Quarters
+p164
+aVBlock B
+p165
+aVBlock A Stage 2
+p166
+aVBalaji Layout
+p167
+aVSBM Colony
+p168
+aVBlock 7
+p169
+aVBlock 4
+p170
+aVBlock 2
+p171
+aVBlock 1
+p172
+aVBlock 3
+p173
+aV1 Block
+p174
+aVBlock 1
+p175
+aVBlock 5 IEHCS Layout
+p176
+aV4 Block
+p177
+aVBlock 4
+p178
+aVBlock A
+p179
+aVMLA Layout
+p180
+aVAbdul Jabbar Layout
+p181
+aVVinayaka Layout
+p182
+aVCentral Excise Clny  RMV Extension Stage 2
+p183
+aVCentral Excise Layout
+p184
+aVNTI Layout
+p185
+aVNarasimaiah Layout
+p186
+aVVenkatacharynagar
+p187
+aVVenkatacharya Nagar
+p188
+aVLottegollahalli Railway Clny  RMV Stage 2
+p189
+aVLottegollahalli Subramanya Colony
+p190
+aVBDA Layout
+p191
+aVM Anjanappa Murthy Layout
+p192
+aVBlock 3
+p193
+aVPhase 1
+p194
+aVBlock B
+p195
+aVGubbanna Industrial Estate
+p196
+aVMICO Layout
+p197
+aVMytri Towers
+p198
+aVGopalam Towers
+p199
+aVAnand Murthy Layout
+p200
+aVBlock 2
+p201
+aVPipeline Weavers Clny  Kempegowda Nagar
+p202
+aVPipeline Weavers Colony
+p203
+aVBlock 2
+p204
+aVBDA Complex
+p205
+aVSri Anjineyalu Plaza
+p206
+aVAKR Tech Park
+p207
+aVShiva Nanda Market
+p208
+aVNitesh Time Square
+p209
+aVDevayani Industrial Complex
+p210
+aVRamana Shree Arcade
+p211
+aVKusal Complex
+p212
+aVGlobal Tech Park
+p213
+aVKirana Complex
+p214
+aVRachita Tech Park
+p215
+aVSMT Narasamma Shanti Tech Park
+p216
+aVNarang Chambers
+p217
+aVParvathi Plaza
+p218
+aVSafety Park
+p219
+aVPioneer Building
+p220
+aVJSS Tower
+p221
+aVSRNG Sampannppa Diamond Jubilee Complex
+p222
+aVG5
+p223
+aVHebron
+p224
+aVHebron
+p225
+aVManipal Centre
+p226
+aVKKMP Sports Complex
+p227
+aVNABARD Tower
+p228
+aVCentury
+p229
+aVPrestige Plaza
+p230
+aVPrestige Technopolis
+p231
+aVKalyani Vista
+p232
+aVBlock A
+p233
+aVBlock 1
+p234
+aVAkshaya Residency
+p235
+aVBlock A
+p236
+aVKR Garden
+p237
+aVBDA Layout
+p238
+aVNGEF Layout
+p239
+aVAnnaiah Reddy Layout
+p240
+aVDoctors Layout
+p241
+aVLal Bahadurnagar
+p242
+aVLal Bahadur Nagar
+p243
+aVVigneshwara Layout
+p244
+aVSonangi Layout
+p245
+aVKalyannagar Block 2
+p246
+aVBlock 2 Kalyan Nagar
+p247
+aVKalyan Nagar 2 Block
+p248
+aVBlock 2
+p249
+aVKalyannagar Block 1
+p250
+aVBlock 1 Kalyan Nagar
+p251
+aVKalyan Nagar 1 Block
+p252
+aVBlock 1
+p253
+aVAST Block
+p254
+aVRamakka Block
+p255
+aVNandagokula Layout
+p256
+aVAppajappa Layout
+p257
+aVBlock C
+p258
+aVAnandnagar
+p259
+aVAGS Layout
+p260
+aVReserve Bank Colony
+p261
+aVReserve Bank Clny  Hebbal
+p262
+aVRBI Colony
+p263
+aVCholanagar
+p264
+aVChola Nagar
+p265
+aVHMT Layout
+p266
+aVChinana Layout
+p267
+aVNandani View Layout
+p268
+aVAbbaiyappa Block
+p269
+aVKashi Arcade
+p270
+aVGem Plaza
+p271
+aVE City Tower 2
+p272
+aVBrigade Arcade
+p273
+aVVaishnavi Summit
+p274
+aVNagarbhavi BDA Shopping Complex
+p275
+aVHanuma Hill Layout
+p276
+aVGoldhill Square
+p277
+aVDefence Accounts Employees Layout
+p278
+aVRMZ Ecoworld
+p279
+aVForest Quarters
+p280
+aVHillside Layout
+p281
+aVRajareshwari Block
+p282
+aVManjunatha Nagar
+p283
+aVTG Layout Ittamadu
+p284
+aVThimmaiya Godda Layout
+p285
+aVPhase 2 Block 6
+p286
+aVKEB Quarters
+p287
+aVVeerannana Guda
+p288
+aVHM Veerappa Reddy Layout
+p289
+aVBhawani Layout
+p290
+aVGururaja Layout
+p291
+aV7 Block
+p292
+aVSyndicate Bank Colony
+p293
+aVPh 4
+p294
+aVRajeev Nagar
+p295
+aVKamakya Layout
+p296
+aVSri Ramnagar
+p297
+aVMaruthi Nagar
+p298
+aVAnjaneya Nagar
+p299
+aVACS Layout
+p300
+aVHanumanthappa Layout
+p301
+aVKerepalya
+p302
+aVGurudutta Layout
+p303
+aVDwarka Nagar
+p304
+aVKrishna Kamala Enclave
+p305
+aVSimhadri Layout
+p306
+aVPhase 3
+p307
+aVBDA Layout
+p308
+aVSri Ranga Nagar
+p309
+aVByrasandra
+p310
+aVSri Venkateshwara Layout
+p311
+aVKumarradhara Block
+p312
+aVNethravathi Block
+p313
+aVRajaji Nagar IT Park
+p314
+aVEssae Vaishnavi Solitaire
+p315
+aVMatinee Towers
+p316
+aVSNS Arcade
+p317
+aVSurya Chambers
+p318
+aVGeorge Thangiah Complex
+p319
+aVEastland Citadel
+p320
+aVOracle Technology Park
+p321
+aVEquinox Tech Park
+p322
+aVPrestige Alpha
+p323
+aVBrigade Tech Park
+p324
+aVSafety Park
+p325
+aVVayu Block
+p326
+aVUmiya Business Bay Tower 1
+p327
+aVVertex Tech Park
+p328
+aVSalarpuria Supreme
+p329
+aVMicrochip Tech Park
+p330
+aVSalarpuria Sattva Tech Park
+p331
+aVSalar Puria Tower
+p332
+aVIndustrial Estate
+p333
+aVXylem IT Park
+p334
+aVPrestige Obelisk
+p335
+aVKrimson Square
+p336
+aVVaishnavi Silicon Terraces
+p337
+aVSubramanya Tech Park
+p338
+aVNeil Rao Tower
+p339
+aVProfressional Access
+p340
+aVMFAR Silverline Tech Park
+p341
+aVNetra Tech Park
+p342
+aVG7
+p343
+aVSecon Surveys Tech Park
+p344
+aVPrestige Featherlite Tech Park
+p345
+aVJakkasandra Industrial Layout
+p346
+aVDiamond District Court
+p347
+aVDisoveror
+p348
+aVInventor
+p349
+aVDhara Block
+p350
+aVCessena Business Park
+p351
+aVEmbassy Techsquare
+p352
+aVG3
+p353
+aVSBB Touchstone
+p354
+aVEPIP Phase 2
+p355
+aVPrasad Technology Park
+p356
+aVMM Industrial Estate
+p357
+aVMestripalya
+p358
+aVD Souza Nagar
+p359
+aVPushpagiri Nagar
+p360
+aVChaudappa Layout
+p361
+aVNayanappa Layout
+p362
+aVKrishnappa Layout
+p363
+aVByrappa Garden
+p364
+aVKhadi Layout
+p365
+aVVivekanandanagar
+p366
+aVVivekananda Nagar
+p367
+aVBhoruka Tech Park
+p368
+aVMegamart Banashankari
+p369
+aVCoupon Mall
+p370
+aVAscendas Park Square Mall
+p371
+aVLido Mall
+p372
+aVEquinox
+p373
+aVLeela Galleria
+p374
+aVBDA Complex
+p375
+aVMak Centre
+p376
+aVTIFR
+p377
+aVKK Towers
+p378
+aVAlpha Gourments
+p379
+aVDLF Newtown
+p380
+aVRadhika Apartment
+p381
+aVLal Bahadur Shastri Nagar
+p382
+aVTotal Mall
+p383
+aVGopalan Grand Mall
+p384
+aVGopalan Mall
+p385
+aV1 MG Road Mall
+p386
+aVMEG Layout
+p387
+aVITI Employees Hou Colony  Mahadevpura
+p388
+aVITI Employees Housing Clny  Mahadevpura
+p389
+aVITI Employees Housing Colony
+p390
+aVAkashnagar
+p391
+aVSathya Layout
+p392
+aVKeerthi Layout
+p393
+aVBDA Layout
+p394
+aVCentral Government Quarters
+p395
+aVSRT Mall
+p396
+aVGopalan Signature Mall
+p397
+aVGaruda Swagath Mall
+p398
+aVBrooke Filed Mall
+p399
+aVVaishnavi Sapphire Mall
+p400
+aVGolden Heights Mall
+p401
+aVMetro Mall
+p402
+aVWaverly Mall
+p403
+aVTalasila Tower
+p404
+aVMLA Layout
+p405
+aVRSTI
+p406
+aVBDA Complex
+p407
+aVSalarpuria Business Centre
+p408
+aVRamana Maharishi Heritage Centre
+p409
+aVSVR Fortune
+p410
+aVKaverinagar
+p411
+aVKaveri Nagar
+p412
+aVNHCS Layout
+p413
+aVMarutinagar
+p414
+aVMaruti Nagar
+p415
+aVChinappa Industrial Estate Vishwamurthi Nagar
+p416
+aVMuneshwara Block
+p417
+aVSalarpuria Cambridge Mall
+p418
+aVPKR Complex
+p419
+aVSri Balaji Complex
+p420
+aVOxford Tower
+p421
+aVSethna Power Tower
+p422
+aVSamson Arcade
+p423
+aVVinigappa Layout Vishwamurthi Nagar
+p424
+aVVinigappa Layout
+p425
+aVSannaki Bayalu
+p426
+aVHandanappa Layout
+p427
+aVP T Colony
+p428
+aVBlock 1
+p429
+aVBlock 2
+p430
+aVBlock 6
+p431
+aV5 Block
+p432
+aVBlock 5
+p433
+aVBlock 5
+p434
+aV2 Block
+p435
+aVBlock 2
+p436
+aV3 Block
+p437
+aVBlock 3
+p438
+aV6 Block
+p439
+aVBlock 6
+p440
+aVM Jagadish Gowda Layout
+p441
+aVMaruthi Nagar
+p442
+aVRailway Colony
+p443
+aVSomeshwara Nagar Marappanapalya
+p444
+aVPhase 2
+p445
+aVBlock 1 KM Halli
+p446
+aVKetamaranahalli
+p447
+aVBlock 1
+p448
+aVBCC Layout
+p449
+aVStage 3
+p450
+aVBlock A Vysya Bank Colony
+p451
+aVShanti Niketan Vysya Bank Clny  Arakere
+p452
+aVVysya Bank Colony
+p453
+aVBHEL Layout
+p454
+aVStage 2
+p455
+aVVenkataswamy Layout
+p456
+aVAkshaya Gardens
+p457
+aVRamaiah Reddy Clny  Garkamantapalya
+p458
+aVSector B
+p459
+aVShetty Layout
+p460
+aVG Muniyappa Garden
+p461
+aVRamgopal Layout
+p462
+aVBalaji Layout
+p463
+aVRamaiah Layout
+p464
+aVErrappa Reddy Layout
+p465
+aVPilla Reddy Nagar
+p466
+aVGreen Park Layout
+p467
+aVSubramanya Nagar
+p468
+aVK Lingappa Layout
+p469
+aVMuni Hanumanthaiah Layout
+p470
+aVPhase 2
+p471
+aVBlock E
+p472
+aVJooganahalli
+p473
+aVSmall Scale Industial Area
+p474
+aVSSI Indl Area
+p475
+aVSSI Industrial Area
+p476
+aVGEF Block
+p477
+aV1 Stage 6 Phase
+p478
+aVMICO Layout 1st Stage
+p479
+aVStage 1
+p480
+aVNanjappa Layout
+p481
+aVAbdul Patel Syed Layout
+p482
+aV1 Stage 5 Phase
+p483
+aVBirangi Palya
+p484
+aVBlock 2
+p485
+aVStage 1
+p486
+aVStage 2
+p487
+aVMuniswappa Layout
+p488
+aVNarayanappa Block
+p489
+aV12 Block
+p490
+aVBlock 12
+p491
+aVBlock 13
+p492
+aVBDA Layout
+p493
+aVPhase 2
+p494
+aV8 Block
+p495
+aVBlock 8
+p496
+aVBDA Layout
+p497
+aVKrishnanandanagar
+p498
+aVKrishnananda Nagar
+p499
+aVPhase 2
+p500
+aVPhase 2
+p501
+aVPhase 3
+p502
+aVPhase 2
+p503
+aVBlock 5
+p504
+aVBlock 1
+p505
+aVBlock 4
+p506
+aVBlock A Thirumala Nagar
+p507
+aVGattigere Layout
+p508
+aVBlock 2 Railway Layout
+p509
+aVBlock 1 Railway Layout
+p510
+aVPapajan Garden
+p511
+aV4 Block
+p512
+aVBlock 4
+p513
+aVHampi Nagar
+p514
+aVMEG Officers Colony
+p515
+aVEast of NGEF Layout
+p516
+aVDCA Quarters
+p517
+aVReliaable Tranquil Layout
+p518
+aVVanganahalli
+p519
+aVNew Friends Colony
+p520
+aVBDA Flats
+p521
+aVSmart Apartment
+p522
+aVSobha Opal Apartments
+p523
+aVVishya Bank Colony
+p524
+aVRajnish Apartment
+p525
+aVAnjanapura BDA Layout
+p526
+aVLakshmiamma Layout
+p527
+aVEscape Mall
+p528
+aVPhoenix Market City
+p529
+aVSalarpuria Hallmark
+p530
+aVRahja Arcade Shopping Complex
+p531
+aVVM Medows
+p532
+aVGarlic Complex
+p533
+aVMG Complex
+p534
+aVThe Advantage Raheja
+p535
+aVSR Complex
+p536
+aVCauvery Complex
+p537
+aVKHB Shopping Complex
+p538
+aVBDA Complex
+p539
+aVJal Block
+p540
+aVNovel Tech Park
+p541
+aVRichmond Pride
+p542
+aVE City Tower 1
+p543
+aVGomas Logistics Park
+p544
+aVIndiqube Alpha Building
+p545
+aVSri Balaji Complex
+p546
+aVTulasiram Complex
+p547
+aVRMZ Ecospace Business Park
+p548
+aVEastern Arcade
+p549
+aVRangaswamy Complex
+p550
+aVBoggarans Surya Complex
+p551
+aVAPMC Government Quarters
+p552
+aVPolice Quarters
+p553
+aVJenakal Siddeswara Nagar
+p554
+aVPanduram Ashram CHS
+p555
+aVG4
+p556
+aVJalamandala CHS
+p557
+aVMaruthi Infotech Centre
+p558
+aVPrestige Star
+p559
+aVSri Ranga IT Park
+p560
+aVTeachers Colony
+p561
+aVPatel Munivenkatappa Layout
+p562
+aVGlobal Tenchnology Park
+p563
+aVPhase 2 Block 7
+p564
+aVDattatreyanagar
+p565
+aVDattatreya Nagar
+p566
+aVBenaka Towers
+p567
+aVAkash Block
+p568
+aVShanti Park Apartment
+p569
+aVVakil Square
+p570
+aVPathfinder Building
+p571
+aVVB Complex
+p572
+aVVR Complex
+p573
+aVSalarpura Touch Stone
+p574
+aVOdyssey Building
+p575
+aVSoulspace Paradigh
+p576
+aVLotus Towers
+p577
+aVTejas Arcade
+p578
+aVAlankar Shopping Complex
+p579
+aVVenkatapp Building
+p580
+aVKempegowda Maharaja Complex
+p581
+aVBDA Shopping Complex
+p582
+aVBadani House
+p583
+aVPride Hulkul
+p584
+aVBengaluru Mahanagara Palike Commercial Office Complex
+p585
+aVLaxmi Towers
+p586
+aVPrestige Libra
+p587
+aVUnity Building
+p588
+aVPanchadeep Colony
+p589
+aVKEB Quarters
+p590
+aVTownship Sector B
+p591
+aVESI Hospital Staff Quarters
+p592
+aV1st A Block
+p593
+aVRaghuvanapalya
+p594
+aVG2
+p595
+aVNaralappa Layout
+p596
+aVGangamma Layout
+p597
+aVBBH Nurses Quarters
+p598
+aVBWS Quarters
+p599
+aVRamaiah Layout
+p600
+aVVenkatappa Layout
+p601
+aVAnand Nagar
+p602
+aVBalaji Nagar
+p603
+aVRangappa Layout
+p604
+aVBhubneshwari Nagar
+p605
+aVSri Sai Nagar
+p606
+aVShewta Enclave Phase 2 Block 6
+p607
+aVKnowledge Squre IT Park
+p608
+aVMarlabs
+p609
+aVSalarpuria Tower
+p610
+aVMittal Towers
+p611
+aVDivya Shree Chambers
+p612
+aVDivyasree Techno Park
+p613
+aVOzone Manay Tech Park
+p614
+aVAjmera Avenue
+p615
+aVGolden Enclave
+p616
+aVSaide Manzil
+p617
+aVKempe Gowda HMT Estate
+p618
+aVJubilant Discovery Centre
+p619
+aVSri Krishna Towers
+p620
+aVCMC Building
+p621
+aVVenkateshwara Techno Park
+p622
+aVPragathi Mahalakshmi
+p623
+aVBhadra Complex
+p624
+aVMICO Layout 2nd Stage
+p625
+aVStage 2
+p626
+aVAkshayanagar Block 1
+p627
+aVAkshaya Nagar 1 Block
+p628
+aVBlock 1
+p629
+aVBeech Building
+p630
+aVElectronic City Complex
+p631
+aVShopping Complex
+p632
+aVFortuna Tech Park
+p633
+aVDivyashree Green
+p634
+aVSJR 1 Park
+p635
+aVBDA Shopping Complex
+p636
+aVHarita IT Park
+p637
+a.

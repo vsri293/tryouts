@@ -1,0 +1,7535 @@
+B4-402,L&T Southcity Apartments,Arekere Mico layout,off.bannerghatta road
+
+Building prediciton with score : 
+---------------------------------------------
+b4-402 l&t southcity apartments -- 141
+l&t southcity apartments -- 141
+southcity apartments -- 141
+apartments arekere mico layout -- 65
+arekere mico layout -- 62
+mico layout -- 62
+arekere mico layout off.bannerghatta -- 4
+mico layout off.bannerghatta -- 4
+mico layout off.bannerghatta road -- 4
+l&t southcity apartments arekere -- 3
+southcity apartments arekere -- 3
+southcity apartments arekere mico -- 3
+apartments arekere -- 3
+apartments arekere mico -- 3
+layout off.bannerghatta -- 3
+layout off.bannerghatta road -- 3
+b4-402 l&t -- 0
+b4-402 l&t southcity -- 0
+l&t southcity -- 0
+arekere mico -- 0
+off.bannerghatta road -- 0
+---------------------------------------------
+*********************************************
+
+CenturyLink SALARPURIA HALLMARK BANGALORE KA 560103 India Kadubeesanahalli Varthur Hobli
+
+Building prediciton with score : 
+---------------------------------------------
+salarpuria hallmark bangalore ka -- 22
+centurylink salarpuria hallmark bangalore -- 16
+salarpuria hallmark bangalore -- 16
+centurylink salarpuria hallmark -- 14
+salarpuria hallmark -- 14
+ka 560103 india kadubeesanahalli -- 10
+560103 india kadubeesanahalli -- 10
+560103 india kadubeesanahalli varthur -- 10
+india kadubeesanahalli -- 10
+india kadubeesanahalli varthur -- 10
+india kadubeesanahalli varthur hobli -- 10
+hallmark bangalore ka -- 8
+hallmark bangalore ka 560103 -- 8
+bangalore ka 560103 india -- 8
+bangalore ka -- 7
+bangalore ka 560103 -- 7
+centurylink salarpuria -- 2
+hallmark bangalore -- 2
+ka 560103 india -- 1
+560103 india -- 1
+ka 560103 -- 0
+kadubeesanahalli varthur -- 0
+kadubeesanahalli varthur hobli -- 0
+varthur hobli -- 0
+---------------------------------------------
+*********************************************
+
+266 3rd Avenue 5th Main Teachers Colony Koramangala
+
+Building prediciton with score : 
+---------------------------------------------
+266 3rd avenue -- 18
+3rd avenue -- 18
+5th main teachers colony -- 12
+main teachers colony -- 12
+teachers colony -- 12
+266 3rd avenue 5th -- 6
+3rd avenue 5th -- 6
+3rd avenue 5th main -- 6
+avenue 5th -- 6
+avenue 5th main -- 6
+avenue 5th main teachers -- 6
+main teachers colony koramangala -- 1
+teachers colony koramangala -- 1
+colony koramangala -- 1
+266 3rd -- 0
+5th main -- 0
+5th main teachers -- 0
+main teachers -- 0
+---------------------------------------------
+*********************************************
+
+14/11 Airforce camp akash vihar,marathalli.
+
+Building prediciton with score : 
+---------------------------------------------
+airforce camp akash vihar -- 14
+camp akash vihar -- 14
+camp akash vihar marathalli. -- 14
+akash vihar -- 13
+akash vihar marathalli. -- 13
+vihar marathalli. -- 6
+14/11 airforce camp akash -- 1
+airforce camp akash -- 1
+camp akash -- 1
+14/11 airforce -- 0
+14/11 airforce camp -- 0
+airforce camp -- 0
+---------------------------------------------
+*********************************************
+
+B-102, KSSIDC Building Block 3, Electronic City, Bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+ kssidc building block -- 67
+kssidc building block -- 64
+building block -- 64
+kssidc building block 3 -- 59
+building block 3 -- 59
+block 3 -- 54
+building block 3  -- 46
+block 3  electronic -- 44
+block 3  -- 41
+3  electronic city -- 29
+ electronic city -- 28
+electronic city -- 25
+electronic city  bangalore -- 16
+city  bangalore -- 16
+ electronic city  -- 15
+b-102  kssidc building -- 14
+ kssidc building -- 14
+electronic city  -- 12
+city  -- 12
+kssidc building -- 11
+3  electronic -- 4
+ bangalore -- 4
+b-102  kssidc -- 3
+ kssidc -- 3
+ electronic -- 3
+3  -- 1
+b-102  -- 0
+---------------------------------------------
+*********************************************
+
+# 14 subhodhaya road , balaji layout, behind park plaza. ,marthalli
+
+Building prediciton with score : 
+---------------------------------------------
+  balaji layout -- 121
+ balaji layout -- 118
+balaji layout -- 115
+ balaji layout  -- 60
+balaji layout  behind -- 60
+balaji layout  -- 57
+ behind park plaza. -- 54
+park plaza.  marthalli -- 54
+behind park plaza. -- 51
+behind park plaza.  -- 51
+park plaza. -- 51
+park plaza.  -- 51
+layout  behind park -- 48
+ behind park -- 45
+behind park -- 42
+road   balaji -- 11
+  balaji -- 10
+ balaji -- 7
+layout  behind -- 6
+subhodhaya road   -- 4
+road   -- 4
+  -- 3
+layout  -- 3
+ behind -- 3
+plaza.  marthalli -- 3
+ marthalli -- 3
+14 subhodhaya road  -- 1
+subhodhaya road  -- 1
+road  -- 1
+# 14 -- 0
+# 14 subhodhaya -- 0
+# 14 subhodhaya road -- 0
+14 subhodhaya -- 0
+14 subhodhaya road -- 0
+subhodhaya road -- 0
+plaza.  -- 0
+---------------------------------------------
+*********************************************
+
+#4,1st floor,1st cross(left),New Byapanahalli Layout,Indira Nagar
+
+Building prediciton with score : 
+---------------------------------------------
+cross(left) new byapanahalli layout -- 67
+new byapanahalli layout -- 67
+byapanahalli layout -- 61
+new byapanahalli layout indira -- 10
+byapanahalli layout indira nagar -- 7
+layout indira nagar -- 7
+1st cross(left) new byapanahalli -- 6
+cross(left) new byapanahalli -- 6
+new byapanahalli -- 6
+byapanahalli layout indira -- 4
+layout indira -- 4
+indira nagar -- 4
+#4 1st -- 1
+#4 1st floor 1st -- 1
+1st floor 1st -- 1
+floor 1st -- 1
+#4 1st floor -- 0
+1st floor -- 0
+1st floor 1st cross(left) -- 0
+floor 1st cross(left) -- 0
+floor 1st cross(left) new -- 0
+1st cross(left) -- 0
+1st cross(left) new -- 0
+cross(left) new -- 0
+---------------------------------------------
+*********************************************
+
+#307, Saroj Habitat, Siridi Sai Nagar, Sai Baba Temple Cross, Munnekolala, post Marathahalli
+
+Building prediciton with score : 
+---------------------------------------------
+sai baba temple cross -- 249
+sai nagar  sai -- 243
+nagar  sai baba -- 239
+ sai baba temple -- 238
+siridi sai nagar  -- 236
+sai nagar  -- 236
+ siridi sai nagar -- 235
+ sai baba -- 235
+sai baba temple -- 235
+siridi sai nagar -- 232
+sai nagar -- 232
+sai baba -- 232
+baba temple cross  -- 21
+temple cross  munnekolala -- 21
+#307  saroj habitat -- 18
+ saroj habitat -- 18
+temple cross  -- 18
+baba temple cross -- 17
+saroj habitat -- 15
+temple cross -- 14
+habitat  siridi sai -- 13
+ saroj habitat  -- 11
+saroj habitat  siridi -- 11
+nagar  sai -- 11
+habitat  siridi -- 9
+saroj habitat  -- 8
+ siridi sai -- 7
+ sai -- 7
+cross  munnekolala -- 7
+cross  munnekolala  -- 7
+habitat  -- 6
+ munnekolala  post -- 6
+siridi sai -- 4
+nagar  -- 4
+cross  -- 4
+#307  saroj -- 3
+ saroj -- 3
+ siridi -- 3
+baba temple -- 3
+ munnekolala -- 3
+ munnekolala  -- 3
+munnekolala  post -- 3
+munnekolala  post marathahalli -- 3
+ post -- 3
+ post marathahalli -- 3
+#307  -- 0
+munnekolala  -- 0
+post marathahalli -- 0
+---------------------------------------------
+*********************************************
+
+Sarvodaya college of nursing,11/2,Magadi main road agrahara dasarahalli,beside raheja park appartment,Bangalore 79
+
+Building prediciton with score : 
+---------------------------------------------
+raheja park appartment bangalore -- 59
+beside raheja park appartment -- 58
+raheja park appartment -- 58
+park appartment bangalore 79 -- 58
+park appartment bangalore -- 52
+park appartment -- 51
+dasarahalli beside raheja park -- 49
+beside raheja park -- 49
+raheja park -- 49
+sarvodaya college of nursing -- 12
+college of nursing -- 12
+college of nursing 11/2 -- 12
+of nursing -- 12
+of nursing 11/2 -- 12
+of nursing 11/2 magadi -- 12
+appartment bangalore 79 -- 7
+bangalore 79 -- 7
+magadi main road agrahara -- 1
+main road agrahara -- 1
+main road agrahara dasarahalli -- 1
+road agrahara -- 1
+road agrahara dasarahalli -- 1
+road agrahara dasarahalli beside -- 1
+appartment bangalore -- 1
+sarvodaya college -- 0
+sarvodaya college of -- 0
+college of -- 0
+nursing 11/2 -- 0
+nursing 11/2 magadi -- 0
+nursing 11/2 magadi main -- 0
+11/2 magadi -- 0
+11/2 magadi main -- 0
+11/2 magadi main road -- 0
+magadi main -- 0
+magadi main road -- 0
+main road -- 0
+agrahara dasarahalli -- 0
+agrahara dasarahalli beside -- 0
+agrahara dasarahalli beside raheja -- 0
+dasarahalli beside -- 0
+dasarahalli beside raheja -- 0
+beside raheja -- 0
+---------------------------------------------
+*********************************************
+
+Tata Consultancy Services Unit V,Dhara Building, Salarpuria GR Tech Park, No.69/3 & 69/4, Mahadevapura,
+
+Building prediciton with score : 
+---------------------------------------------
+salarpuria gr tech park -- 70
+gr tech park  -- 65
+tech park  no.69/3 -- 58
+gr tech park -- 56
+tech park  -- 55
+park  no.69/3 -- 54
+park  no.69/3 & -- 54
+park  -- 51
+tech park -- 46
+ salarpuria gr tech -- 28
+salarpuria gr tech -- 25
+building  salarpuria gr -- 22
+unit v dhara building -- 17
+v dhara building -- 17
+ salarpuria gr -- 17
+salarpuria gr -- 14
+v dhara building  -- 11
+dhara building -- 11
+gr tech -- 11
+dhara building  salarpuria -- 10
+building  salarpuria -- 10
+services unit v dhara -- 6
+unit v dhara -- 6
+v dhara -- 6
+dhara building  -- 5
+building  -- 5
+ salarpuria -- 5
+ no.69/3 -- 3
+ no.69/3 & -- 3
+ no.69/3 & 69/4 -- 3
+& 69/4  mahadevapura -- 3
+69/4  mahadevapura -- 3
+69/4  mahadevapura  -- 3
+ mahadevapura -- 3
+ mahadevapura  -- 3
+tata consultancy -- 1
+tata consultancy services -- 1
+tata consultancy services unit -- 1
+consultancy services -- 0
+consultancy services unit -- 0
+consultancy services unit v -- 0
+services unit -- 0
+services unit v -- 0
+unit v -- 0
+no.69/3 & -- 0
+no.69/3 & 69/4 -- 0
+no.69/3 & 69/4  -- 0
+& 69/4 -- 0
+& 69/4  -- 0
+69/4  -- 0
+mahadevapura  -- 0
+---------------------------------------------
+*********************************************
+
+# 217, B Block, Divya Jyothi Royal County Apartments Manipal county road Singasandra
+
+Building prediciton with score : 
+---------------------------------------------
+jyothi royal county apartments -- 200
+royal county apartments -- 185
+county apartments -- 141
+divya jyothi royal county -- 78
+217  b block -- 75
+ b block -- 75
+b block -- 72
+jyothi royal county -- 66
+block  divya jyothi -- 60
+ b block  -- 56
+b block  divya -- 56
+b block  -- 53
+royal county -- 51
+royal county apartments manipal -- 47
+block  divya -- 43
+ divya jyothi royal -- 42
+block  -- 40
+divya jyothi royal -- 39
+jyothi royal -- 27
+ divya jyothi -- 20
+divya jyothi -- 17
+# 217  b -- 10
+217  b -- 10
+ b -- 10
+county apartments manipal county -- 10
+apartments manipal county -- 10
+manipal county -- 7
+ divya -- 3
+county apartments manipal -- 3
+apartments manipal -- 3
+apartments manipal county road -- 3
+manipal county road singasandra -- 1
+county road singasandra -- 1
+road singasandra -- 1
+# 217 -- 0
+# 217  -- 0
+217  -- 0
+manipal county road -- 0
+county road -- 0
+---------------------------------------------
+*********************************************
+
+mathru kripa,19 ground floor,nanjaapa road shanthi nagar,opp nirmala primary school
+
+Building prediciton with score : 
+---------------------------------------------
+road shanthi nagar opp -- 30
+shanthi nagar opp nirmala -- 30
+shanthi nagar opp -- 29
+nanjaapa road shanthi nagar -- 26
+road shanthi nagar -- 26
+shanthi nagar -- 25
+mathru kripa 19 ground -- 8
+mathru kripa -- 7
+mathru kripa 19 -- 7
+nagar opp nirmala primary -- 7
+nagar opp nirmala -- 5
+nagar opp -- 4
+opp nirmala primary -- 3
+opp nirmala primary school -- 3
+kripa 19 ground -- 2
+kripa 19 ground floor -- 2
+floor nanjaapa road shanthi -- 2
+nanjaapa road shanthi -- 2
+road shanthi -- 2
+nirmala primary -- 2
+nirmala primary school -- 2
+kripa 19 -- 1
+19 ground -- 1
+19 ground floor -- 1
+19 ground floor nanjaapa -- 1
+opp nirmala -- 1
+ground floor -- 0
+ground floor nanjaapa -- 0
+ground floor nanjaapa road -- 0
+floor nanjaapa -- 0
+floor nanjaapa road -- 0
+nanjaapa road -- 0
+primary school -- 0
+---------------------------------------------
+*********************************************
+
+Tech Mahindra Ltd. Plot No. 45 - 47, KIADB Industrial Area Phase - II, Electronic City
+
+Building prediciton with score : 
+---------------------------------------------
+area phase - ii -- 38
+phase - ii -- 38
+ii  electronic city -- 29
+ electronic city -- 28
+electronic city -- 25
+industrial area phase - -- 20
+phase - ii  -- 20
+area phase - -- 19
+phase - -- 19
+- ii -- 19
+ kiadb industrial area -- 7
+tech mahindra -- 4
+tech mahindra ltd. -- 4
+tech mahindra ltd. plot -- 4
+kiadb industrial area -- 4
+industrial area -- 4
+- ii  electronic -- 4
+ii  electronic -- 4
+- 47  kiadb -- 3
+47  kiadb -- 3
+47  kiadb industrial -- 3
+ kiadb -- 3
+ kiadb industrial -- 3
+ electronic -- 3
+kiadb industrial area phase -- 2
+industrial area phase -- 2
+area phase -- 1
+- ii  -- 1
+ii  -- 1
+mahindra ltd. -- 0
+mahindra ltd. plot -- 0
+mahindra ltd. plot no. -- 0
+ltd. plot -- 0
+ltd. plot no. -- 0
+ltd. plot no. 45 -- 0
+plot no. -- 0
+plot no. 45 -- 0
+plot no. 45 - -- 0
+no. 45 -- 0
+no. 45 - -- 0
+no. 45 - 47 -- 0
+45 - -- 0
+45 - 47 -- 0
+45 - 47  -- 0
+- 47 -- 0
+- 47  -- 0
+47  -- 0
+kiadb industrial -- 0
+---------------------------------------------
+*********************************************
+
+C/o Venktesh Reddy Room no.2, 1st floor House no-32, Panathur Village, Bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+ 1st floor house -- 89
+1st floor house -- 86
+floor house -- 86
+house no-32  panathur -- 18
+c/o venktesh reddy room -- 17
+venktesh reddy room -- 17
+venktesh reddy room no.2 -- 17
+reddy room -- 17
+reddy room no.2 -- 17
+reddy room no.2  -- 17
+1st floor house no-32 -- 15
+floor house no-32 -- 15
+floor house no-32  -- 15
+house no-32 -- 15
+house no-32  -- 15
+c/o venktesh reddy -- 14
+venktesh reddy -- 14
+no-32  panathur village -- 6
+ panathur village -- 6
+panathur village  bangalore -- 5
+village  bangalore -- 5
+room no.2  1st -- 4
+no.2  1st -- 4
+ 1st -- 4
+ panathur village  -- 4
+ bangalore -- 4
+no.2  1st floor -- 3
+ 1st floor -- 3
+no-32  panathur -- 3
+ panathur -- 3
+panathur village -- 3
+panathur village  -- 1
+village  -- 1
+c/o venktesh -- 0
+room no.2 -- 0
+room no.2  -- 0
+no.2  -- 0
+1st floor -- 0
+no-32  -- 0
+---------------------------------------------
+*********************************************
+
+Deloitte Consulting India Pvt Ltd, Block C, Divyasree Technopolis, Survey # 123 & 132/2, Yemlue Post, Yemlur, Off Old Airport Road, Bangalore 560037
+
+Building prediciton with score : 
+---------------------------------------------
+pvt ltd  block -- 69
+ltd  block -- 62
+ block -- 62
+ block c  -- 54
+block c  divyasree -- 54
+block c  -- 51
+ltd  block c -- 44
+ block c -- 44
+block c -- 41
+consulting india pvt ltd -- 31
+india pvt ltd -- 31
+pvt ltd -- 21
+india pvt ltd  -- 17
+c  divyasree -- 14
+c  divyasree technopolis -- 14
+c  -- 11
+road  bangalore 560037 -- 11
+deloitte consulting india pvt -- 10
+consulting india pvt -- 10
+india pvt -- 10
+ bangalore 560037 -- 10
+pvt ltd  -- 7
+bangalore 560037 -- 7
+ yemlur  off -- 6
+airport road  bangalore -- 6
+ off old airport -- 5
+road  bangalore -- 5
+old airport road  -- 4
+ bangalore -- 4
+ divyasree -- 3
+ divyasree technopolis -- 3
+ divyasree technopolis  -- 3
+divyasree technopolis  survey -- 3
+technopolis  survey -- 3
+technopolis  survey # -- 3
+ survey -- 3
+ survey # -- 3
+ survey # 123 -- 3
+& 132/2  yemlue -- 3
+132/2  yemlue -- 3
+132/2  yemlue post -- 3
+ yemlue -- 3
+ yemlue post -- 3
+ yemlue post  -- 3
+yemlue post  yemlur -- 3
+post  yemlur -- 3
+post  yemlur  -- 3
+ yemlur -- 3
+ yemlur  -- 3
+yemlur  off -- 3
+yemlur  off old -- 3
+ off -- 3
+ off old -- 3
+off old airport road -- 3
+old airport road -- 3
+off old airport -- 2
+old airport -- 2
+airport road  -- 2
+deloitte consulting india -- 1
+consulting india -- 1
+airport road -- 1
+road  -- 1
+deloitte consulting -- 0
+ltd  -- 0
+divyasree technopolis -- 0
+divyasree technopolis  -- 0
+technopolis  -- 0
+survey # -- 0
+survey # 123 -- 0
+survey # 123 & -- 0
+# 123 -- 0
+# 123 & -- 0
+# 123 & 132/2 -- 0
+123 & -- 0
+123 & 132/2 -- 0
+123 & 132/2  -- 0
+& 132/2 -- 0
+& 132/2  -- 0
+132/2  -- 0
+yemlue post -- 0
+yemlue post  -- 0
+post  -- 0
+yemlur  -- 0
+off old -- 0
+---------------------------------------------
+*********************************************
+
+Unisys Global Services - India 4th and 5th floor, Warp Tower, SJR I Park, Plot No. 13,14 & 15, EPIP Area, Whitefield Bangalore - 560066, India Extn: 080-40821692
+
+Building prediciton with score : 
+---------------------------------------------
+sjr i park  -- 63
+ sjr i park -- 57
+i park  plot -- 57
+sjr i park -- 54
+i park  -- 54
+park  plot -- 54
+park  plot no. -- 54
+park  -- 51
+india 4th and 5th -- 46
+i park -- 45
+4th and 5th -- 36
+4th and 5th floor -- 36
+and 5th -- 36
+and 5th floor -- 36
+and 5th floor  -- 36
+tower  sjr i -- 30
+ sjr i -- 24
+sjr i -- 21
+560066  india extn: -- 13
+ india extn: -- 13
+ india extn: 080-40821692 -- 13
+ whitefield bangalore - -- 11
+services - india 4th -- 10
+- india 4th -- 10
+- india 4th and -- 10
+india 4th -- 10
+india 4th and -- 10
+floor  warp tower -- 10
+ warp tower -- 10
+india extn: -- 10
+india extn: 080-40821692 -- 10
+ warp tower  -- 9
+warp tower  sjr -- 9
+tower  sjr -- 9
+whitefield bangalore - -- 8
+whitefield bangalore - 560066 -- 8
+warp tower -- 7
+bangalore - -- 7
+bangalore - 560066 -- 7
+bangalore - 560066  -- 7
+warp tower  -- 6
+tower  -- 6
+15  epip area -- 6
+ epip area -- 6
+epip area  whitefield -- 5
+area  whitefield -- 5
+area  whitefield bangalore -- 5
+ whitefield -- 5
+ whitefield bangalore -- 5
+global services - india -- 4
+- 560066  india -- 4
+560066  india -- 4
+ india -- 4
+unisys global services -- 3
+unisys global services - -- 3
+global services -- 3
+global services - -- 3
+5th floor  warp -- 3
+floor  warp -- 3
+ warp -- 3
+ sjr -- 3
+ plot -- 3
+ plot no. -- 3
+ plot no. 13 -- 3
+& 15  epip -- 3
+15  epip -- 3
+ epip -- 3
+ epip area  -- 3
+epip area -- 3
+whitefield bangalore -- 2
+unisys global -- 1
+services - india -- 1
+- india -- 1
+services - -- 0
+4th and -- 0
+5th floor -- 0
+5th floor  -- 0
+floor  -- 0
+plot no. -- 0
+plot no. 13 -- 0
+plot no. 13 14 -- 0
+no. 13 -- 0
+no. 13 14 -- 0
+no. 13 14 & -- 0
+13 14 -- 0
+13 14 & -- 0
+13 14 & 15 -- 0
+14 & -- 0
+14 & 15 -- 0
+14 & 15  -- 0
+& 15 -- 0
+& 15  -- 0
+15  -- 0
+epip area  -- 0
+area  -- 0
+- 560066 -- 0
+- 560066  -- 0
+560066  -- 0
+extn: 080-40821692 -- 0
+---------------------------------------------
+*********************************************
+
+#321/7, 7th B cross, 80 feet lakeside road, Jakkasandra
+
+Building prediciton with score : 
+---------------------------------------------
+b cross  80 -- 20
+7th b cross  -- 18
+ 7th b cross -- 17
+b cross  -- 17
+7th b cross -- 14
+b cross -- 13
+#321/7  7th b -- 11
+ 7th b -- 11
+7th b -- 8
+cross  80 -- 7
+cross  80 feet -- 7
+lakeside road  jakkasandra -- 5
+cross  -- 4
+road  jakkasandra -- 4
+#321/7  7th -- 3
+ 7th -- 3
+ 80 -- 3
+ 80 feet -- 3
+ 80 feet lakeside -- 3
+ jakkasandra -- 3
+feet lakeside road  -- 2
+lakeside road  -- 2
+80 feet lakeside road -- 1
+feet lakeside road -- 1
+lakeside road -- 1
+road  -- 1
+#321/7  -- 0
+80 feet -- 0
+80 feet lakeside -- 0
+feet lakeside -- 0
+---------------------------------------------
+*********************************************
+
+Bharath Petroleum bunk, Sarakki Signal B S, J. P. Nagar, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+b s  j. -- 34
+signal b s  -- 31
+b s  -- 31
+s  j. -- 21
+s  j. p. -- 21
+s  -- 18
+sarakki signal b s -- 13
+signal b s -- 13
+b s -- 13
+ sarakki signal b -- 10
+ karnataka  india -- 10
+sarakki signal b -- 7
+signal b -- 7
+p. nagar  bengaluru -- 7
+nagar  bengaluru -- 7
+nagar  bengaluru  -- 7
+karnataka  india -- 7
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+j. p. nagar  -- 4
+p. nagar  -- 4
+nagar  -- 4
+ india -- 4
+bharath petroleum -- 3
+bharath petroleum bunk -- 3
+bharath petroleum bunk  -- 3
+petroleum bunk  sarakki -- 3
+bunk  sarakki -- 3
+bunk  sarakki signal -- 3
+ sarakki -- 3
+ sarakki signal -- 3
+ j. -- 3
+ j. p. -- 3
+ j. p. nagar -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+petroleum bunk -- 0
+petroleum bunk  -- 0
+bunk  -- 0
+sarakki signal -- 0
+j. p. -- 0
+j. p. nagar -- 0
+p. nagar -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Davanam sarovar portico suites. Opp madiwala police station. Hosur main road near total mall ...Bangalore 560068
+
+Building prediciton with score : 
+---------------------------------------------
+opp madiwala police station. -- 18
+madiwala police station. -- 17
+madiwala police station. hosur -- 17
+police station. -- 17
+police station. hosur -- 17
+police station. hosur main -- 17
+davanam sarovar -- 7
+davanam sarovar portico -- 3
+davanam sarovar portico suites. -- 3
+sarovar portico -- 3
+sarovar portico suites. -- 3
+sarovar portico suites. opp -- 3
+road near total mall -- 2
+portico suites. opp madiwala -- 1
+suites. opp madiwala -- 1
+suites. opp madiwala police -- 1
+opp madiwala -- 1
+opp madiwala police -- 1
+hosur main road near -- 1
+main road near -- 1
+main road near total -- 1
+road near -- 1
+road near total -- 1
+near total mall -- 1
+near total mall ...bangalore -- 1
+total mall -- 1
+total mall ...bangalore -- 1
+total mall ...bangalore 560068 -- 1
+portico suites. -- 0
+portico suites. opp -- 0
+suites. opp -- 0
+madiwala police -- 0
+station. hosur -- 0
+station. hosur main -- 0
+station. hosur main road -- 0
+hosur main -- 0
+hosur main road -- 0
+main road -- 0
+near total -- 0
+mall ...bangalore -- 0
+mall ...bangalore 560068 -- 0
+...bangalore 560068 -- 0
+---------------------------------------------
+*********************************************
+
+#21, B cross, 2nd main road, Muneshwara block, Palace Guttahalli, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+muneshwara block  palace -- 72
+block  palace -- 72
+road  muneshwara block -- 63
+ muneshwara block -- 62
+muneshwara block -- 59
+block  palace guttahalli -- 55
+ muneshwara block  -- 43
+muneshwara block  -- 40
+block  -- 40
+ palace -- 32
+b cross  2nd -- 21
+ b cross  -- 20
+b cross  -- 17
+#21  b cross -- 16
+ b cross -- 16
+ palace guttahalli -- 15
+ palace guttahalli  -- 15
+palace guttahalli  bengaluru -- 15
+b cross -- 13
+palace guttahalli -- 12
+palace guttahalli  -- 12
+#21  b -- 10
+ b -- 10
+ karnataka  india -- 10
+cross  2nd -- 8
+cross  2nd main -- 8
+karnataka  india -- 7
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+cross  -- 4
+ 2nd -- 4
+ 2nd main -- 4
+ 2nd main road -- 4
+main road  muneshwara -- 4
+road  muneshwara -- 4
+ india -- 4
+ muneshwara -- 3
+guttahalli  bengaluru -- 3
+guttahalli  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+2nd main road  -- 2
+2nd main -- 1
+2nd main road -- 1
+main road  -- 1
+road  -- 1
+#21  -- 0
+main road -- 0
+guttahalli  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+E1-1102 Sobha Mayflower,Outer Ring Road ,Bellandur
+
+Building prediciton with score : 
+---------------------------------------------
+e1-1102 sobha mayflower outer -- 23
+sobha mayflower outer -- 23
+sobha mayflower outer ring -- 23
+e1-1102 sobha mayflower -- 22
+sobha mayflower -- 22
+ring road  bellandur -- 5
+road  bellandur -- 4
+ bellandur -- 3
+mayflower outer ring road -- 2
+outer ring road  -- 2
+ring road  -- 2
+mayflower outer -- 1
+mayflower outer ring -- 1
+outer ring road -- 1
+ring road -- 1
+road  -- 1
+e1-1102 sobha -- 0
+outer ring -- 0
+---------------------------------------------
+*********************************************
+
+10, 4th D main Mahalakshmi Layout, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+d main mahalakshmi layout -- 77
+main mahalakshmi layout -- 66
+mahalakshmi layout -- 66
+ 4th d main -- 14
+4th d main -- 11
+4th d main mahalakshmi -- 11
+d main -- 11
+d main mahalakshmi -- 11
+mahalakshmi layout  bengaluru -- 11
+ karnataka  india -- 10
+main mahalakshmi layout  -- 8
+mahalakshmi layout  -- 8
+karnataka  india -- 7
+layout  bengaluru -- 6
+layout  bengaluru  -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+10  4th d -- 4
+ 4th d -- 4
+ india -- 4
+10  4th -- 3
+ 4th -- 3
+layout  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+4th d -- 1
+10  -- 0
+main mahalakshmi -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Flat No. 203, Phase 2, Golden Park Apartments Kodichikkanahalli, Bommanahalli
+
+Building prediciton with score : 
+---------------------------------------------
+ golden park apartments -- 229
+golden park apartments -- 226
+park apartments -- 192
+golden park apartments kodichikkanahalli -- 88
+203  phase 2 -- 83
+ phase 2 -- 83
+phase 2 -- 80
+2  golden park -- 80
+ golden park -- 79
+golden park -- 76
+park apartments kodichikkanahalli -- 54
+park apartments kodichikkanahalli  -- 54
+ phase 2  -- 23
+phase 2  golden -- 23
+phase 2  -- 20
+apartments kodichikkanahalli  bommanahalli -- 6
+no. 203  phase -- 4
+203  phase -- 4
+ phase -- 4
+2  golden -- 4
+ golden -- 3
+apartments kodichikkanahalli -- 3
+apartments kodichikkanahalli  -- 3
+kodichikkanahalli  bommanahalli -- 3
+ bommanahalli -- 3
+2  -- 1
+flat no. -- 0
+flat no. 203 -- 0
+flat no. 203  -- 0
+no. 203 -- 0
+no. 203  -- 0
+203  -- 0
+kodichikkanahalli  -- 0
+---------------------------------------------
+*********************************************
+
+#3, VIVEKANANDA VASATHI SANKEERNA, 3RD CROSS, 7TH MAIN, JP NAGAR 2ND PHASE BANGALORE
+
+Building prediciton with score : 
+---------------------------------------------
+nagar 2nd phase bangalore -- 25
+2nd phase bangalore -- 21
+phase bangalore -- 20
+ jp nagar 2nd -- 11
+jp nagar 2nd phase -- 9
+cross  7th main -- 8
+jp nagar 2nd -- 8
+ 3rd cross  -- 7
+3rd cross  7th -- 7
+cross  7th -- 7
+main  jp nagar -- 6
+ jp nagar -- 6
+nagar 2nd phase -- 6
+nagar 2nd -- 5
+3rd cross  -- 4
+cross  -- 4
+ 7th main -- 4
+ 7th main  -- 4
+7th main  jp -- 4
+#3  vivekananda -- 3
+#3  vivekananda vasathi -- 3
+ vivekananda -- 3
+ vivekananda vasathi -- 3
+ vivekananda vasathi sankeerna -- 3
+vasathi sankeerna  3rd -- 3
+sankeerna  3rd -- 3
+sankeerna  3rd cross -- 3
+ 3rd -- 3
+ 3rd cross -- 3
+ 7th -- 3
+main  jp -- 3
+ jp -- 3
+jp nagar -- 3
+2nd phase -- 2
+7th main -- 1
+7th main  -- 1
+#3  -- 0
+vivekananda vasathi -- 0
+vivekananda vasathi sankeerna -- 0
+vivekananda vasathi sankeerna  -- 0
+vasathi sankeerna -- 0
+vasathi sankeerna  -- 0
+sankeerna  -- 0
+3rd cross -- 0
+main  -- 0
+---------------------------------------------
+*********************************************
+
+FlatNo:G-157,Sonestaa Meadows,Thubrahalli, Bangalore-560066
+
+Building prediciton with score : 
+---------------------------------------------
+flatno:g-157 sonestaa meadows -- 39
+sonestaa meadows -- 39
+meadows thubrahalli  bangalore-560066 -- 11
+flatno:g-157 sonestaa meadows thubrahalli -- 8
+sonestaa meadows thubrahalli -- 8
+sonestaa meadows thubrahalli  -- 8
+meadows thubrahalli -- 8
+meadows thubrahalli  -- 8
+thubrahalli  bangalore-560066 -- 3
+ bangalore-560066 -- 3
+flatno:g-157 sonestaa -- 0
+thubrahalli  -- 0
+---------------------------------------------
+*********************************************
+
+#1/2 4TH CROSS 4TH MAIN 4TH BLOCK NEAR NOORANI MASJID KALYAN NAGAR BANGALORE 560043
+
+Building prediciton with score : 
+---------------------------------------------
+4th main 4th block -- 59
+main 4th block -- 59
+4th block -- 59
+block near noorani masjid -- 41
+main 4th block near -- 40
+4th block near -- 40
+4th block near noorani -- 40
+block near -- 40
+block near noorani -- 40
+kalyan nagar bangalore 560043 -- 14
+nagar bangalore 560043 -- 11
+masjid kalyan nagar bangalore -- 8
+kalyan nagar bangalore -- 8
+bangalore 560043 -- 7
+nagar bangalore -- 5
+#1/2 4th cross 4th -- 4
+4th cross 4th -- 4
+4th cross 4th main -- 4
+cross 4th -- 4
+cross 4th main -- 4
+cross 4th main 4th -- 4
+noorani masjid kalyan nagar -- 3
+masjid kalyan nagar -- 3
+kalyan nagar -- 3
+near noorani masjid -- 1
+noorani masjid -- 1
+#1/2 4th -- 0
+#1/2 4th cross -- 0
+4th cross -- 0
+4th main -- 0
+4th main 4th -- 0
+main 4th -- 0
+near noorani -- 0
+near noorani masjid kalyan -- 0
+noorani masjid kalyan -- 0
+masjid kalyan -- 0
+---------------------------------------------
+*********************************************
+
+No.163,5th main road,opp.celebrate health store, Chamarajpet, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+ karnataka  india -- 10
+karnataka  india -- 7
+ chamarajpet  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+ india -- 4
+health store  chamarajpet -- 3
+store  chamarajpet -- 3
+store  chamarajpet  -- 3
+ chamarajpet -- 3
+ chamarajpet  -- 3
+chamarajpet  bengaluru -- 3
+chamarajpet  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+road opp.celebrate health store -- 2
+5th main road opp.celebrate -- 1
+main road opp.celebrate -- 1
+main road opp.celebrate health -- 1
+road opp.celebrate -- 1
+road opp.celebrate health -- 1
+opp.celebrate health store -- 1
+health store -- 1
+no.163 5th -- 0
+no.163 5th main -- 0
+no.163 5th main road -- 0
+5th main -- 0
+5th main road -- 0
+main road -- 0
+opp.celebrate health -- 0
+opp.celebrate health store  -- 0
+health store  -- 0
+store  -- 0
+chamarajpet  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+#24, 1st floor, damini nilaya 1st main road,samrudhi layout, Kumaraswamy layout 2nd stage
+
+Building prediciton with score : 
+---------------------------------------------
+floor  damini nilaya -- 255
+ damini nilaya -- 255
+damini nilaya -- 252
+layout  kumaraswamy layout -- 67
+ kumaraswamy layout -- 64
+main road samrudhi layout -- 62
+road samrudhi layout -- 62
+samrudhi layout -- 61
+kumaraswamy layout -- 61
+ damini nilaya 1st -- 13
+damini nilaya 1st -- 10
+nilaya 1st -- 10
+damini nilaya 1st main -- 9
+nilaya 1st main -- 9
+nilaya 1st main road -- 9
+ kumaraswamy layout 2nd -- 7
+samrudhi layout  kumaraswamy -- 6
+layout  kumaraswamy -- 6
+kumaraswamy layout 2nd stage -- 5
+layout 2nd stage -- 5
+#24  1st -- 4
+ 1st -- 4
+road samrudhi layout  -- 4
+kumaraswamy layout 2nd -- 4
+layout 2nd -- 4
+#24  1st floor -- 3
+ 1st floor -- 3
+ 1st floor  -- 3
+1st floor  damini -- 3
+floor  damini -- 3
+ damini -- 3
+samrudhi layout  -- 3
+layout  -- 3
+ kumaraswamy -- 3
+2nd stage -- 2
+1st main road samrudhi -- 1
+main road samrudhi -- 1
+road samrudhi -- 1
+#24  -- 0
+1st floor -- 0
+1st floor  -- 0
+floor  -- 0
+1st main -- 0
+1st main road -- 0
+main road -- 0
+---------------------------------------------
+*********************************************
+
+No - 614,62nd Cross,2nd Floor,Bhashyam Circle,Rajajinagar - 560010
+
+Building prediciton with score : 
+---------------------------------------------
+no - -- 7
+no - 614 -- 7
+no - 614 62nd -- 7
+614 62nd cross 2nd -- 5
+62nd cross 2nd -- 5
+62nd cross 2nd floor -- 5
+cross 2nd -- 5
+cross 2nd floor -- 5
+cross 2nd floor bhashyam -- 5
+2nd floor -- 1
+2nd floor bhashyam -- 1
+2nd floor bhashyam circle -- 1
+- 614 -- 0
+- 614 62nd -- 0
+- 614 62nd cross -- 0
+614 62nd -- 0
+614 62nd cross -- 0
+62nd cross -- 0
+floor bhashyam -- 0
+floor bhashyam circle -- 0
+floor bhashyam circle rajajinagar -- 0
+bhashyam circle -- 0
+bhashyam circle rajajinagar -- 0
+bhashyam circle rajajinagar - -- 0
+circle rajajinagar -- 0
+circle rajajinagar - -- 0
+circle rajajinagar - 560010 -- 0
+rajajinagar - -- 0
+rajajinagar - 560010 -- 0
+- 560010 -- 0
+---------------------------------------------
+*********************************************
+
+#252 3rd main 6th cross srinivasanagar
+
+Building prediciton with score : 
+---------------------------------------------
+main 6th cross srinivasanagar -- 4
+6th cross srinivasanagar -- 4
+cross srinivasanagar -- 4
+#252 3rd -- 0
+#252 3rd main -- 0
+#252 3rd main 6th -- 0
+3rd main -- 0
+3rd main 6th -- 0
+3rd main 6th cross -- 0
+main 6th -- 0
+main 6th cross -- 0
+6th cross -- 0
+---------------------------------------------
+*********************************************
+
+#808 Palm, SJR Park Vista ,Bellandur, Off sarjapur road ,Haralur road Bangalore, Karnataka, 560102 India
+
+Building prediciton with score : 
+---------------------------------------------
+ sjr park vista -- 76
+sjr park vista -- 73
+palm  sjr park -- 68
+sjr park vista  -- 66
+park vista -- 64
+park vista  bellandur -- 60
+park vista  -- 57
+ sjr park -- 54
+sjr park -- 51
+#808 palm  sjr -- 17
+palm  sjr -- 17
+#808 palm  -- 14
+palm  -- 14
+bangalore  karnataka  -- 13
+road bangalore  karnataka -- 11
+bangalore  karnataka -- 10
+vista  bellandur -- 9
+vista  bellandur  -- 9
+ karnataka  560102 -- 9
+haralur road bangalore  -- 8
+road bangalore  -- 8
+bangalore  -- 7
+karnataka  560102 india -- 7
+vista  -- 6
+ bellandur  off -- 6
+ karnataka  -- 6
+karnataka  560102 -- 6
+ haralur road bangalore -- 5
+sarjapur road  haralur -- 4
+road  haralur -- 4
+road  haralur road -- 4
+ 560102 india -- 4
+ sjr -- 3
+ bellandur -- 3
+ bellandur  -- 3
+bellandur  off -- 3
+bellandur  off sarjapur -- 3
+ off -- 3
+ off sarjapur -- 3
+ off sarjapur road -- 3
+ haralur -- 3
+ haralur road -- 3
+ karnataka -- 3
+karnataka  -- 3
+ 560102 -- 3
+haralur road bangalore -- 2
+road bangalore -- 2
+#808 palm -- 1
+off sarjapur road  -- 1
+sarjapur road  -- 1
+road  -- 1
+560102 india -- 1
+bellandur  -- 0
+off sarjapur -- 0
+off sarjapur road -- 0
+sarjapur road -- 0
+haralur road -- 0
+---------------------------------------------
+*********************************************
+
+Sjr palazza city,dodda kanneli,sarjapur main road
+
+Building prediciton with score : 
+---------------------------------------------
+sjr palazza city -- 34
+palazza city -- 25
+sjr palazza city dodda -- 21
+palazza city dodda -- 12
+palazza city dodda kanneli -- 12
+city dodda -- 12
+city dodda kanneli -- 12
+city dodda kanneli sarjapur -- 12
+sjr palazza -- 9
+dodda kanneli -- 0
+dodda kanneli sarjapur -- 0
+dodda kanneli sarjapur main -- 0
+kanneli sarjapur -- 0
+kanneli sarjapur main -- 0
+kanneli sarjapur main road -- 0
+sarjapur main -- 0
+sarjapur main road -- 0
+main road -- 0
+---------------------------------------------
+*********************************************
+
+SF2 # 10 Padmashree Apartments, Ramanna Garden, Ramachandrapura Main Rd. , Vidyaranyapura, Blore- 560097
+
+Building prediciton with score : 
+---------------------------------------------
+# 10 padmashree apartments -- 141
+10 padmashree apartments -- 141
+padmashree apartments -- 141
+apartments  ramanna garden -- 68
+ ramanna garden -- 65
+ramanna garden -- 62
+ ramanna garden  -- 37
+ramanna garden  ramachandrapura -- 37
+garden  ramachandrapura -- 37
+garden  ramachandrapura main -- 37
+ramanna garden  -- 34
+garden  -- 34
+padmashree apartments  ramanna -- 6
+apartments  ramanna -- 6
+rd.   vidyaranyapura -- 6
+  vidyaranyapura -- 6
+  vidyaranyapura  -- 6
+ vidyaranyapura  blore- -- 6
+10 padmashree apartments  -- 3
+padmashree apartments  -- 3
+apartments  -- 3
+ ramanna -- 3
+ ramachandrapura -- 3
+ ramachandrapura main -- 3
+ ramachandrapura main rd. -- 3
+main rd.   -- 3
+rd.   -- 3
+  -- 3
+ vidyaranyapura -- 3
+ vidyaranyapura  -- 3
+vidyaranyapura  blore- -- 3
+vidyaranyapura  blore- 560097 -- 3
+ blore- -- 3
+ blore- 560097 -- 3
+sf2 # -- 0
+sf2 # 10 -- 0
+sf2 # 10 padmashree -- 0
+# 10 -- 0
+# 10 padmashree -- 0
+10 padmashree -- 0
+ramachandrapura main -- 0
+ramachandrapura main rd. -- 0
+ramachandrapura main rd.  -- 0
+main rd. -- 0
+main rd.  -- 0
+rd.  -- 0
+vidyaranyapura  -- 0
+blore- 560097 -- 0
+---------------------------------------------
+*********************************************
+
+FA-53 HAL Old township behind hal hospital bangalore, Vimanapura
+
+Building prediciton with score : 
+---------------------------------------------
+fa-53 hal old township -- 18
+hal old township -- 18
+old township -- 14
+hal hospital bangalore  -- 13
+hospital bangalore  vimanapura -- 12
+bangalore  vimanapura -- 10
+hospital bangalore  -- 9
+hal old township behind -- 7
+behind hal hospital bangalore -- 7
+hal hospital bangalore -- 7
+bangalore  -- 7
+township behind hal hospital -- 5
+fa-53 hal old -- 4
+hal old -- 4
+behind hal hospital -- 4
+hal hospital -- 4
+old township behind -- 3
+old township behind hal -- 3
+hospital bangalore -- 3
+ vimanapura -- 3
+township behind -- 1
+township behind hal -- 1
+fa-53 hal -- 0
+behind hal -- 0
+---------------------------------------------
+*********************************************
+
+#13, 14 th main 8th f cross, Attiguppe, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+ karnataka  india -- 10
+f cross  attiguppe -- 7
+cross  attiguppe -- 7
+cross  attiguppe  -- 7
+karnataka  india -- 7
+ attiguppe  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+8th f cross  -- 4
+f cross  -- 4
+cross  -- 4
+ india -- 4
+#13  14 -- 3
+#13  14 th -- 3
+ 14 -- 3
+ 14 th -- 3
+ 14 th main -- 3
+ attiguppe -- 3
+ attiguppe  -- 3
+attiguppe  bengaluru -- 3
+attiguppe  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+#13  -- 0
+14 th -- 0
+14 th main -- 0
+14 th main 8th -- 0
+th main -- 0
+th main 8th -- 0
+th main 8th f -- 0
+main 8th -- 0
+main 8th f -- 0
+main 8th f cross -- 0
+8th f -- 0
+8th f cross -- 0
+f cross -- 0
+attiguppe  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Flat no.302, Gangotri presidency, 10th cross, 5th main, RK layout, Padmanabhanagar, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+main  rk layout -- 79
+ rk layout -- 79
+rk layout -- 76
+ rk layout  -- 21
+rk layout  padmanabhanagar -- 21
+rk layout  -- 18
+ karnataka  india -- 10
+no.302  gangotri presidency -- 7
+ gangotri presidency -- 7
+ 10th cross  -- 7
+10th cross  5th -- 7
+cross  5th -- 7
+cross  5th main -- 7
+karnataka  india -- 7
+layout  padmanabhanagar -- 6
+layout  padmanabhanagar  -- 6
+ padmanabhanagar  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+ gangotri presidency  -- 4
+gangotri presidency -- 4
+gangotri presidency  10th -- 4
+10th cross  -- 4
+cross  -- 4
+ india -- 4
+flat no.302  gangotri -- 3
+no.302  gangotri -- 3
+ gangotri -- 3
+presidency  10th -- 3
+presidency  10th cross -- 3
+ 10th -- 3
+ 10th cross -- 3
+ 5th -- 3
+ 5th main -- 3
+ 5th main  -- 3
+5th main  rk -- 3
+main  rk -- 3
+ rk -- 3
+layout  -- 3
+ padmanabhanagar -- 3
+ padmanabhanagar  -- 3
+padmanabhanagar  bengaluru -- 3
+padmanabhanagar  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+gangotri presidency  -- 1
+flat no.302 -- 0
+flat no.302  -- 0
+no.302  -- 0
+presidency  -- 0
+10th cross -- 0
+5th main -- 0
+5th main  -- 0
+main  -- 0
+padmanabhanagar  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Goldman Sachs Services Pvt. Ltd Crystal downs Embassy Golf Links Business Park, Embassy Golf Links Business Park, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+park  embassy golf -- 66
+business park  embassy -- 54
+park  embassy -- 54
+business park  bengaluru -- 54
+park  bengaluru -- 54
+park  bengaluru  -- 54
+links business park  -- 52
+links business park  -- 52
+business park  -- 51
+park  -- 51
+business park  -- 51
+park  -- 51
+golf links business park -- 50
+golf links business park -- 50
+links business park -- 43
+links business park -- 43
+business park -- 42
+business park -- 42
+ embassy golf links -- 22
+embassy golf links business -- 20
+embassy golf links business -- 20
+crystal downs embassy golf -- 19
+downs embassy golf links -- 19
+embassy golf links -- 19
+embassy golf links -- 19
+ embassy golf -- 15
+sachs services pvt. ltd -- 14
+services pvt. ltd -- 14
+pvt. ltd -- 14
+downs embassy golf -- 12
+embassy golf -- 12
+embassy golf -- 12
+ karnataka  india -- 10
+golf links business -- 8
+golf links business -- 8
+pvt. ltd crystal downs -- 7
+ltd crystal downs -- 7
+ltd crystal downs embassy -- 7
+crystal downs -- 7
+crystal downs embassy -- 7
+golf links -- 7
+golf links -- 7
+karnataka  india -- 7
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+services pvt. ltd crystal -- 5
+pvt. ltd crystal -- 5
+ltd crystal -- 5
+ india -- 4
+ embassy -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+links business -- 1
+links business -- 1
+goldman sachs -- 0
+goldman sachs services -- 0
+goldman sachs services pvt. -- 0
+sachs services -- 0
+sachs services pvt. -- 0
+services pvt. -- 0
+downs embassy -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+#21 mathrushree basaveshwara lyaout madanayakanahalli bangalore north
+
+Building prediciton with score : 
+---------------------------------------------
+lyaout madanayakanahalli bangalore north -- 7
+madanayakanahalli bangalore north -- 7
+bangalore north -- 7
+#21 mathrushree -- 1
+basaveshwara lyaout madanayakanahalli bangalore -- 1
+lyaout madanayakanahalli bangalore -- 1
+madanayakanahalli bangalore -- 1
+#21 mathrushree basaveshwara -- 0
+#21 mathrushree basaveshwara lyaout -- 0
+mathrushree basaveshwara -- 0
+mathrushree basaveshwara lyaout -- 0
+mathrushree basaveshwara lyaout madanayakanahalli -- 0
+basaveshwara lyaout -- 0
+basaveshwara lyaout madanayakanahalli -- 0
+lyaout madanayakanahalli -- 0
+---------------------------------------------
+*********************************************
+
+Blue Hyundai Car Showroom #620, Dr Rajkumar Road, Rajajinagar 2nd block
+
+Building prediciton with score : 
+---------------------------------------------
+ rajajinagar 2nd block -- 63
+rajajinagar 2nd block -- 60
+2nd block -- 60
+blue hyundai car showroom -- 10
+blue hyundai -- 6
+blue hyundai car -- 6
+#620  dr rajkumar -- 6
+ dr rajkumar -- 6
+ dr rajkumar road -- 6
+road  rajajinagar 2nd -- 5
+hyundai car showroom -- 4
+hyundai car showroom #620 -- 4
+car showroom -- 4
+car showroom #620 -- 4
+car showroom #620  -- 4
+dr rajkumar road  -- 4
+rajkumar road  rajajinagar -- 4
+road  rajajinagar -- 4
+ rajajinagar 2nd -- 4
+showroom #620  dr -- 3
+#620  dr -- 3
+ dr -- 3
+dr rajkumar -- 3
+dr rajkumar road -- 3
+ rajajinagar -- 3
+rajkumar road  -- 1
+road  -- 1
+rajajinagar 2nd -- 1
+hyundai car -- 0
+showroom #620 -- 0
+showroom #620  -- 0
+#620  -- 0
+rajkumar road -- 0
+---------------------------------------------
+*********************************************
+
+No.481 &#x2f;10  5th cross ra road ejipura bangalore. 560047 , Viveknagar  &#x28;Bangalore&#x29;
+
+Building prediciton with score : 
+---------------------------------------------
+ 5th cross ra -- 7
+cross ra road ejipura -- 6
+560047   viveknagar -- 6
+  viveknagar -- 6
+  viveknagar  -- 6
+ viveknagar  &#x28;bangalore&#x29; -- 6
+5th cross ra road -- 5
+cross ra road -- 5
+5th cross ra -- 4
+cross ra -- 4
+no.481 &#x2f;10  5th -- 3
+&#x2f;10  5th -- 3
+&#x2f;10  5th cross -- 3
+ 5th -- 3
+ 5th cross -- 3
+bangalore. 560047   -- 3
+560047   -- 3
+  -- 3
+ viveknagar -- 3
+ viveknagar  -- 3
+viveknagar  &#x28;bangalore&#x29; -- 3
+ &#x28;bangalore&#x29; -- 3
+ra road ejipura -- 2
+ra road ejipura bangalore. -- 2
+ra road -- 1
+road ejipura -- 1
+road ejipura bangalore. -- 1
+road ejipura bangalore. 560047 -- 1
+no.481 &#x2f;10 -- 0
+no.481 &#x2f;10  -- 0
+&#x2f;10  -- 0
+5th cross -- 0
+ejipura bangalore. -- 0
+ejipura bangalore. 560047 -- 0
+ejipura bangalore. 560047  -- 0
+bangalore. 560047 -- 0
+bangalore. 560047  -- 0
+560047  -- 0
+viveknagar  -- 0
+---------------------------------------------
+*********************************************
+
+#244 block C-2 ksrp police quatres koramangala 1st block bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+#244 block -- 59
+quatres koramangala 1st block -- 59
+koramangala 1st block -- 59
+1st block -- 59
+block c-2 ksrp police -- 41
+koramangala 1st block bangalore -- 41
+1st block bangalore -- 41
+block bangalore -- 41
+#244 block c-2 -- 40
+#244 block c-2 ksrp -- 40
+block c-2 -- 40
+block c-2 ksrp -- 40
+c-2 ksrp police quatres -- 18
+ksrp police quatres -- 18
+ksrp police quatres koramangala -- 18
+police quatres koramangala 1st -- 18
+police quatres -- 17
+police quatres koramangala -- 17
+c-2 ksrp police -- 1
+ksrp police -- 1
+quatres koramangala 1st -- 1
+koramangala 1st -- 1
+c-2 ksrp -- 0
+quatres koramangala -- 0
+---------------------------------------------
+*********************************************
+
+No.117, 1st Floor, 5th Main, Gururaja Layout BSK 3rd Stage Near Vidya Peeta Circle Ward No164
+
+Building prediciton with score : 
+---------------------------------------------
+main  gururaja layout -- 64
+ gururaja layout -- 64
+gururaja layout -- 61
+ gururaja layout bsk -- 6
+no.117  1st -- 4
+ 1st -- 4
+layout bsk 3rd stage -- 4
+no.117  1st floor -- 3
+ 1st floor -- 3
+ 1st floor  -- 3
+1st floor  5th -- 3
+floor  5th -- 3
+floor  5th main -- 3
+ 5th -- 3
+ 5th main -- 3
+ 5th main  -- 3
+5th main  gururaja -- 3
+main  gururaja -- 3
+ gururaja -- 3
+gururaja layout bsk -- 3
+gururaja layout bsk 3rd -- 3
+layout bsk -- 3
+layout bsk 3rd -- 3
+bsk 3rd stage -- 1
+3rd stage -- 1
+no.117  -- 0
+1st floor -- 0
+1st floor  -- 0
+floor  -- 0
+5th main -- 0
+5th main  -- 0
+main  -- 0
+bsk 3rd -- 0
+bsk 3rd stage near -- 0
+3rd stage near -- 0
+3rd stage near vidya -- 0
+stage near -- 0
+stage near vidya -- 0
+stage near vidya peeta -- 0
+near vidya -- 0
+near vidya peeta -- 0
+near vidya peeta circle -- 0
+vidya peeta -- 0
+vidya peeta circle -- 0
+vidya peeta circle ward -- 0
+peeta circle -- 0
+peeta circle ward -- 0
+peeta circle ward no164 -- 0
+circle ward -- 0
+circle ward no164 -- 0
+ward no164 -- 0
+---------------------------------------------
+*********************************************
+
+332 B Ranka Colony Billekahalli Bannerghatta Road
+
+Building prediciton with score : 
+---------------------------------------------
+332 b ranka colony -- 34
+b ranka colony -- 34
+b ranka colony billekahalli -- 23
+ranka colony -- 21
+332 b ranka -- 13
+b ranka -- 13
+ranka colony billekahalli -- 10
+ranka colony billekahalli bannerghatta -- 10
+332 b -- 7
+colony billekahalli -- 1
+colony billekahalli bannerghatta -- 1
+colony billekahalli bannerghatta road -- 1
+billekahalli bannerghatta -- 0
+billekahalli bannerghatta road -- 0
+bannerghatta road -- 0
+---------------------------------------------
+*********************************************
+
+R.Raju bulding opp Bombay dyeing Yaswant pur Banglore 22
+
+Building prediciton with score : 
+---------------------------------------------
+bulding opp bombay dyeing -- 2
+opp bombay dyeing -- 2
+opp bombay dyeing yaswant -- 2
+r.raju bulding opp bombay -- 1
+bulding opp bombay -- 1
+opp bombay -- 1
+bombay dyeing -- 1
+bombay dyeing yaswant -- 1
+bombay dyeing yaswant pur -- 1
+r.raju bulding -- 0
+r.raju bulding opp -- 0
+bulding opp -- 0
+dyeing yaswant -- 0
+dyeing yaswant pur -- 0
+dyeing yaswant pur banglore -- 0
+yaswant pur -- 0
+yaswant pur banglore -- 0
+yaswant pur banglore 22 -- 0
+pur banglore -- 0
+pur banglore 22 -- 0
+banglore 22 -- 0
+---------------------------------------------
+*********************************************
+
+Paladion Networks Pvt Ltd 49, 1st main 2nd floor Shilpa vidya building JP nagar 3rd phase
+
+Building prediciton with score : 
+---------------------------------------------
+paladion networks pvt ltd -- 21
+networks pvt ltd -- 21
+pvt ltd -- 21
+floor shilpa vidya building -- 12
+shilpa vidya building -- 12
+building jp nagar 3rd -- 12
+vidya building -- 11
+vidya building jp nagar -- 8
+building jp nagar -- 8
+jp nagar 3rd phase -- 8
+networks pvt ltd 49 -- 7
+pvt ltd 49 -- 7
+pvt ltd 49  -- 7
+jp nagar 3rd -- 7
+shilpa vidya building jp -- 6
+vidya building jp -- 5
+building jp -- 5
+nagar 3rd phase -- 5
+ltd 49  1st -- 4
+49  1st -- 4
+ 1st -- 4
+ 1st main 2nd -- 4
+nagar 3rd -- 4
+49  1st main -- 3
+ 1st main -- 3
+jp nagar -- 3
+2nd floor shilpa vidya -- 2
+1st main 2nd -- 1
+1st main 2nd floor -- 1
+main 2nd -- 1
+main 2nd floor -- 1
+main 2nd floor shilpa -- 1
+2nd floor -- 1
+2nd floor shilpa -- 1
+floor shilpa vidya -- 1
+shilpa vidya -- 1
+3rd phase -- 1
+paladion networks -- 0
+paladion networks pvt -- 0
+networks pvt -- 0
+ltd 49 -- 0
+ltd 49  -- 0
+49  -- 0
+1st main -- 0
+floor shilpa -- 0
+---------------------------------------------
+*********************************************
+
+#3E-201, DOS/ISRO HOUSING COLONY, DOMLUR, BANGALORE
+
+Building prediciton with score : 
+---------------------------------------------
+ dos/isro housing colony -- 30
+dos/isro housing colony -- 27
+housing colony -- 27
+housing colony  domlur -- 19
+dos/isro housing colony  -- 16
+housing colony  -- 16
+#3e-201  dos/isro housing -- 11
+ dos/isro housing -- 11
+dos/isro housing -- 8
+ domlur  bangalore -- 7
+colony  domlur -- 4
+colony  domlur  -- 4
+domlur  bangalore -- 4
+ bangalore -- 4
+#3e-201  dos/isro -- 3
+ dos/isro -- 3
+ domlur -- 3
+ domlur  -- 3
+colony  -- 1
+#3e-201  -- 0
+domlur  -- 0
+---------------------------------------------
+*********************************************
+
+#158 MURUGAN NILAYAM, M KUMAR BUILDING, 11th CROSS, DOUBLE CHURCH ROAD, A NARAYANAPURA
+
+Building prediciton with score : 
+---------------------------------------------
+#158 murugan nilayam -- 100
+murugan nilayam -- 100
+ m kumar building -- 24
+road  a narayanapura -- 22
+m kumar building -- 21
+ a narayanapura -- 21
+a narayanapura -- 18
+m kumar building  -- 15
+kumar building -- 15
+nilayam  m kumar -- 13
+ m kumar -- 13
+kumar building  11th -- 12
+church road  a -- 12
+road  a -- 12
+ a -- 11
+m kumar -- 10
+kumar building  -- 9
+building  11th -- 8
+building  11th cross -- 8
+ 11th cross  -- 7
+11th cross  double -- 7
+cross  double -- 7
+cross  double church -- 7
+building  -- 5
+11th cross  -- 4
+cross  -- 4
+murugan nilayam  m -- 3
+nilayam  m -- 3
+ m -- 3
+ 11th -- 3
+ 11th cross -- 3
+ double -- 3
+ double church -- 3
+ double church road -- 3
+double church road  -- 1
+church road  -- 1
+road  -- 1
+#158 murugan -- 0
+#158 murugan nilayam  -- 0
+murugan nilayam  -- 0
+nilayam  -- 0
+11th cross -- 0
+double church -- 0
+double church road -- 0
+church road -- 0
+---------------------------------------------
+*********************************************
+
+#105,Sapthagiri mobile shop, opp Govt college, Varthur, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+#105 sapthagiri mobile -- 18
+#105 sapthagiri mobile shop -- 18
+sapthagiri mobile -- 18
+sapthagiri mobile shop -- 18
+sapthagiri mobile shop  -- 18
+ karnataka  india -- 10
+karnataka  india -- 7
+ varthur  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+#105 sapthagiri -- 5
+ opp govt college -- 5
+shop  opp govt -- 4
+ opp govt -- 4
+govt college  varthur -- 4
+ india -- 4
+mobile shop  opp -- 3
+shop  opp -- 3
+ opp -- 3
+college  varthur -- 3
+college  varthur  -- 3
+ varthur -- 3
+ varthur  -- 3
+varthur  bengaluru -- 3
+varthur  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+opp govt college -- 2
+opp govt college  -- 2
+opp govt -- 1
+govt college -- 1
+govt college  -- 1
+mobile shop -- 0
+mobile shop  -- 0
+shop  -- 0
+college  -- 0
+varthur  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+No 1604, F Block Brooklyn Concorde Manhattans Electronic City Phase-1
+
+Building prediciton with score : 
+---------------------------------------------
+1604  f block -- 62
+ f block -- 62
+f block -- 59
+block brooklyn concorde manhattans -- 50
+ f block brooklyn -- 43
+f block brooklyn concorde -- 41
+block brooklyn concorde -- 41
+f block brooklyn -- 40
+block brooklyn -- 40
+concorde manhattans electronic city -- 34
+manhattans electronic city -- 25
+electronic city -- 25
+manhattans electronic city phase-1 -- 12
+electronic city phase-1 -- 12
+city phase-1 -- 12
+no 1604  f -- 10
+brooklyn concorde manhattans -- 10
+brooklyn concorde manhattans electronic -- 10
+concorde manhattans -- 9
+concorde manhattans electronic -- 9
+no 1604 -- 7
+no 1604  -- 7
+1604  f -- 3
+ f -- 3
+brooklyn concorde -- 1
+1604  -- 0
+manhattans electronic -- 0
+---------------------------------------------
+*********************************************
+
+No 32/5 Marqland Rupenna Aghara Hosur main road bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+no 32/5 -- 7
+no 32/5 marqland -- 7
+no 32/5 marqland rupenna -- 7
+hosur main road bangalore -- 2
+main road bangalore -- 2
+road bangalore -- 2
+32/5 marqland -- 0
+32/5 marqland rupenna -- 0
+32/5 marqland rupenna aghara -- 0
+marqland rupenna -- 0
+marqland rupenna aghara -- 0
+marqland rupenna aghara hosur -- 0
+rupenna aghara -- 0
+rupenna aghara hosur -- 0
+rupenna aghara hosur main -- 0
+aghara hosur -- 0
+aghara hosur main -- 0
+aghara hosur main road -- 0
+hosur main -- 0
+hosur main road -- 0
+main road -- 0
+---------------------------------------------
+*********************************************
+
+#39, 8th A crsManjunatha Nagar, Hormavu RDRamamurthy Nagar.Near Nava Jyothi School
+
+Building prediciton with score : 
+---------------------------------------------
+a crsmanjunatha nagar  -- 22
+ 8th a crsmanjunatha -- 21
+8th a crsmanjunatha -- 18
+8th a crsmanjunatha nagar -- 18
+a crsmanjunatha -- 18
+a crsmanjunatha nagar -- 18
+nagar.near nava jyothi school -- 15
+nava jyothi school -- 15
+jyothi school -- 15
+#39  8th a -- 11
+ 8th a -- 11
+8th a -- 8
+crsmanjunatha nagar  hormavu -- 7
+nagar  hormavu -- 7
+nagar  hormavu rdramamurthy -- 7
+rdramamurthy nagar.near nava jyothi -- 5
+nagar.near nava jyothi -- 5
+nava jyothi -- 5
+crsmanjunatha nagar  -- 4
+nagar  -- 4
+#39  8th -- 3
+ 8th -- 3
+ hormavu -- 3
+ hormavu rdramamurthy -- 3
+ hormavu rdramamurthy nagar.near -- 3
+#39  -- 0
+crsmanjunatha nagar -- 0
+hormavu rdramamurthy -- 0
+hormavu rdramamurthy nagar.near -- 0
+hormavu rdramamurthy nagar.near nava -- 0
+rdramamurthy nagar.near -- 0
+rdramamurthy nagar.near nava -- 0
+nagar.near nava -- 0
+---------------------------------------------
+*********************************************
+
+#16, Outer Ring Road, Bellandur, Bengaluru, Karnataka 560103
+
+Building prediciton with score : 
+---------------------------------------------
+ bellandur  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka 560103 -- 6
+ karnataka 560103 -- 6
+ring road  bellandur -- 5
+ outer ring road -- 4
+road  bellandur -- 4
+road  bellandur  -- 4
+#16  outer -- 3
+#16  outer ring -- 3
+ outer -- 3
+ outer ring -- 3
+ bellandur -- 3
+ bellandur  -- 3
+bellandur  bengaluru -- 3
+bellandur  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka 560103 -- 3
+outer ring road  -- 2
+ring road  -- 2
+outer ring road -- 1
+ring road -- 1
+road  -- 1
+#16  -- 0
+outer ring -- 0
+bellandur  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Gopalan Arcade Mall, Bengaluru, Karnataka, Rajarajeshwari Nagar, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+gopalan arcade -- 30
+ karnataka  india -- 10
+gopalan arcade mall -- 9
+gopalan arcade mall  -- 9
+ karnataka  rajarajeshwari -- 9
+ rajarajeshwari nagar  -- 7
+rajarajeshwari nagar  bengaluru -- 7
+nagar  bengaluru -- 7
+nagar  bengaluru  -- 7
+karnataka  india -- 7
+arcade mall  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+karnataka  rajarajeshwari -- 6
+karnataka  rajarajeshwari nagar -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+rajarajeshwari nagar  -- 4
+nagar  -- 4
+ india -- 4
+arcade mall -- 3
+arcade mall  -- 3
+mall  bengaluru -- 3
+mall  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+ rajarajeshwari -- 3
+ rajarajeshwari nagar -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+mall  -- 0
+bengaluru  -- 0
+rajarajeshwari nagar -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+No 30 Annai Illam krishnappa garden viveknagar post , Viveknagar  &#x28;Bangalore&#x29;
+
+Building prediciton with score : 
+---------------------------------------------
+annai illam krishnappa garden -- 63
+illam krishnappa garden -- 63
+krishnappa garden -- 63
+illam krishnappa garden viveknagar -- 35
+krishnappa garden viveknagar -- 35
+krishnappa garden viveknagar post -- 35
+garden viveknagar -- 34
+garden viveknagar post -- 34
+garden viveknagar post  -- 34
+no 30 annai illam -- 8
+no 30 -- 7
+no 30 annai -- 7
+post   viveknagar -- 6
+  viveknagar -- 6
+  viveknagar  -- 6
+ viveknagar  &#x28;bangalore&#x29; -- 6
+viveknagar post   -- 3
+post   -- 3
+  -- 3
+ viveknagar -- 3
+ viveknagar  -- 3
+viveknagar  &#x28;bangalore&#x29; -- 3
+ &#x28;bangalore&#x29; -- 3
+30 annai illam krishnappa -- 2
+annai illam krishnappa -- 2
+illam krishnappa -- 2
+30 annai illam -- 1
+annai illam -- 1
+30 annai -- 0
+viveknagar post -- 0
+viveknagar post  -- 0
+post  -- 0
+viveknagar  -- 0
+---------------------------------------------
+*********************************************
+
+Mountain trail food pvt #43beratena agrhara near state bank of india Hosalli road electronic city.benglore karnataka
+
+Building prediciton with score : 
+---------------------------------------------
+bank of india hosalli -- 37
+state bank of india -- 34
+bank of india -- 28
+of india hosalli -- 22
+of india hosalli road -- 22
+near state bank of -- 21
+state bank of -- 21
+bank of -- 15
+of india -- 13
+india hosalli road electronic -- 11
+india hosalli -- 10
+india hosalli road -- 10
+trail food pvt #43beratena -- 8
+food pvt #43beratena -- 8
+food pvt #43beratena agrhara -- 8
+pvt #43beratena -- 7
+pvt #43beratena agrhara -- 7
+pvt #43beratena agrhara near -- 7
+agrhara near state bank -- 6
+near state bank -- 6
+state bank -- 6
+mountain trail food pvt -- 1
+trail food pvt -- 1
+food pvt -- 1
+hosalli road electronic -- 1
+hosalli road electronic city.benglore -- 1
+road electronic -- 1
+road electronic city.benglore -- 1
+road electronic city.benglore karnataka -- 1
+mountain trail -- 0
+mountain trail food -- 0
+trail food -- 0
+#43beratena agrhara -- 0
+#43beratena agrhara near -- 0
+#43beratena agrhara near state -- 0
+agrhara near -- 0
+agrhara near state -- 0
+near state -- 0
+hosalli road -- 0
+electronic city.benglore -- 0
+electronic city.benglore karnataka -- 0
+city.benglore karnataka -- 0
+---------------------------------------------
+*********************************************
+
+No 154 2nd main road 2nd Cross kamalanagar
+
+Building prediciton with score : 
+---------------------------------------------
+no 154 2nd -- 8
+no 154 2nd main -- 8
+no 154 -- 7
+road 2nd cross kamalanagar -- 6
+2nd cross kamalanagar -- 5
+cross kamalanagar -- 4
+2nd main road 2nd -- 3
+main road 2nd -- 2
+main road 2nd cross -- 2
+road 2nd -- 2
+road 2nd cross -- 2
+154 2nd -- 1
+154 2nd main -- 1
+154 2nd main road -- 1
+2nd main -- 1
+2nd main road -- 1
+2nd cross -- 1
+main road -- 0
+---------------------------------------------
+*********************************************
+
+Flat no 302 A block inland everglades dasarahalli main road kempapura hebbal bangalore 560024
+
+Building prediciton with score : 
+---------------------------------------------
+no 302 a block -- 84
+302 a block -- 77
+a block -- 77
+a block inland everglades -- 60
+302 a block inland -- 58
+a block inland -- 58
+block inland everglades -- 42
+block inland everglades dasarahalli -- 42
+block inland -- 40
+flat no 302 a -- 15
+no 302 a -- 15
+302 a -- 8
+flat no 302 -- 7
+no 302 -- 7
+kempapura hebbal bangalore 560024 -- 7
+hebbal bangalore 560024 -- 7
+bangalore 560024 -- 7
+inland everglades -- 2
+inland everglades dasarahalli -- 2
+inland everglades dasarahalli main -- 2
+road kempapura hebbal bangalore -- 2
+dasarahalli main road kempapura -- 1
+main road kempapura -- 1
+main road kempapura hebbal -- 1
+road kempapura -- 1
+road kempapura hebbal -- 1
+kempapura hebbal bangalore -- 1
+hebbal bangalore -- 1
+flat no -- 0
+everglades dasarahalli -- 0
+everglades dasarahalli main -- 0
+everglades dasarahalli main road -- 0
+dasarahalli main -- 0
+dasarahalli main road -- 0
+main road -- 0
+kempapura hebbal -- 0
+---------------------------------------------
+*********************************************
+
+flat no30404 ,bhuvana greens sarjapur road bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+no30404  bhuvana greens -- 16
+ bhuvana greens -- 16
+bhuvana greens -- 13
+ bhuvana greens sarjapur -- 9
+bhuvana greens sarjapur -- 6
+bhuvana greens sarjapur road -- 6
+greens sarjapur road bangalore -- 6
+greens sarjapur -- 4
+greens sarjapur road -- 4
+flat no30404  bhuvana -- 3
+no30404  bhuvana -- 3
+ bhuvana -- 3
+sarjapur road bangalore -- 2
+road bangalore -- 2
+flat no30404 -- 0
+flat no30404  -- 0
+no30404  -- 0
+sarjapur road -- 0
+---------------------------------------------
+*********************************************
+
+#75, 2nd Floor, Flat S-02 11th Main, 14th Cross, HSR Layout Sector-6
+
+Building prediciton with score : 
+---------------------------------------------
+cross  hsr layout -- 68
+ hsr layout -- 64
+hsr layout -- 61
+ 14th cross  -- 7
+14th cross  hsr -- 7
+cross  hsr -- 7
+ hsr layout sector-6 -- 6
+#75  2nd -- 4
+#75  2nd floor -- 4
+ 2nd -- 4
+ 2nd floor -- 4
+ 2nd floor  -- 4
+2nd floor  flat -- 4
+14th cross  -- 4
+cross  -- 4
+floor  flat -- 3
+floor  flat s-02 -- 3
+ flat -- 3
+ flat s-02 -- 3
+ flat s-02 11th -- 3
+11th main  14th -- 3
+main  14th -- 3
+main  14th cross -- 3
+ 14th -- 3
+ 14th cross -- 3
+ hsr -- 3
+hsr layout sector-6 -- 3
+layout sector-6 -- 3
+2nd floor -- 1
+2nd floor  -- 1
+#75  -- 0
+floor  -- 0
+flat s-02 -- 0
+flat s-02 11th -- 0
+flat s-02 11th main -- 0
+s-02 11th -- 0
+s-02 11th main -- 0
+s-02 11th main  -- 0
+11th main -- 0
+11th main  -- 0
+main  -- 0
+14th cross -- 0
+---------------------------------------------
+*********************************************
+
+529, 4th Cross, 5th Main, Vijaya Bank Layout, Bannerghatta Raod
+
+Building prediciton with score : 
+---------------------------------------------
+ vijaya bank layout -- 102
+vijaya bank layout -- 99
+bank layout -- 76
+vijaya bank layout  -- 41
+main  vijaya bank -- 26
+ vijaya bank -- 26
+vijaya bank -- 23
+bank layout  bannerghatta -- 21
+bank layout  -- 18
+ 4th cross  -- 7
+4th cross  5th -- 7
+cross  5th -- 7
+cross  5th main -- 7
+layout  bannerghatta -- 6
+layout  bannerghatta raod -- 6
+4th cross  -- 4
+cross  -- 4
+529  4th -- 3
+529  4th cross -- 3
+ 4th -- 3
+ 4th cross -- 3
+ 5th -- 3
+ 5th main -- 3
+ 5th main  -- 3
+5th main  vijaya -- 3
+main  vijaya -- 3
+ vijaya -- 3
+layout  -- 3
+ bannerghatta -- 3
+ bannerghatta raod -- 3
+529  -- 0
+4th cross -- 0
+5th main -- 0
+5th main  -- 0
+main  -- 0
+bannerghatta raod -- 0
+---------------------------------------------
+*********************************************
+
+295/2,2nd cross. Pooja Garden,kalkere,hormoavu
+
+Building prediciton with score : 
+---------------------------------------------
+2nd cross. pooja garden -- 72
+cross. pooja garden -- 71
+pooja garden -- 71
+cross. pooja garden kalkere -- 43
+pooja garden kalkere -- 43
+pooja garden kalkere hormoavu -- 43
+garden kalkere -- 34
+garden kalkere hormoavu -- 34
+295/2 2nd -- 1
+295/2 2nd cross. -- 1
+295/2 2nd cross. pooja -- 1
+2nd cross. -- 1
+2nd cross. pooja -- 1
+cross. pooja -- 0
+kalkere hormoavu -- 0
+---------------------------------------------
+*********************************************
+
+#81, 2nd main, 5th cross, saraswathipuram, near saibaba temple. Bannergatta road. Bangalore. Karnataka
+
+Building prediciton with score : 
+---------------------------------------------
+ 5th cross  -- 7
+5th cross  saraswathipuram -- 7
+cross  saraswathipuram -- 7
+cross  saraswathipuram  -- 7
+ saraswathipuram  near -- 6
+#81  2nd -- 4
+#81  2nd main -- 4
+ 2nd -- 4
+ 2nd main -- 4
+ 2nd main  -- 4
+2nd main  5th -- 4
+5th cross  -- 4
+cross  -- 4
+main  5th -- 3
+main  5th cross -- 3
+ 5th -- 3
+ 5th cross -- 3
+ saraswathipuram -- 3
+ saraswathipuram  -- 3
+saraswathipuram  near -- 3
+saraswathipuram  near saibaba -- 3
+ near -- 3
+ near saibaba -- 3
+ near saibaba temple. -- 3
+2nd main -- 1
+2nd main  -- 1
+#81  -- 0
+main  -- 0
+5th cross -- 0
+saraswathipuram  -- 0
+near saibaba -- 0
+near saibaba temple. -- 0
+near saibaba temple. bannergatta -- 0
+saibaba temple. -- 0
+saibaba temple. bannergatta -- 0
+saibaba temple. bannergatta road. -- 0
+temple. bannergatta -- 0
+temple. bannergatta road. -- 0
+temple. bannergatta road. bangalore. -- 0
+bannergatta road. -- 0
+bannergatta road. bangalore. -- 0
+bannergatta road. bangalore. karnataka -- 0
+road. bangalore. -- 0
+road. bangalore. karnataka -- 0
+bangalore. karnataka -- 0
+---------------------------------------------
+*********************************************
+
+Motorola India Electronics LtdPlot 5, No 66/1Bagmane Tech ParkCV RamanNagar
+
+Building prediciton with score : 
+---------------------------------------------
+india electronics ltdplot 5 -- 14
+ no 66/1bagmane tech -- 11
+no 66/1bagmane tech parkcv -- 11
+motorola india electronics -- 10
+motorola india electronics ltdplot -- 10
+india electronics -- 10
+india electronics ltdplot -- 10
+5  no 66/1bagmane -- 10
+ no 66/1bagmane -- 10
+no 66/1bagmane tech -- 8
+no 66/1bagmane -- 7
+electronics ltdplot 5 -- 4
+ltdplot 5 -- 4
+66/1bagmane tech parkcv -- 4
+66/1bagmane tech parkcv ramannagar -- 4
+tech parkcv -- 4
+tech parkcv ramannagar -- 4
+ltdplot 5  no -- 3
+5  no -- 3
+ no -- 3
+motorola india -- 1
+66/1bagmane tech -- 1
+electronics ltdplot -- 0
+electronics ltdplot 5  -- 0
+ltdplot 5  -- 0
+5  -- 0
+parkcv ramannagar -- 0
+---------------------------------------------
+*********************************************
+
+#89, 2nd Floor, 6th Block, 2nd stage, 8th cross, Nagara Bhavi, opp to BDA complex, Bangaore-72
+
+Building prediciton with score : 
+---------------------------------------------
+floor  6th block -- 62
+ 6th block -- 62
+6th block -- 59
+block  2nd stage -- 45
+6th block  2nd -- 44
+block  2nd -- 44
+ 6th block  -- 43
+6th block  -- 40
+block  -- 40
+opp to bda complex -- 35
+to bda complex -- 34
+bda complex -- 33
+bda complex  bangaore-72 -- 15
+to bda complex  -- 13
+bda complex  -- 12
+ 8th cross  -- 7
+8th cross  nagara -- 7
+cross  nagara -- 7
+cross  nagara bhavi -- 7
+complex  bangaore-72 -- 6
+ 2nd stage -- 5
+ opp to bda -- 5
+#89  2nd -- 4
+#89  2nd floor -- 4
+ 2nd -- 4
+ 2nd floor -- 4
+ 2nd floor  -- 4
+2nd floor  6th -- 4
+ 2nd -- 4
+ 2nd stage  -- 4
+2nd stage  8th -- 4
+8th cross  -- 4
+cross  -- 4
+bhavi  opp to -- 4
+ opp to -- 4
+floor  6th -- 3
+ 6th -- 3
+stage  8th -- 3
+stage  8th cross -- 3
+ 8th -- 3
+ 8th cross -- 3
+ nagara -- 3
+ nagara bhavi -- 3
+ nagara bhavi  -- 3
+nagara bhavi  opp -- 3
+bhavi  opp -- 3
+ opp -- 3
+complex  -- 3
+ bangaore-72 -- 3
+2nd stage -- 2
+opp to bda -- 2
+2nd floor -- 1
+2nd floor  -- 1
+2nd stage  -- 1
+opp to -- 1
+to bda -- 1
+#89  -- 0
+floor  -- 0
+stage  -- 0
+8th cross -- 0
+nagara bhavi -- 0
+nagara bhavi  -- 0
+bhavi  -- 0
+---------------------------------------------
+*********************************************
+
+#47, 6th cross, near bilal masjid, opp salapuri apartment mangamanapalaya, bommanahalli
+
+Building prediciton with score : 
+---------------------------------------------
+ opp salapuri apartment -- 2105
+opp salapuri apartment -- 2102
+salapuri apartment -- 2101
+apartment mangamanapalaya  bommanahalli -- 45
+opp salapuri apartment mangamanapalaya -- 43
+salapuri apartment mangamanapalaya -- 42
+salapuri apartment mangamanapalaya  -- 42
+apartment mangamanapalaya -- 42
+apartment mangamanapalaya  -- 42
+ 6th cross  -- 7
+6th cross  near -- 7
+cross  near -- 7
+cross  near bilal -- 7
+6th cross  -- 4
+cross  -- 4
+ near bilal masjid -- 4
+masjid  opp salapuri -- 4
+ opp salapuri -- 4
+#47  6th -- 3
+#47  6th cross -- 3
+ 6th -- 3
+ 6th cross -- 3
+ near -- 3
+ near bilal -- 3
+bilal masjid  opp -- 3
+masjid  opp -- 3
+ opp -- 3
+mangamanapalaya  bommanahalli -- 3
+ bommanahalli -- 3
+near bilal masjid -- 1
+bilal masjid -- 1
+opp salapuri -- 1
+#47  -- 0
+6th cross -- 0
+near bilal -- 0
+near bilal masjid  -- 0
+bilal masjid  -- 0
+masjid  -- 0
+mangamanapalaya  -- 0
+---------------------------------------------
+*********************************************
+
+86 palyam house,zeomega infotech pvt ltd,south end road,basavangudi
+
+Building prediciton with score : 
+---------------------------------------------
+86 palyam house -- 86
+palyam house -- 86
+zeomega infotech pvt ltd -- 21
+infotech pvt ltd -- 21
+pvt ltd -- 21
+pvt ltd south end -- 20
+south end road basavangudi -- 20
+ltd south end road -- 19
+south end road -- 19
+86 palyam house zeomega -- 15
+palyam house zeomega -- 15
+palyam house zeomega infotech -- 15
+house zeomega -- 15
+house zeomega infotech -- 15
+house zeomega infotech pvt -- 15
+ltd south end -- 13
+south end -- 13
+end road basavangudi -- 8
+infotech pvt ltd south -- 7
+pvt ltd south -- 7
+end road -- 7
+road basavangudi -- 1
+86 palyam -- 0
+zeomega infotech -- 0
+zeomega infotech pvt -- 0
+infotech pvt -- 0
+ltd south -- 0
+---------------------------------------------
+*********************************************
+
+#157 m.krishna.reddy ,keerthi nivas B.E.L.M layout 4th main 4th cross kundanahalli ,bangalore-66
+
+Building prediciton with score : 
+---------------------------------------------
+m.krishna.reddy  keerthi nivas -- 160
+ keerthi nivas -- 160
+keerthi nivas -- 157
+keerthi nivas b.e.l.m layout -- 86
+nivas b.e.l.m layout -- 74
+b.e.l.m layout -- 61
+ keerthi nivas b.e.l.m -- 28
+keerthi nivas b.e.l.m -- 25
+nivas b.e.l.m layout 4th -- 16
+nivas b.e.l.m -- 13
+cross kundanahalli  bangalore-66 -- 7
+main 4th cross kundanahalli -- 4
+4th cross kundanahalli -- 4
+4th cross kundanahalli  -- 4
+cross kundanahalli -- 4
+cross kundanahalli  -- 4
+#157 m.krishna.reddy  keerthi -- 3
+m.krishna.reddy  keerthi -- 3
+ keerthi -- 3
+b.e.l.m layout 4th -- 3
+b.e.l.m layout 4th main -- 3
+layout 4th -- 3
+layout 4th main -- 3
+layout 4th main 4th -- 3
+kundanahalli  bangalore-66 -- 3
+ bangalore-66 -- 3
+#157 m.krishna.reddy -- 0
+#157 m.krishna.reddy  -- 0
+m.krishna.reddy  -- 0
+4th main -- 0
+4th main 4th -- 0
+4th main 4th cross -- 0
+main 4th -- 0
+main 4th cross -- 0
+4th cross -- 0
+kundanahalli  -- 0
+---------------------------------------------
+*********************************************
+
+Dr vaijayanti Shushrusha nursing home bbroad opp to R R gold palace yelhanka old town bangalore north
+
+Building prediciton with score : 
+---------------------------------------------
+r r gold palace -- 64
+r gold palace -- 54
+gold palace -- 44
+vaijayanti shushrusha nursing home -- 40
+shushrusha nursing home -- 40
+nursing home -- 40
+r gold palace yelhanka -- 37
+gold palace yelhanka -- 27
+gold palace yelhanka old -- 27
+to r r gold -- 21
+r r gold -- 20
+palace yelhanka old town -- 17
+home bbroad opp to -- 13
+shushrusha nursing home bbroad -- 12
+nursing home bbroad -- 12
+nursing home bbroad opp -- 12
+home bbroad -- 12
+home bbroad opp -- 12
+opp to r r -- 12
+palace yelhanka -- 12
+palace yelhanka old -- 12
+to r r -- 11
+r r -- 10
+r gold -- 10
+old town bangalore north -- 9
+town bangalore north -- 7
+bangalore north -- 7
+yelhanka old town -- 5
+old town -- 5
+dr vaijayanti -- 3
+dr vaijayanti shushrusha -- 3
+dr vaijayanti shushrusha nursing -- 3
+yelhanka old town bangalore -- 3
+old town bangalore -- 3
+bbroad opp to r -- 2
+opp to r -- 2
+bbroad opp to -- 1
+opp to -- 1
+to r -- 1
+town bangalore -- 1
+vaijayanti shushrusha -- 0
+vaijayanti shushrusha nursing -- 0
+shushrusha nursing -- 0
+bbroad opp -- 0
+yelhanka old -- 0
+---------------------------------------------
+*********************************************
+
+No:8,Krishnappa Building,10th Cross,Giriappa Layout,Kaggadaspura Main Road,C V Raman Nagar (Post)
+
+Building prediciton with score : 
+---------------------------------------------
+10th cross giriappa layout -- 65
+cross giriappa layout -- 65
+giriappa layout -- 61
+road c v raman -- 18
+c v raman -- 17
+c v raman nagar -- 17
+no:8 krishnappa building -- 12
+krishnappa building -- 12
+main road c v -- 12
+road c v -- 12
+c v -- 11
+v raman nagar (post) -- 10
+building 10th cross giriappa -- 9
+cross giriappa layout kaggadaspura -- 7
+no:8 krishnappa building 10th -- 6
+krishnappa building 10th -- 6
+krishnappa building 10th cross -- 6
+v raman -- 6
+v raman nagar -- 6
+building 10th -- 5
+building 10th cross -- 5
+10th cross giriappa -- 4
+cross giriappa -- 4
+raman nagar (post) -- 4
+nagar (post) -- 4
+giriappa layout kaggadaspura -- 3
+giriappa layout kaggadaspura main -- 3
+layout kaggadaspura -- 3
+layout kaggadaspura main -- 3
+layout kaggadaspura main road -- 3
+no:8 krishnappa -- 2
+kaggadaspura main road c -- 2
+main road c -- 2
+road c -- 2
+10th cross -- 0
+kaggadaspura main -- 0
+kaggadaspura main road -- 0
+main road -- 0
+raman nagar -- 0
+---------------------------------------------
+*********************************************
+
+Yeshodha ps,no 13 ,chaluvarayaswamy niilaya,2 nd cross, opp manasa bakery ,ayyappa nagar,kr puram,bangalore.
+
+Building prediciton with score : 
+---------------------------------------------
+ chaluvarayaswamy niilaya 2 -- 64
+chaluvarayaswamy niilaya 2 -- 61
+niilaya 2 -- 61
+nd cross  opp -- 13
+2 nd cross  -- 11
+no 13  chaluvarayaswamy -- 10
+nd cross  -- 10
+ayyappa nagar kr puram -- 9
+nagar kr puram -- 9
+nagar kr puram bangalore. -- 9
+yeshodha ps no 13 -- 8
+ps no 13 -- 8
+ps no 13  -- 8
+cross  opp manasa -- 8
+no 13 -- 7
+no 13  -- 7
+niilaya 2 nd cross -- 7
+2 nd cross -- 7
+cross  opp -- 7
+ ayyappa nagar kr -- 7
+nd cross -- 6
+ opp manasa bakery -- 5
+kr puram -- 5
+kr puram bangalore. -- 5
+cross  -- 4
+ opp manasa -- 4
+manasa bakery  ayyappa -- 4
+ayyappa nagar kr -- 4
+nagar kr -- 4
+13  chaluvarayaswamy -- 3
+13  chaluvarayaswamy niilaya -- 3
+ chaluvarayaswamy -- 3
+ chaluvarayaswamy niilaya -- 3
+ opp -- 3
+bakery  ayyappa -- 3
+bakery  ayyappa nagar -- 3
+ ayyappa -- 3
+ ayyappa nagar -- 3
+opp manasa bakery -- 2
+opp manasa bakery  -- 2
+yeshodha ps no -- 1
+ps no -- 1
+chaluvarayaswamy niilaya 2 nd -- 1
+niilaya 2 nd -- 1
+2 nd -- 1
+opp manasa -- 1
+manasa bakery -- 1
+manasa bakery  -- 1
+yeshodha ps -- 0
+13  -- 0
+chaluvarayaswamy niilaya -- 0
+bakery  -- 0
+ayyappa nagar -- 0
+puram bangalore. -- 0
+---------------------------------------------
+*********************************************
+
+No. 61 2nd main 1st cross, Balaji Layout, Vidyaranyapura, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+cross  balaji layout -- 122
+ balaji layout -- 118
+balaji layout -- 115
+ balaji layout  -- 60
+balaji layout  vidyaranyapura -- 60
+balaji layout  -- 57
+1st cross  balaji -- 11
+cross  balaji -- 11
+ karnataka  india -- 10
+ balaji -- 7
+karnataka  india -- 7
+layout  vidyaranyapura -- 6
+layout  vidyaranyapura  -- 6
+ vidyaranyapura  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+main 1st cross  -- 4
+1st cross  -- 4
+cross  -- 4
+ india -- 4
+layout  -- 3
+ vidyaranyapura -- 3
+ vidyaranyapura  -- 3
+vidyaranyapura  bengaluru -- 3
+vidyaranyapura  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+61 2nd main 1st -- 2
+2nd main 1st -- 2
+no. 61 2nd -- 1
+no. 61 2nd main -- 1
+61 2nd -- 1
+61 2nd main -- 1
+2nd main -- 1
+2nd main 1st cross -- 1
+main 1st -- 1
+no. 61 -- 0
+main 1st cross -- 0
+1st cross -- 0
+vidyaranyapura  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Flipkart,2nd floor, Cessna Business park, Embassy Tech Square Main Road, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103
+
+Building prediciton with score : 
+---------------------------------------------
+park  embassy tech -- 67
+road  kaverappa layout -- 65
+ kaverappa layout -- 64
+kaverappa layout -- 61
+business park  embassy -- 54
+park  embassy -- 54
+cessna business park  -- 51
+business park  -- 51
+park  -- 51
+ cessna business park -- 45
+cessna business park -- 42
+business park -- 42
+ embassy tech square -- 32
+embassy tech square -- 29
+embassy tech square main -- 19
+tech square -- 17
+ embassy tech -- 16
+embassy tech -- 13
+tech square main -- 7
+tech square main road -- 7
+ kaverappa layout  -- 6
+kaverappa layout  kadubeesanahalli -- 6
+layout  kadubeesanahalli -- 6
+layout  kadubeesanahalli  -- 6
+ kadubeesanahalli  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka 560103 -- 6
+ karnataka 560103 -- 6
+2nd floor  cessna -- 4
+square main road  -- 4
+main road  kaverappa -- 4
+road  kaverappa -- 4
+floor  cessna -- 3
+floor  cessna business -- 3
+ cessna -- 3
+ cessna business -- 3
+ embassy -- 3
+square main -- 3
+square main road -- 3
+ kaverappa -- 3
+kaverappa layout  -- 3
+layout  -- 3
+ kadubeesanahalli -- 3
+ kadubeesanahalli  -- 3
+kadubeesanahalli  bengaluru -- 3
+kadubeesanahalli  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka 560103 -- 3
+flipkart 2nd -- 1
+flipkart 2nd floor -- 1
+flipkart 2nd floor  -- 1
+2nd floor -- 1
+2nd floor  -- 1
+main road  -- 1
+road  -- 1
+floor  -- 0
+cessna business -- 0
+main road -- 0
+kadubeesanahalli  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+C 10 12 platinum city, HMT main road, yeshwanthpur, Bangalore 560022
+
+Building prediciton with score : 
+---------------------------------------------
+10 12 platinum city -- 29
+12 platinum city -- 29
+platinum city -- 28
+platinum city  hmt -- 18
+c 10 12 platinum -- 16
+12 platinum city  -- 16
+city  hmt main -- 16
+platinum city  -- 15
+city  hmt -- 15
+city  -- 12
+c 10 -- 11
+c 10 12 -- 11
+yeshwanthpur  bangalore 560022 -- 10
+ bangalore 560022 -- 10
+ yeshwanthpur  bangalore -- 7
+bangalore 560022 -- 7
+10 12 platinum -- 5
+12 platinum -- 5
+ hmt main -- 4
+ hmt main road -- 4
+main road  yeshwanthpur -- 4
+road  yeshwanthpur -- 4
+road  yeshwanthpur  -- 4
+yeshwanthpur  bangalore -- 4
+ bangalore -- 4
+ hmt -- 3
+ yeshwanthpur -- 3
+ yeshwanthpur  -- 3
+hmt main road  -- 2
+hmt main -- 1
+hmt main road -- 1
+main road  -- 1
+road  -- 1
+10 12 -- 0
+main road -- 0
+yeshwanthpur  -- 0
+---------------------------------------------
+*********************************************
+
+No 60 , 1st main , bikasipura , subramanyapura post , bangalore 61
+
+Building prediciton with score : 
+---------------------------------------------
+  bangalore 61 -- 13
+no 60   -- 10
+ bangalore 61 -- 10
+no 60 -- 7
+no 60  -- 7
+60   1st -- 7
+  1st -- 7
+post   bangalore -- 7
+  bangalore -- 7
+bangalore 61 -- 7
+  1st main -- 6
+main   bikasipura -- 6
+  bikasipura -- 6
+  bikasipura  -- 6
+ bikasipura   -- 6
+bikasipura   subramanyapura -- 6
+  subramanyapura -- 6
+  subramanyapura post -- 6
+ 1st -- 4
+ bangalore -- 4
+60   -- 3
+  -- 3
+ 1st main -- 3
+ 1st main  -- 3
+1st main   -- 3
+main   -- 3
+  -- 3
+ bikasipura -- 3
+ bikasipura  -- 3
+bikasipura   -- 3
+  -- 3
+ subramanyapura -- 3
+ subramanyapura post -- 3
+ subramanyapura post  -- 3
+subramanyapura post   -- 3
+post   -- 3
+  -- 3
+60  -- 0
+1st main -- 0
+1st main  -- 0
+main  -- 0
+bikasipura  -- 0
+subramanyapura post -- 0
+subramanyapura post  -- 0
+post  -- 0
+---------------------------------------------
+*********************************************
+
+Well Fargo Center, Bagmane World Technology K.R Puram Hobli, Mahadevapura, 560048
+
+Building prediciton with score : 
+---------------------------------------------
+ mahadevapura  560048 -- 6
+center  bagmane world -- 5
+ bagmane world -- 5
+ bagmane world technology -- 4
+fargo center  bagmane -- 3
+center  bagmane -- 3
+ bagmane -- 3
+puram hobli  mahadevapura -- 3
+hobli  mahadevapura -- 3
+hobli  mahadevapura  -- 3
+ mahadevapura -- 3
+ mahadevapura  -- 3
+mahadevapura  560048 -- 3
+ 560048 -- 3
+bagmane world -- 2
+well fargo center -- 1
+fargo center -- 1
+bagmane world technology -- 1
+bagmane world technology k.r -- 1
+world technology -- 1
+world technology k.r -- 1
+world technology k.r puram -- 1
+well fargo -- 0
+well fargo center  -- 0
+fargo center  -- 0
+center  -- 0
+technology k.r -- 0
+technology k.r puram -- 0
+technology k.r puram hobli -- 0
+k.r puram -- 0
+k.r puram hobli -- 0
+k.r puram hobli  -- 0
+puram hobli -- 0
+puram hobli  -- 0
+hobli  -- 0
+mahadevapura  -- 0
+---------------------------------------------
+*********************************************
+
+Flat #203, Fair Heavens, Doddenakundi
+
+Building prediciton with score : 
+---------------------------------------------
+#203  fair heavens -- 12
+ fair heavens -- 12
+ fair heavens  -- 10
+fair heavens  doddenakundi -- 10
+fair heavens -- 9
+fair heavens  -- 7
+flat #203  fair -- 3
+#203  fair -- 3
+ fair -- 3
+heavens  doddenakundi -- 3
+ doddenakundi -- 3
+flat #203 -- 0
+flat #203  -- 0
+#203  -- 0
+heavens  -- 0
+---------------------------------------------
+*********************************************
+
+Naryana No 401,siddhartha colony,madiwala bangalore,karnataka
+
+Building prediciton with score : 
+---------------------------------------------
+no 401 siddhartha colony -- 19
+401 siddhartha colony -- 12
+siddhartha colony -- 12
+colony madiwala bangalore karnataka -- 8
+naryana no 401 -- 7
+naryana no 401 siddhartha -- 7
+no 401 -- 7
+no 401 siddhartha -- 7
+madiwala bangalore karnataka -- 7
+bangalore karnataka -- 7
+siddhartha colony madiwala bangalore -- 2
+colony madiwala bangalore -- 2
+401 siddhartha colony madiwala -- 1
+siddhartha colony madiwala -- 1
+colony madiwala -- 1
+madiwala bangalore -- 1
+naryana no -- 0
+401 siddhartha -- 0
+---------------------------------------------
+*********************************************
+
+NO 140, 29TH CROSS, 7TH BLOCK JAYANAGAR
+
+Building prediciton with score : 
+---------------------------------------------
+cross  7th block -- 67
+ 7th block -- 63
+7th block -- 60
+ 7th block jayanagar -- 44
+7th block jayanagar -- 41
+block jayanagar -- 40
+no 140  29th -- 10
+no 140 -- 7
+no 140  -- 7
+ 29th cross  -- 7
+29th cross  7th -- 7
+cross  7th -- 7
+29th cross  -- 4
+cross  -- 4
+140  29th -- 3
+140  29th cross -- 3
+ 29th -- 3
+ 29th cross -- 3
+ 7th -- 3
+140  -- 0
+29th cross -- 0
+---------------------------------------------
+*********************************************
+
+No.02 1sr A kaggadasapura Mani road c.v.Raman nagar post Bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+no.02 1sr a kaggadasapura -- 18
+1sr a kaggadasapura -- 18
+1sr a kaggadasapura mani -- 18
+a kaggadasapura -- 18
+a kaggadasapura mani -- 18
+a kaggadasapura mani road -- 18
+no.02 1sr a -- 8
+1sr a -- 8
+road c.v.raman nagar post -- 5
+c.v.raman nagar post bangalore -- 5
+nagar post bangalore -- 5
+c.v.raman nagar post -- 4
+nagar post -- 4
+kaggadasapura mani road c.v.raman -- 1
+mani road c.v.raman -- 1
+mani road c.v.raman nagar -- 1
+road c.v.raman -- 1
+road c.v.raman nagar -- 1
+post bangalore -- 1
+no.02 1sr -- 0
+kaggadasapura mani -- 0
+kaggadasapura mani road -- 0
+mani road -- 0
+c.v.raman nagar -- 0
+---------------------------------------------
+*********************************************
+
+GEITC, JFWTC, Plot # 122, EPIP-Phase-2, Whitefield Rd
+
+Building prediciton with score : 
+---------------------------------------------
+ epip-phase-2  whitefield -- 8
+ jfwtc  plot -- 6
+epip-phase-2  whitefield -- 5
+ whitefield -- 5
+epip-phase-2  whitefield rd -- 4
+ whitefield rd -- 4
+geitc  jfwtc -- 3
+geitc  jfwtc  -- 3
+ jfwtc -- 3
+ jfwtc  -- 3
+jfwtc  plot -- 3
+jfwtc  plot # -- 3
+ plot -- 3
+ plot # -- 3
+ plot # 122 -- 3
+# 122  epip-phase-2 -- 3
+122  epip-phase-2 -- 3
+122  epip-phase-2  -- 3
+ epip-phase-2 -- 3
+ epip-phase-2  -- 3
+whitefield rd -- 1
+geitc  -- 0
+jfwtc  -- 0
+plot # -- 0
+plot # 122 -- 0
+plot # 122  -- 0
+# 122 -- 0
+# 122  -- 0
+122  -- 0
+epip-phase-2  -- 0
+---------------------------------------------
+*********************************************
+
+KisanKraft Machine Tools Private Limited, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+ karnataka  india -- 10
+karnataka  india -- 7
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+ india -- 4
+private limited  bengaluru -- 3
+limited  bengaluru -- 3
+limited  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+kisankraft machine -- 0
+kisankraft machine tools -- 0
+kisankraft machine tools private -- 0
+machine tools -- 0
+machine tools private -- 0
+machine tools private limited -- 0
+tools private -- 0
+tools private limited -- 0
+tools private limited  -- 0
+private limited -- 0
+private limited  -- 0
+limited  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+C/O Mr. Nanjunda No - 36/2, NV House, 3rd Floor, Flat no- C1, 3rd Cross, 5th Main, Byrasandra Main Road, G M Palya, Thippasandra,
+
+Building prediciton with score : 
+---------------------------------------------
+36/2  nv house -- 89
+ nv house -- 89
+nv house -- 86
+ g m palya -- 19
+ nv house  -- 18
+nv house  3rd -- 18
+house  3rd -- 18
+house  3rd floor -- 18
+g m palya -- 16
+nv house  -- 15
+house  -- 15
+g m palya  -- 12
+road  g m -- 10
+m palya -- 10
+ g m -- 9
+m palya  thippasandra -- 9
+mr. nanjunda no - -- 7
+nanjunda no - -- 7
+nanjunda no - 36/2 -- 7
+no - -- 7
+no - 36/2 -- 7
+no - 36/2  -- 7
+ 3rd cross  -- 7
+3rd cross  5th -- 7
+cross  5th -- 7
+cross  5th main -- 7
+g m -- 6
+m palya  -- 6
+3rd cross  -- 4
+cross  -- 4
+main road  g -- 4
+road  g -- 4
+- 36/2  nv -- 3
+36/2  nv -- 3
+ nv -- 3
+ 3rd -- 3
+ 3rd floor -- 3
+ 3rd floor  -- 3
+3rd floor  flat -- 3
+floor  flat -- 3
+floor  flat no- -- 3
+ flat -- 3
+ flat no- -- 3
+ flat no- c1 -- 3
+no- c1  3rd -- 3
+c1  3rd -- 3
+c1  3rd cross -- 3
+ 3rd -- 3
+ 3rd cross -- 3
+ 5th -- 3
+ 5th main -- 3
+ 5th main  -- 3
+5th main  byrasandra -- 3
+main  byrasandra -- 3
+main  byrasandra main -- 3
+ byrasandra -- 3
+ byrasandra main -- 3
+ byrasandra main road -- 3
+ g -- 3
+palya  thippasandra -- 3
+palya  thippasandra  -- 3
+ thippasandra -- 3
+ thippasandra  -- 3
+byrasandra main road  -- 1
+main road  -- 1
+road  -- 1
+c/o mr. -- 0
+c/o mr. nanjunda -- 0
+c/o mr. nanjunda no -- 0
+mr. nanjunda -- 0
+mr. nanjunda no -- 0
+nanjunda no -- 0
+- 36/2 -- 0
+- 36/2  -- 0
+36/2  -- 0
+3rd floor -- 0
+3rd floor  -- 0
+floor  -- 0
+flat no- -- 0
+flat no- c1 -- 0
+flat no- c1  -- 0
+no- c1 -- 0
+no- c1  -- 0
+c1  -- 0
+3rd cross -- 0
+5th main -- 0
+5th main  -- 0
+main  -- 0
+byrasandra main -- 0
+byrasandra main road -- 0
+main road -- 0
+palya  -- 0
+thippasandra  -- 0
+---------------------------------------------
+*********************************************
+
+No 5 tc palya main road Akshaya nagar near Aishwarya kalyana mandapa
+
+Building prediciton with score : 
+---------------------------------------------
+nagar near aishwarya kalyana -- 27
+near aishwarya kalyana -- 23
+near aishwarya kalyana mandapa -- 23
+aishwarya kalyana -- 23
+aishwarya kalyana mandapa -- 23
+akshaya nagar near aishwarya -- 18
+road akshaya nagar near -- 16
+akshaya nagar near -- 15
+main road akshaya nagar -- 12
+road akshaya nagar -- 12
+no 5 -- 11
+no 5 tc palya -- 11
+akshaya nagar -- 11
+no 5 tc -- 7
+nagar near aishwarya -- 7
+5 tc palya -- 4
+tc palya -- 4
+nagar near -- 4
+palya main road akshaya -- 3
+main road akshaya -- 3
+road akshaya -- 3
+near aishwarya -- 3
+5 tc -- 0
+5 tc palya main -- 0
+tc palya main -- 0
+tc palya main road -- 0
+palya main -- 0
+palya main road -- 0
+main road -- 0
+kalyana mandapa -- 0
+---------------------------------------------
+*********************************************
+
+#201,ssvr freesia varanasi main road t c palya ramamurthy nagar near indane gas godown bangalore 560036
+
+Building prediciton with score : 
+---------------------------------------------
+road t c palya -- 21
+t c palya -- 20
+t c palya ramamurthy -- 16
+c palya -- 15
+c palya ramamurthy -- 11
+c palya ramamurthy nagar -- 11
+main road t c -- 7
+road t c -- 7
+gas godown bangalore 560036 -- 7
+godown bangalore 560036 -- 7
+bangalore 560036 -- 7
+t c -- 6
+palya ramamurthy nagar near -- 4
+ramamurthy nagar near -- 4
+ramamurthy nagar near indane -- 4
+nagar near -- 4
+nagar near indane -- 4
+nagar near indane gas -- 4
+varanasi main road t -- 1
+main road t -- 1
+road t -- 1
+indane gas godown bangalore -- 1
+gas godown bangalore -- 1
+godown bangalore -- 1
+#201 ssvr -- 0
+#201 ssvr freesia -- 0
+#201 ssvr freesia varanasi -- 0
+ssvr freesia -- 0
+ssvr freesia varanasi -- 0
+ssvr freesia varanasi main -- 0
+freesia varanasi -- 0
+freesia varanasi main -- 0
+freesia varanasi main road -- 0
+varanasi main -- 0
+varanasi main road -- 0
+main road -- 0
+palya ramamurthy -- 0
+palya ramamurthy nagar -- 0
+ramamurthy nagar -- 0
+near indane -- 0
+near indane gas -- 0
+near indane gas godown -- 0
+indane gas -- 0
+indane gas godown -- 0
+gas godown -- 0
+---------------------------------------------
+*********************************************
+
+JAIN INTERNATIONAL RESIDENTIAL SCHOOL, JAKKASANDRA, KANAKAPURA MAIN ROAD, BANGALORE-562112
+
+Building prediciton with score : 
+---------------------------------------------
+jain international residential school -- 13
+residential school  jakkasandra -- 12
+international residential school -- 9
+international residential school  -- 9
+residential school -- 9
+residential school  -- 9
+jain international residential -- 7
+ jakkasandra  kanakapura -- 6
+jain international -- 4
+main road  bangalore-562112 -- 4
+road  bangalore-562112 -- 4
+international residential -- 3
+school  jakkasandra -- 3
+school  jakkasandra  -- 3
+ jakkasandra -- 3
+ jakkasandra  -- 3
+jakkasandra  kanakapura -- 3
+jakkasandra  kanakapura main -- 3
+ kanakapura -- 3
+ kanakapura main -- 3
+ kanakapura main road -- 3
+ bangalore-562112 -- 3
+kanakapura main road  -- 1
+main road  -- 1
+road  -- 1
+school  -- 0
+jakkasandra  -- 0
+kanakapura main -- 0
+kanakapura main road -- 0
+main road -- 0
+---------------------------------------------
+*********************************************
+
+#1281 ramaiah teacher .vijaylakshmi colony 3rd cross kadugodi .banglore 67
+
+Building prediciton with score : 
+---------------------------------------------
+ramaiah teacher .vijaylakshmi colony -- 17
+teacher .vijaylakshmi colony -- 12
+.vijaylakshmi colony -- 12
+#1281 ramaiah teacher -- 5
+#1281 ramaiah teacher .vijaylakshmi -- 5
+ramaiah teacher -- 5
+ramaiah teacher .vijaylakshmi -- 5
+colony 3rd cross kadugodi -- 5
+3rd cross kadugodi -- 4
+3rd cross kadugodi .banglore -- 4
+cross kadugodi -- 4
+cross kadugodi .banglore -- 4
+cross kadugodi .banglore 67 -- 4
+teacher .vijaylakshmi colony 3rd -- 1
+.vijaylakshmi colony 3rd -- 1
+.vijaylakshmi colony 3rd cross -- 1
+colony 3rd -- 1
+colony 3rd cross -- 1
+#1281 ramaiah -- 0
+teacher .vijaylakshmi -- 0
+3rd cross -- 0
+kadugodi .banglore -- 0
+kadugodi .banglore 67 -- 0
+.banglore 67 -- 0
+---------------------------------------------
+*********************************************
+
+Dell international services ltd, Divyashree greens, kormangala inner ring road, challaghatta, varthur hobli, domlur
+
+Building prediciton with score : 
+---------------------------------------------
+dell international services ltd -- 14
+international services ltd -- 14
+services ltd -- 14
+ltd  divyashree greens -- 14
+ divyashree greens -- 14
+divyashree greens -- 11
+ divyashree greens  -- 7
+divyashree greens  kormangala -- 7
+greens  kormangala -- 7
+greens  kormangala inner -- 7
+ challaghatta  varthur -- 6
+ring road  challaghatta -- 5
+divyashree greens  -- 4
+greens  -- 4
+road  challaghatta -- 4
+road  challaghatta  -- 4
+services ltd  divyashree -- 3
+ltd  divyashree -- 3
+ divyashree -- 3
+ kormangala -- 3
+ kormangala inner -- 3
+ kormangala inner ring -- 3
+ challaghatta -- 3
+ challaghatta  -- 3
+challaghatta  varthur -- 3
+challaghatta  varthur hobli -- 3
+ varthur -- 3
+ varthur hobli -- 3
+ varthur hobli  -- 3
+varthur hobli  domlur -- 3
+hobli  domlur -- 3
+ domlur -- 3
+inner ring road  -- 2
+ring road  -- 2
+kormangala inner ring road -- 1
+inner ring road -- 1
+ring road -- 1
+road  -- 1
+dell international -- 0
+dell international services -- 0
+international services -- 0
+international services ltd  -- 0
+services ltd  -- 0
+ltd  -- 0
+kormangala inner -- 0
+kormangala inner ring -- 0
+inner ring -- 0
+challaghatta  -- 0
+varthur hobli -- 0
+varthur hobli  -- 0
+hobli  -- 0
+---------------------------------------------
+*********************************************
+
+Ascent Capital Advisors India Pvt Ltd Concorde Block, 16th Floor, U.B. City, #24, Vittal Mallya Road, Bangalore-560 001
+
+Building prediciton with score : 
+---------------------------------------------
+pvt ltd concorde block -- 75
+ltd concorde block -- 68
+concorde block -- 68
+concorde block  16th -- 52
+ltd concorde block  -- 49
+concorde block  -- 49
+block  16th -- 43
+block  16th floor -- 43
+block  -- 40
+advisors india pvt ltd -- 31
+india pvt ltd -- 31
+floor  u.b. city -- 28
+ u.b. city -- 28
+u.b. city -- 25
+pvt ltd -- 21
+india pvt ltd concorde -- 17
+ u.b. city  -- 15
+u.b. city  #24 -- 15
+city  #24 -- 15
+city  #24  -- 15
+u.b. city  -- 12
+city  -- 12
+capital advisors india pvt -- 10
+advisors india pvt -- 10
+india pvt -- 10
+pvt ltd concorde -- 7
+ #24  vittal -- 6
+#24  vittal mallya -- 6
+ vittal mallya -- 6
+ vittal mallya road -- 6
+vittal mallya road  -- 4
+mallya road  bangalore-560 -- 4
+road  bangalore-560 -- 4
+road  bangalore-560 001 -- 4
+ascent capital advisors india -- 3
+ 16th -- 3
+ 16th floor -- 3
+ 16th floor  -- 3
+16th floor  u.b. -- 3
+floor  u.b. -- 3
+ u.b. -- 3
+ #24 -- 3
+ #24  -- 3
+#24  vittal -- 3
+ vittal -- 3
+vittal mallya -- 3
+vittal mallya road -- 3
+ bangalore-560 -- 3
+ bangalore-560 001 -- 3
+ascent capital -- 2
+ascent capital advisors -- 2
+capital advisors india -- 1
+advisors india -- 1
+mallya road  -- 1
+road  -- 1
+capital advisors -- 0
+ltd concorde -- 0
+16th floor -- 0
+16th floor  -- 0
+floor  -- 0
+#24  -- 0
+mallya road -- 0
+bangalore-560 001 -- 0
+---------------------------------------------
+*********************************************
+
+No.30 munikrishna layout koramangala road adugodi  bangalore 560030, adugodi
+
+Building prediciton with score : 
+---------------------------------------------
+no.30 munikrishna layout -- 61
+munikrishna layout -- 61
+adugodi  bangalore 560030 -- 10
+ bangalore 560030 -- 10
+ bangalore 560030  -- 10
+bangalore 560030  adugodi -- 10
+bangalore 560030 -- 7
+bangalore 560030  -- 7
+road adugodi  bangalore -- 5
+layout koramangala road adugodi -- 4
+adugodi  bangalore -- 4
+ bangalore -- 4
+no.30 munikrishna layout koramangala -- 3
+munikrishna layout koramangala -- 3
+munikrishna layout koramangala road -- 3
+layout koramangala -- 3
+layout koramangala road -- 3
+560030  adugodi -- 3
+ adugodi -- 3
+koramangala road adugodi -- 1
+koramangala road adugodi  -- 1
+road adugodi -- 1
+road adugodi  -- 1
+no.30 munikrishna -- 0
+koramangala road -- 0
+adugodi  -- 0
+560030  -- 0
+---------------------------------------------
+*********************************************
+
+#2052,ashray1st b main 10th cross,Hampinagara,Vijaynagar,bangalore-40
+
+Building prediciton with score : 
+---------------------------------------------
+#2052 ashray1st b main -- 13
+ashray1st b main -- 13
+ashray1st b main 10th -- 13
+b main -- 13
+b main 10th -- 13
+b main 10th cross -- 13
+#2052 ashray1st b -- 7
+ashray1st b -- 7
+main 10th cross hampinagara -- 4
+10th cross hampinagara -- 4
+10th cross hampinagara vijaynagar -- 4
+cross hampinagara -- 4
+cross hampinagara vijaynagar -- 4
+cross hampinagara vijaynagar bangalore-40 -- 4
+#2052 ashray1st -- 0
+main 10th -- 0
+main 10th cross -- 0
+10th cross -- 0
+hampinagara vijaynagar -- 0
+hampinagara vijaynagar bangalore-40 -- 0
+vijaynagar bangalore-40 -- 0
+---------------------------------------------
+*********************************************
+
+No. 21, 18th main, JC nagar, mahalakshmipuram, bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+ jc nagar  -- 7
+jc nagar  mahalakshmipuram -- 7
+nagar  mahalakshmipuram -- 7
+nagar  mahalakshmipuram  -- 7
+ mahalakshmipuram  bangalore -- 7
+jc nagar  -- 4
+nagar  -- 4
+mahalakshmipuram  bangalore -- 4
+ bangalore -- 4
+no. 21  18th -- 3
+21  18th -- 3
+21  18th main -- 3
+ 18th -- 3
+ 18th main -- 3
+ 18th main  -- 3
+18th main  jc -- 3
+main  jc -- 3
+main  jc nagar -- 3
+ jc -- 3
+ jc nagar -- 3
+ mahalakshmipuram -- 3
+ mahalakshmipuram  -- 3
+no. 21 -- 0
+no. 21  -- 0
+21  -- 0
+18th main -- 0
+18th main  -- 0
+main  -- 0
+jc nagar -- 0
+mahalakshmipuram  -- 0
+---------------------------------------------
+*********************************************
+
+Old Madras Rd, Bennigana Halli, Bengaluru, Karnataka 560016
+
+Building prediciton with score : 
+---------------------------------------------
+ bengaluru  karnataka -- 6
+bengaluru  karnataka 560016 -- 6
+ karnataka 560016 -- 6
+madras rd  bennigana -- 3
+rd  bennigana -- 3
+rd  bennigana halli -- 3
+ bennigana -- 3
+ bennigana halli -- 3
+ bennigana halli  -- 3
+bennigana halli  bengaluru -- 3
+halli  bengaluru -- 3
+halli  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka 560016 -- 3
+old madras -- 2
+old madras rd -- 2
+old madras rd  -- 2
+madras rd -- 0
+madras rd  -- 0
+rd  -- 0
+bennigana halli -- 0
+bennigana halli  -- 0
+halli  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Transguard security services pvt.ltd, #638,1st floor, kr puram new extn, kr puram, bangalore-560036.
+
+Building prediciton with score : 
+---------------------------------------------
+kr puram new extn -- 11
+new extn  kr -- 9
+floor  kr puram -- 8
+ kr puram -- 8
+ kr puram new -- 8
+extn  kr puram -- 8
+ kr puram -- 8
+ kr puram  -- 8
+kr puram  bangalore-560036. -- 8
+puram new extn -- 6
+puram new extn  -- 6
+new extn -- 6
+new extn  -- 6
+kr puram -- 5
+kr puram new -- 5
+kr puram -- 5
+kr puram  -- 5
+pvt.ltd  #638 1st -- 4
+ #638 1st -- 4
+services pvt.ltd  #638 -- 3
+pvt.ltd  #638 -- 3
+ #638 -- 3
+ #638 1st floor -- 3
+1st floor  kr -- 3
+floor  kr -- 3
+ kr -- 3
+extn  kr -- 3
+ kr -- 3
+puram  bangalore-560036. -- 3
+ bangalore-560036. -- 3
+#638 1st -- 1
+transguard security -- 0
+transguard security services -- 0
+transguard security services pvt.ltd -- 0
+security services -- 0
+security services pvt.ltd -- 0
+security services pvt.ltd  -- 0
+services pvt.ltd -- 0
+services pvt.ltd  -- 0
+pvt.ltd  -- 0
+#638 1st floor -- 0
+#638 1st floor  -- 0
+1st floor -- 0
+1st floor  -- 0
+floor  -- 0
+puram new -- 0
+extn  -- 0
+puram  -- 0
+---------------------------------------------
+*********************************************
+
+Kongovi electronics pvt.ltd #377,10th cross, Iv phase peeenya industrial area bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+phase peeenya industrial area -- 23
+ iv phase peeenya -- 22
+iv phase peeenya -- 19
+iv phase peeenya industrial -- 19
+phase peeenya -- 19
+phase peeenya industrial -- 19
+10th cross  iv -- 8
+cross  iv -- 8
+cross  iv phase -- 8
+#377 10th cross  -- 4
+10th cross  -- 4
+cross  -- 4
+ iv -- 4
+ iv phase -- 4
+peeenya industrial area -- 4
+industrial area -- 4
+peeenya industrial area bangalore -- 2
+industrial area bangalore -- 2
+iv phase -- 1
+area bangalore -- 1
+kongovi electronics -- 0
+kongovi electronics pvt.ltd -- 0
+kongovi electronics pvt.ltd #377 -- 0
+electronics pvt.ltd -- 0
+electronics pvt.ltd #377 -- 0
+electronics pvt.ltd #377 10th -- 0
+pvt.ltd #377 -- 0
+pvt.ltd #377 10th -- 0
+pvt.ltd #377 10th cross -- 0
+#377 10th -- 0
+#377 10th cross -- 0
+10th cross -- 0
+peeenya industrial -- 0
+---------------------------------------------
+*********************************************
+
+#3,Soma sundar building, 16th Cross Ejipura
+
+Building prediciton with score : 
+---------------------------------------------
+#3 soma sundar building -- 17
+soma sundar building -- 17
+sundar building -- 17
+sundar building  16th -- 14
+soma sundar building  -- 11
+sundar building  -- 11
+building  16th -- 8
+building  16th cross -- 8
+ 16th cross ejipura -- 7
+building  -- 5
+16th cross ejipura -- 4
+cross ejipura -- 4
+ 16th -- 3
+ 16th cross -- 3
+#3 soma -- 0
+#3 soma sundar -- 0
+soma sundar -- 0
+16th cross -- 0
+---------------------------------------------
+*********************************************
+
+#56/57 6th cross prethi Nagar Laggare
+
+Building prediciton with score : 
+---------------------------------------------
+cross prethi nagar laggare -- 8
+#56/57 6th cross prethi -- 4
+6th cross prethi -- 4
+6th cross prethi nagar -- 4
+cross prethi -- 4
+cross prethi nagar -- 4
+prethi nagar laggare -- 4
+nagar laggare -- 4
+#56/57 6th -- 0
+#56/57 6th cross -- 0
+6th cross -- 0
+prethi nagar -- 0
+---------------------------------------------
+*********************************************
+
+No 41/1, 2nd floor, Cross Road, Khazi Street , Basavangudi
+
+Building prediciton with score : 
+---------------------------------------------
+no 41/1  2nd -- 11
+ cross road  -- 8
+cross road  khazi -- 8
+no 41/1 -- 7
+no 41/1  -- 7
+floor  cross road -- 7
+ cross road -- 7
+street   basavangudi -- 6
+  basavangudi -- 6
+cross road  -- 5
+41/1  2nd -- 4
+41/1  2nd floor -- 4
+ 2nd -- 4
+ 2nd floor -- 4
+ 2nd floor  -- 4
+2nd floor  cross -- 4
+cross road -- 4
+road  khazi -- 4
+road  khazi street -- 4
+floor  cross -- 3
+ cross -- 3
+ khazi -- 3
+ khazi street -- 3
+ khazi street  -- 3
+khazi street   -- 3
+street   -- 3
+  -- 3
+ basavangudi -- 3
+2nd floor -- 1
+2nd floor  -- 1
+road  -- 1
+41/1  -- 0
+floor  -- 0
+khazi street -- 0
+khazi street  -- 0
+street  -- 0
+---------------------------------------------
+*********************************************
+
+HCG (Banglore institute of oncology), no44/45,Rajaram mohan roy extention, double road, banglore
+
+Building prediciton with score : 
+---------------------------------------------
+of oncology)  no44/45 -- 15
+(banglore institute of oncology) -- 12
+institute of oncology) -- 12
+institute of oncology)  -- 12
+of oncology) -- 12
+of oncology)  -- 12
+no44/45 rajaram mohan roy -- 4
+rajaram mohan roy -- 4
+rajaram mohan roy extention -- 4
+mohan roy -- 4
+mohan roy extention -- 4
+mohan roy extention  -- 4
+ double road  -- 4
+double road  banglore -- 4
+road  banglore -- 4
+oncology)  no44/45 -- 3
+oncology)  no44/45 rajaram -- 3
+ no44/45 -- 3
+ no44/45 rajaram -- 3
+ no44/45 rajaram mohan -- 3
+roy extention  double -- 3
+extention  double -- 3
+extention  double road -- 3
+ double -- 3
+ double road -- 3
+ banglore -- 3
+double road  -- 1
+road  -- 1
+hcg (banglore -- 0
+hcg (banglore institute -- 0
+hcg (banglore institute of -- 0
+(banglore institute -- 0
+(banglore institute of -- 0
+institute of -- 0
+oncology)  -- 0
+no44/45 rajaram -- 0
+no44/45 rajaram mohan -- 0
+rajaram mohan -- 0
+roy extention -- 0
+roy extention  -- 0
+extention  -- 0
+double road -- 0
+---------------------------------------------
+*********************************************
+
+Juice chariot #15 shankarnag road domlur Bengaluru 560071
+
+Building prediciton with score : 
+---------------------------------------------
+#15 shankarnag road domlur -- 1
+shankarnag road domlur -- 1
+shankarnag road domlur bengaluru -- 1
+road domlur -- 1
+road domlur bengaluru -- 1
+road domlur bengaluru 560071 -- 1
+juice chariot -- 0
+juice chariot #15 -- 0
+juice chariot #15 shankarnag -- 0
+chariot #15 -- 0
+chariot #15 shankarnag -- 0
+chariot #15 shankarnag road -- 0
+#15 shankarnag -- 0
+#15 shankarnag road -- 0
+shankarnag road -- 0
+domlur bengaluru -- 0
+domlur bengaluru 560071 -- 0
+bengaluru 560071 -- 0
+---------------------------------------------
+*********************************************
+
+1107, 17th Cross, Banashankari 2nd stage
+
+Building prediciton with score : 
+---------------------------------------------
+cross  banashankari 2nd -- 9
+ 17th cross  -- 7
+17th cross  banashankari -- 7
+cross  banashankari -- 7
+ banashankari 2nd stage -- 6
+ banashankari 2nd -- 5
+17th cross  -- 4
+cross  -- 4
+1107  17th -- 3
+1107  17th cross -- 3
+ 17th -- 3
+ 17th cross -- 3
+ banashankari -- 3
+banashankari 2nd stage -- 3
+banashankari 2nd -- 2
+2nd stage -- 2
+1107  -- 0
+17th cross -- 0
+---------------------------------------------
+*********************************************
+
+2085, Rajani Nivas 2nd floor, Lakshmi Taxies Road, Ramamurthy Nagar , Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+2085  rajani nivas -- 148
+ rajani nivas -- 148
+rajani nivas -- 145
+floor  lakshmi taxies -- 45
+ lakshmi taxies -- 45
+ lakshmi taxies road -- 45
+lakshmi taxies road  -- 43
+lakshmi taxies -- 42
+lakshmi taxies road -- 42
+ rajani nivas 2nd -- 17
+rajani nivas 2nd -- 14
+rajani nivas 2nd floor -- 14
+nivas 2nd -- 14
+nivas 2nd floor -- 14
+nivas 2nd floor  -- 14
+nagar   bengaluru -- 10
+ karnataka  india -- 10
+2nd floor  lakshmi -- 9
+floor  lakshmi -- 8
+ lakshmi -- 8
+ ramamurthy nagar  -- 7
+ramamurthy nagar   -- 7
+nagar   -- 7
+karnataka  india -- 7
+  bengaluru -- 6
+  bengaluru  -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+taxies road  ramamurthy -- 4
+road  ramamurthy -- 4
+road  ramamurthy nagar -- 4
+ramamurthy nagar  -- 4
+nagar  -- 4
+ india -- 4
+2085  rajani -- 3
+ rajani -- 3
+ ramamurthy -- 3
+ ramamurthy nagar -- 3
+  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+2nd floor -- 1
+2nd floor  -- 1
+taxies road  -- 1
+road  -- 1
+2085  -- 0
+floor  -- 0
+taxies road -- 0
+ramamurthy nagar -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Apt# C, GuruKrupa apt, 4th cross M.M layout kavalByra Sandra
+
+Building prediciton with score : 
+---------------------------------------------
+4th cross m.m layout -- 65
+cross m.m layout -- 65
+m.m layout -- 61
+c  gurukrupa apt -- 15
+apt# c  gurukrupa -- 14
+c  gurukrupa -- 14
+apt# c  -- 11
+c  -- 11
+ 4th cross m.m -- 7
+cross m.m layout kavalbyra -- 7
+ gurukrupa apt -- 4
+4th cross m.m -- 4
+cross m.m -- 4
+ gurukrupa -- 3
+ gurukrupa apt  -- 3
+gurukrupa apt  4th -- 3
+apt  4th -- 3
+apt  4th cross -- 3
+ 4th -- 3
+ 4th cross -- 3
+m.m layout kavalbyra -- 3
+m.m layout kavalbyra sandra -- 3
+layout kavalbyra -- 3
+layout kavalbyra sandra -- 3
+apt# c -- 1
+gurukrupa apt -- 1
+gurukrupa apt  -- 0
+apt  -- 0
+4th cross -- 0
+kavalbyra sandra -- 0
+---------------------------------------------
+*********************************************
+
+Krimson square, roopena agrahara, next to bommanahalli flyover
+
+Building prediciton with score : 
+---------------------------------------------
+krimson square -- 13
+roopena agrahara  next -- 8
+agrahara  next -- 8
+ next -- 8
+krimson square  roopena -- 6
+square  roopena -- 6
+square  roopena agrahara -- 6
+ next to bommanahalli -- 5
+agrahara  next to -- 4
+ next to -- 4
+krimson square  -- 3
+square  -- 3
+ roopena -- 3
+ roopena agrahara -- 3
+ roopena agrahara  -- 3
+next to bommanahalli -- 2
+next to bommanahalli flyover -- 2
+next to -- 1
+to bommanahalli -- 1
+to bommanahalli flyover -- 1
+roopena agrahara -- 0
+roopena agrahara  -- 0
+agrahara  -- 0
+bommanahalli flyover -- 0
+---------------------------------------------
+*********************************************
+
+101 dsrtopaz, near suncity apartments and om sakthi heritage apts,begur hobli, Iblur Lake, Bellandur, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+om sakthi heritage apts -- 697
+sakthi heritage apts -- 666
+heritage apts -- 666
+ near suncity apartments -- 145
+near suncity apartments -- 142
+suncity apartments -- 142
+and om sakthi heritage -- 85
+apartments and om sakthi -- 70
+and om sakthi -- 67
+ iblur lake  -- 53
+iblur lake  bellandur -- 53
+lake  bellandur -- 53
+lake  bellandur  -- 53
+iblur lake  -- 50
+lake  -- 50
+om sakthi heritage -- 49
+suncity apartments and om -- 40
+apartments and om -- 39
+and om -- 36
+om sakthi -- 31
+sakthi heritage -- 18
+sakthi heritage apts begur -- 12
+heritage apts begur -- 12
+heritage apts begur hobli -- 12
+ karnataka  india -- 10
+karnataka  india -- 7
+ bellandur  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+near suncity apartments and -- 4
+suncity apartments and -- 4
+ india -- 4
+101 dsrtopaz  near -- 3
+dsrtopaz  near -- 3
+dsrtopaz  near suncity -- 3
+ near -- 3
+ near suncity -- 3
+apartments and -- 3
+begur hobli  iblur -- 3
+hobli  iblur -- 3
+hobli  iblur lake -- 3
+ iblur -- 3
+ iblur lake -- 3
+ bellandur -- 3
+ bellandur  -- 3
+bellandur  bengaluru -- 3
+bellandur  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+101 dsrtopaz -- 0
+101 dsrtopaz  -- 0
+dsrtopaz  -- 0
+near suncity -- 0
+apts begur -- 0
+apts begur hobli -- 0
+apts begur hobli  -- 0
+begur hobli -- 0
+begur hobli  -- 0
+hobli  -- 0
+iblur lake -- 0
+bellandur  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+garbhagudi ivf center #210/A1,1st & 2nd floor shubhasri complex 14th main hanumanthnagar 50feet r/d BSK 1st stage,2nd block
+
+Building prediciton with score : 
+---------------------------------------------
+1st stage 2nd block -- 60
+stage 2nd block -- 60
+2nd block -- 60
+2nd floor shubhasri complex -- 25
+floor shubhasri complex -- 24
+shubhasri complex -- 24
+floor shubhasri complex 14th -- 3
+shubhasri complex 14th -- 3
+shubhasri complex 14th main -- 3
+complex 14th -- 3
+complex 14th main -- 3
+complex 14th main hanumanthnagar -- 3
+garbhagudi ivf center -- 1
+ivf center -- 1
+ivf center #210/a1 1st -- 1
+center #210/a1 1st -- 1
+#210/a1 1st -- 1
+#210/a1 1st & 2nd -- 1
+1st & 2nd -- 1
+1st & 2nd floor -- 1
+& 2nd -- 1
+& 2nd floor -- 1
+& 2nd floor shubhasri -- 1
+2nd floor -- 1
+2nd floor shubhasri -- 1
+50feet r/d bsk 1st -- 1
+r/d bsk 1st -- 1
+r/d bsk 1st stage -- 1
+bsk 1st -- 1
+bsk 1st stage -- 1
+bsk 1st stage 2nd -- 1
+1st stage -- 1
+1st stage 2nd -- 1
+stage 2nd -- 1
+garbhagudi ivf -- 0
+garbhagudi ivf center #210/a1 -- 0
+ivf center #210/a1 -- 0
+center #210/a1 -- 0
+center #210/a1 1st & -- 0
+#210/a1 1st & -- 0
+1st & -- 0
+floor shubhasri -- 0
+14th main -- 0
+14th main hanumanthnagar -- 0
+14th main hanumanthnagar 50feet -- 0
+main hanumanthnagar -- 0
+main hanumanthnagar 50feet -- 0
+main hanumanthnagar 50feet r/d -- 0
+hanumanthnagar 50feet -- 0
+hanumanthnagar 50feet r/d -- 0
+hanumanthnagar 50feet r/d bsk -- 0
+50feet r/d -- 0
+50feet r/d bsk -- 0
+r/d bsk -- 0
+---------------------------------------------
+*********************************************
+
+Gurusudhappa c/o R.A.Joyce #68,7th c cross,Kalappa layout,Basavanagar,Vibhuthipura post, Bangalore, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+c cross kalappa layout -- 76
+cross kalappa layout -- 65
+kalappa layout -- 61
+7th c cross kalappa -- 16
+c cross kalappa -- 15
+ bangalore  karnataka -- 13
+bangalore  karnataka  -- 13
+#68 7th c cross -- 12
+7th c cross -- 12
+c cross -- 11
+post  bangalore  -- 10
+ bangalore  -- 10
+bangalore  karnataka -- 10
+ karnataka  india -- 10
+cross kalappa layout basavanagar -- 7
+bangalore  -- 7
+karnataka  india -- 7
+ karnataka  -- 6
+cross kalappa -- 4
+vibhuthipura post  bangalore -- 4
+post  bangalore -- 4
+ bangalore -- 4
+ india -- 4
+kalappa layout basavanagar -- 3
+kalappa layout basavanagar vibhuthipura -- 3
+layout basavanagar -- 3
+layout basavanagar vibhuthipura -- 3
+layout basavanagar vibhuthipura post -- 3
+ karnataka -- 3
+karnataka  -- 3
+r.a.joyce #68 7th c -- 2
+#68 7th c -- 2
+7th c -- 2
+gurusudhappa c/o -- 0
+gurusudhappa c/o r.a.joyce -- 0
+gurusudhappa c/o r.a.joyce #68 -- 0
+c/o r.a.joyce -- 0
+c/o r.a.joyce #68 -- 0
+c/o r.a.joyce #68 7th -- 0
+r.a.joyce #68 -- 0
+r.a.joyce #68 7th -- 0
+#68 7th -- 0
+basavanagar vibhuthipura -- 0
+basavanagar vibhuthipura post -- 0
+basavanagar vibhuthipura post  -- 0
+vibhuthipura post -- 0
+vibhuthipura post  -- 0
+post  -- 0
+---------------------------------------------
+*********************************************
+
+# 41, 3rd Cross, Jai Bheema Nagar,
+
+Building prediciton with score : 
+---------------------------------------------
+cross  jai bheema -- 14
+jai bheema nagar  -- 11
+ jai bheema -- 10
+ jai bheema nagar -- 10
+ 3rd cross  -- 7
+3rd cross  jai -- 7
+cross  jai -- 7
+jai bheema -- 7
+jai bheema nagar -- 7
+3rd cross  -- 4
+cross  -- 4
+bheema nagar  -- 4
+nagar  -- 4
+# 41  3rd -- 3
+41  3rd -- 3
+41  3rd cross -- 3
+ 3rd -- 3
+ 3rd cross -- 3
+ jai -- 3
+# 41 -- 0
+# 41  -- 0
+41  -- 0
+3rd cross -- 0
+bheema nagar -- 0
+---------------------------------------------
+*********************************************
+
+Flat no 306,block 1,107/2,c/o narayana,pujari Marapa building, C V Raman Nagar,siddiguntapalya, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+no 306 block 1 -- 71
+flat no 306 block -- 66
+no 306 block -- 66
+306 block 1 -- 64
+block 1 -- 64
+306 block -- 59
+306 block 1 107/2 -- 43
+block 1 107/2 -- 43
+block 1 107/2 c/o -- 43
+ c v raman -- 20
+narayana pujari marapa building -- 19
+building  c v -- 19
+c v raman -- 17
+c v raman nagar -- 17
+ c v -- 14
+pujari marapa building -- 11
+marapa building -- 11
+c v -- 11
+v raman nagar siddiguntapalya -- 10
+ karnataka  india -- 10
+marapa building  c -- 9
+building  c -- 9
+107/2 c/o narayana pujari -- 8
+c/o narayana pujari -- 8
+c/o narayana pujari marapa -- 8
+narayana pujari -- 8
+narayana pujari marapa -- 8
+flat no 306 -- 7
+no 306 -- 7
+nagar siddiguntapalya  bengaluru -- 7
+karnataka  india -- 7
+v raman -- 6
+v raman nagar -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+pujari marapa building  -- 5
+marapa building  -- 5
+building  -- 5
+ c -- 4
+raman nagar siddiguntapalya -- 4
+raman nagar siddiguntapalya  -- 4
+nagar siddiguntapalya -- 4
+nagar siddiguntapalya  -- 4
+ india -- 4
+1 107/2 -- 3
+1 107/2 c/o -- 3
+1 107/2 c/o narayana -- 3
+siddiguntapalya  bengaluru -- 3
+siddiguntapalya  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+flat no -- 0
+107/2 c/o -- 0
+107/2 c/o narayana -- 0
+c/o narayana -- 0
+pujari marapa -- 0
+raman nagar -- 0
+siddiguntapalya  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+K3 Shakti Castle, 1st A Cross Kaggadaspura CV raman Nagar, Behind DRDO Lab
+
+Building prediciton with score : 
+---------------------------------------------
+k3 shakti castle -- 27
+shakti castle -- 27
+castle  1st a -- 22
+1st a cross kaggadaspura -- 22
+a cross kaggadaspura -- 22
+a cross kaggadaspura cv -- 22
+ 1st a cross -- 21
+1st a cross -- 18
+a cross -- 18
+shakti castle  1st -- 17
+castle  1st -- 15
+k3 shakti castle  -- 13
+shakti castle  -- 13
+castle  -- 11
+ 1st a -- 11
+1st a -- 8
+raman nagar  behind -- 7
+nagar  behind -- 7
+nagar  behind drdo -- 7
+ 1st -- 4
+cross kaggadaspura -- 4
+cross kaggadaspura cv -- 4
+cross kaggadaspura cv raman -- 4
+cv raman nagar  -- 4
+raman nagar  -- 4
+nagar  -- 4
+ behind drdo lab -- 4
+ behind -- 3
+ behind drdo -- 3
+k3 shakti -- 1
+behind drdo lab -- 1
+drdo lab -- 1
+kaggadaspura cv -- 0
+kaggadaspura cv raman -- 0
+kaggadaspura cv raman nagar -- 0
+cv raman -- 0
+cv raman nagar -- 0
+raman nagar -- 0
+behind drdo -- 0
+---------------------------------------------
+*********************************************
+
+22/3 shamarao compound mission road
+
+Building prediciton with score : 
+---------------------------------------------
+22/3 shamarao compound mission -- 1
+shamarao compound mission -- 1
+compound mission -- 1
+22/3 shamarao -- 0
+22/3 shamarao compound -- 0
+shamarao compound -- 0
+shamarao compound mission road -- 0
+compound mission road -- 0
+mission road -- 0
+---------------------------------------------
+*********************************************
+
+2003, 7th main, D block, 2nd stage, Rajajinagar.
+
+Building prediciton with score : 
+---------------------------------------------
+main  d block -- 73
+ d block -- 73
+d block -- 70
+d block  2nd -- 55
+ d block  -- 54
+d block  -- 51
+block  2nd stage -- 45
+block  2nd -- 44
+block  -- 40
+7th main  d -- 5
+ 2nd stage -- 5
+2003  7th main -- 4
+ 7th main -- 4
+ 7th main  -- 4
+main  d -- 4
+ d -- 4
+ 2nd -- 4
+ 2nd stage  -- 4
+2nd stage  rajajinagar. -- 4
+2003  7th -- 3
+ 7th -- 3
+stage  rajajinagar. -- 3
+ rajajinagar. -- 3
+2nd stage -- 2
+7th main -- 1
+7th main  -- 1
+2nd stage  -- 1
+2003  -- 0
+main  -- 0
+stage  -- 0
+---------------------------------------------
+*********************************************
+
+#416 bharathmathalayout venkteshpuram arabic post bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+venkteshpuram arabic post bangalore -- 1
+arabic post bangalore -- 1
+post bangalore -- 1
+#416 bharathmathalayout -- 0
+#416 bharathmathalayout venkteshpuram -- 0
+#416 bharathmathalayout venkteshpuram arabic -- 0
+bharathmathalayout venkteshpuram -- 0
+bharathmathalayout venkteshpuram arabic -- 0
+bharathmathalayout venkteshpuram arabic post -- 0
+venkteshpuram arabic -- 0
+venkteshpuram arabic post -- 0
+arabic post -- 0
+---------------------------------------------
+*********************************************
+
+dhanvantari building , #2/B 80 feet main road , KHB coloby , Basaveshwaarnagar , OPP MEGA MART and IBACO
+
+Building prediciton with score : 
+---------------------------------------------
+mega mart and ibaco -- 37
+mart and ibaco -- 36
+and ibaco -- 36
+dhanvantari building -- 11
+building   #2/b -- 11
+dhanvantari building   -- 8
+building   -- 8
+road   khb -- 7
+  khb coloby -- 7
+  opp mega -- 7
+  #2/b -- 6
+  #2/b 80 -- 6
+  khb -- 6
+coloby   basaveshwaarnagar -- 6
+  basaveshwaarnagar -- 6
+  basaveshwaarnagar  -- 6
+ basaveshwaarnagar   -- 6
+basaveshwaarnagar   opp -- 6
+  opp -- 6
+dhanvantari building  -- 5
+building  -- 5
+ opp mega mart -- 5
+main road   -- 4
+road   -- 4
+ khb coloby -- 4
+ khb coloby  -- 4
+khb coloby   -- 4
+ opp mega -- 4
+  -- 3
+ #2/b -- 3
+ #2/b 80 -- 3
+ #2/b 80 feet -- 3
+  -- 3
+ khb -- 3
+coloby   -- 3
+  -- 3
+ basaveshwaarnagar -- 3
+ basaveshwaarnagar  -- 3
+basaveshwaarnagar   -- 3
+  -- 3
+ opp -- 3
+opp mega mart -- 2
+opp mega mart and -- 2
+feet main road  -- 1
+main road  -- 1
+road  -- 1
+khb coloby -- 1
+khb coloby  -- 1
+opp mega -- 1
+mega mart -- 1
+mega mart and -- 1
+#2/b 80 -- 0
+#2/b 80 feet -- 0
+#2/b 80 feet main -- 0
+80 feet -- 0
+80 feet main -- 0
+80 feet main road -- 0
+feet main -- 0
+feet main road -- 0
+main road -- 0
+coloby  -- 0
+basaveshwaarnagar  -- 0
+mart and -- 0
+---------------------------------------------
+*********************************************
+
+# 27, Gurukrupa, 9th cross swimming pool extension, malleshwaram, Bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+ 9th cross swimming -- 8
+ malleshwaram  bangalore -- 7
+ gurukrupa  9th -- 6
+9th cross swimming -- 5
+9th cross swimming pool -- 5
+cross swimming pool extension -- 5
+gurukrupa  9th cross -- 4
+ 9th cross -- 4
+cross swimming -- 4
+cross swimming pool -- 4
+malleshwaram  bangalore -- 4
+ bangalore -- 4
+# 27  gurukrupa -- 3
+27  gurukrupa -- 3
+27  gurukrupa  -- 3
+ gurukrupa -- 3
+ gurukrupa  -- 3
+gurukrupa  9th -- 3
+ 9th -- 3
+pool extension  malleshwaram -- 3
+extension  malleshwaram -- 3
+extension  malleshwaram  -- 3
+ malleshwaram -- 3
+ malleshwaram  -- 3
+9th cross -- 1
+swimming pool extension -- 1
+pool extension -- 1
+# 27 -- 0
+# 27  -- 0
+27  -- 0
+gurukrupa  -- 0
+swimming pool -- 0
+swimming pool extension  -- 0
+pool extension  -- 0
+extension  -- 0
+malleshwaram  -- 0
+---------------------------------------------
+*********************************************
+
+NO- 325 5TH MAIN Koramangala 1st Blk Bangalore 560034 India
+
+Building prediciton with score : 
+---------------------------------------------
+blk bangalore 560034 india -- 8
+bangalore 560034 india -- 8
+1st blk bangalore 560034 -- 7
+blk bangalore 560034 -- 7
+bangalore 560034 -- 7
+5th main koramangala 1st -- 1
+main koramangala 1st -- 1
+koramangala 1st -- 1
+koramangala 1st blk bangalore -- 1
+1st blk bangalore -- 1
+blk bangalore -- 1
+560034 india -- 1
+no- 325 -- 0
+no- 325 5th -- 0
+no- 325 5th main -- 0
+325 5th -- 0
+325 5th main -- 0
+325 5th main koramangala -- 0
+5th main -- 0
+5th main koramangala -- 0
+main koramangala -- 0
+main koramangala 1st blk -- 0
+koramangala 1st blk -- 0
+1st blk -- 0
+---------------------------------------------
+*********************************************
+
+No 55/1 10th main 17th cross Malleshwaram Bangalore 560055
+
+Building prediciton with score : 
+---------------------------------------------
+cross malleshwaram bangalore 560055 -- 11
+no 55/1 -- 7
+no 55/1 10th -- 7
+no 55/1 10th main -- 7
+malleshwaram bangalore 560055 -- 7
+bangalore 560055 -- 7
+17th cross malleshwaram bangalore -- 5
+cross malleshwaram bangalore -- 5
+main 17th cross malleshwaram -- 4
+17th cross malleshwaram -- 4
+cross malleshwaram -- 4
+malleshwaram bangalore -- 1
+55/1 10th -- 0
+55/1 10th main -- 0
+55/1 10th main 17th -- 0
+10th main -- 0
+10th main 17th -- 0
+10th main 17th cross -- 0
+main 17th -- 0
+main 17th cross -- 0
+17th cross -- 0
+---------------------------------------------
+*********************************************
+
+77 Town Centre",Building No.3, West Wing,Off : Old Airport Road,Yamalur P.O.Bangalore - 560 037.
+
+Building prediciton with score : 
+---------------------------------------------
+no.3  west wing -- 12
+ west wing -- 12
+ west wing off -- 12
+77 town centre" building -- 11
+town centre" building -- 11
+centre" building -- 11
+building no.3  west -- 9
+west wing -- 9
+west wing off -- 9
+west wing off : -- 9
+town centre" building no.3 -- 5
+centre" building no.3 -- 5
+centre" building no.3  -- 5
+building no.3 -- 5
+building no.3  -- 5
+no.3  west -- 4
+ west -- 4
+old airport road yamalur -- 4
+77 town -- 3
+: old airport road -- 3
+old airport road -- 3
+off : old airport -- 2
+: old airport -- 2
+old airport -- 2
+airport road yamalur -- 2
+airport road yamalur p.o.bangalore -- 2
+airport road -- 1
+road yamalur -- 1
+road yamalur p.o.bangalore -- 1
+road yamalur p.o.bangalore - -- 1
+77 town centre" -- 0
+town centre" -- 0
+no.3  -- 0
+wing off -- 0
+wing off : -- 0
+wing off : old -- 0
+off : -- 0
+off : old -- 0
+: old -- 0
+yamalur p.o.bangalore -- 0
+yamalur p.o.bangalore - -- 0
+yamalur p.o.bangalore - 560 -- 0
+p.o.bangalore - -- 0
+p.o.bangalore - 560 -- 0
+p.o.bangalore - 560 037. -- 0
+- 560 -- 0
+- 560 037. -- 0
+560 037. -- 0
+---------------------------------------------
+*********************************************
+
+71 1st floor 3rd cross kirloskar colony 1st stage basaveshwaranagar bangalore-79
+
+Building prediciton with score : 
+---------------------------------------------
+3rd cross kirloskar colony -- 16
+cross kirloskar colony -- 16
+kirloskar colony -- 12
+cross kirloskar colony 1st -- 6
+floor 3rd cross kirloskar -- 4
+3rd cross kirloskar -- 4
+cross kirloskar -- 4
+kirloskar colony 1st -- 2
+kirloskar colony 1st stage -- 2
+colony 1st -- 2
+colony 1st stage -- 2
+71 1st -- 1
+colony 1st stage basaveshwaranagar -- 1
+1st stage -- 1
+71 1st floor -- 0
+71 1st floor 3rd -- 0
+1st floor -- 0
+1st floor 3rd -- 0
+1st floor 3rd cross -- 0
+floor 3rd -- 0
+floor 3rd cross -- 0
+3rd cross -- 0
+1st stage basaveshwaranagar -- 0
+1st stage basaveshwaranagar bangalore-79 -- 0
+stage basaveshwaranagar -- 0
+stage basaveshwaranagar bangalore-79 -- 0
+basaveshwaranagar bangalore-79 -- 0
+---------------------------------------------
+*********************************************
+
+Analog Devices India Private Limited, RMZ-Infinity, - Tower D, Level 6 No3, Old Madras Road - Bangalore - Karnataka (KA) - India (IN)
+
+Building prediciton with score : 
+---------------------------------------------
+tower d  level -- 20
+- tower d  -- 17
+tower d  -- 17
+d  level 6 -- 17
+d  level -- 14
+d  -- 11
+analog devices india private -- 10
+devices india private -- 10
+devices india private limited -- 10
+india private -- 10
+india private limited -- 10
+india private limited  -- 10
+rmz-infinity  - tower -- 10
+ - tower -- 10
+ - tower d -- 10
+bangalore - karnataka (ka) -- 10
+(ka) - india (in) -- 10
+- india (in) -- 10
+india (in) -- 10
+road - bangalore - -- 8
+- tower -- 7
+- tower d -- 7
+tower d -- 7
+- bangalore - -- 7
+- bangalore - karnataka -- 7
+bangalore - -- 7
+bangalore - karnataka -- 7
+ rmz-infinity  - -- 6
+ level 6 -- 6
+no3  old madras -- 5
+ old madras -- 5
+ old madras road -- 5
+karnataka (ka) - india -- 4
+private limited  rmz-infinity -- 3
+limited  rmz-infinity -- 3
+limited  rmz-infinity  -- 3
+ rmz-infinity -- 3
+ rmz-infinity  -- 3
+rmz-infinity  - -- 3
+ - -- 3
+ level -- 3
+ level 6 no3 -- 3
+level 6 -- 3
+6 no3  old -- 3
+no3  old -- 3
+ old -- 3
+old madras road - -- 3
+- karnataka (ka) -- 3
+- karnataka (ka) - -- 3
+karnataka (ka) -- 3
+karnataka (ka) - -- 3
+old madras -- 2
+old madras road -- 2
+madras road - bangalore -- 2
+road - bangalore -- 2
+analog devices india -- 1
+devices india -- 1
+madras road - -- 1
+road - -- 1
+- bangalore -- 1
+(ka) - india -- 1
+- india -- 1
+analog devices -- 0
+private limited -- 0
+private limited  -- 0
+limited  -- 0
+rmz-infinity  -- 0
+level 6 no3 -- 0
+level 6 no3  -- 0
+6 no3 -- 0
+6 no3  -- 0
+no3  -- 0
+madras road -- 0
+- karnataka -- 0
+(ka) - -- 0
+---------------------------------------------
+*********************************************
+
+House no. #17, behind we care gym, 5th Phase, J P Nagar, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+phase  j p -- 25
+ 5th phase  -- 22
+5th phase  j -- 22
+phase  j -- 22
+5th phase  -- 19
+phase  -- 19
+house no. -- 15
+house no. #17 -- 15
+house no. #17  -- 15
+j p nagar  -- 12
+p nagar  bengaluru -- 12
+ j p nagar -- 11
+ karnataka  india -- 10
+p nagar  -- 9
+j p nagar -- 8
+nagar  bengaluru -- 7
+nagar  bengaluru  -- 7
+karnataka  india -- 7
+ j p -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+ behind we care -- 5
+p nagar -- 5
+care gym  5th -- 4
+gym  5th phase -- 4
+ 5th phase -- 4
+nagar  -- 4
+ india -- 4
+no. #17  behind -- 3
+#17  behind -- 3
+#17  behind we -- 3
+ behind -- 3
+ behind we -- 3
+gym  5th -- 3
+ 5th -- 3
+ j -- 3
+j p -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+behind we care -- 2
+we care -- 2
+behind we care gym -- 1
+we care gym -- 1
+we care gym  -- 1
+care gym -- 1
+care gym  -- 1
+5th phase -- 1
+no. #17 -- 0
+no. #17  -- 0
+#17  -- 0
+behind we -- 0
+gym  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+#2/2, D/N 002, citi casa apt., Basappa road, shanthinagar, Bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+ citi casa apt. -- 12
+casa apt.  basappa -- 12
+citi casa apt. -- 9
+citi casa apt.  -- 9
+casa apt. -- 9
+casa apt.  -- 9
+ shanthinagar  bangalore -- 7
+ basappa road  -- 4
+basappa road  shanthinagar -- 4
+road  shanthinagar -- 4
+road  shanthinagar  -- 4
+shanthinagar  bangalore -- 4
+ bangalore -- 4
+#2/2  d/n -- 3
+#2/2  d/n 002 -- 3
+ d/n -- 3
+ d/n 002 -- 3
+ d/n 002  -- 3
+d/n 002  citi -- 3
+002  citi -- 3
+002  citi casa -- 3
+ citi -- 3
+ citi casa -- 3
+apt.  basappa -- 3
+apt.  basappa road -- 3
+ basappa -- 3
+ basappa road -- 3
+ shanthinagar -- 3
+ shanthinagar  -- 3
+basappa road  -- 1
+road  -- 1
+#2/2  -- 0
+d/n 002 -- 0
+d/n 002  -- 0
+002  -- 0
+citi casa -- 0
+apt.  -- 0
+basappa road -- 0
+shanthinagar  -- 0
+---------------------------------------------
+*********************************************
+
+#9,1ST CROSS,KEMPEGOWDA NAGAR,POLICE QUARTERS ROAD,COLLEGE STOP,MAGADI MAIN ROAD,B-560091
+
+Building prediciton with score : 
+---------------------------------------------
+kempegowda nagar police quarters -- 139
+nagar police quarters -- 139
+police quarters -- 135
+nagar police quarters road -- 31
+police quarters road college -- 28
+police quarters road -- 27
+quarters road college -- 11
+quarters road college stop -- 11
+quarters road -- 10
+cross kempegowda nagar police -- 8
+#9 1st cross kempegowda -- 4
+1st cross kempegowda -- 4
+1st cross kempegowda nagar -- 4
+cross kempegowda -- 4
+cross kempegowda nagar -- 4
+kempegowda nagar police -- 4
+nagar police -- 4
+#9 1st -- 1
+road college -- 1
+road college stop -- 1
+road college stop magadi -- 1
+magadi main road b-560091 -- 1
+main road b-560091 -- 1
+road b-560091 -- 1
+#9 1st cross -- 0
+1st cross -- 0
+kempegowda nagar -- 0
+college stop -- 0
+college stop magadi -- 0
+college stop magadi main -- 0
+stop magadi -- 0
+stop magadi main -- 0
+stop magadi main road -- 0
+magadi main -- 0
+magadi main road -- 0
+main road -- 0
+---------------------------------------------
+*********************************************
+
+Gayatri tech park.&#xa;plot no 183. 1st floor. road 1B. KIADB industrial area. near igate patni&#xa;village road. EPIP zone, Bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+tech park.&#xa;plot no 183. -- 11
+gayatri tech park.&#xa;plot -- 8
+gayatri tech park.&#xa;plot no -- 8
+park.&#xa;plot no 183. 1st -- 8
+no 183. 1st -- 8
+park.&#xa;plot no 183. -- 7
+no 183. -- 7
+no 183. 1st floor. -- 7
+gayatri tech -- 5
+tech park.&#xa;plot -- 4
+tech park.&#xa;plot no -- 4
+epip zone  bangalore -- 4
+zone  bangalore -- 4
+ bangalore -- 4
+183. 1st -- 1
+1st floor. road 1b. -- 1
+floor. road 1b. -- 1
+floor. road 1b. kiadb -- 1
+road 1b. -- 1
+road 1b. kiadb -- 1
+road 1b. kiadb industrial -- 1
+1b. kiadb industrial area. -- 1
+kiadb industrial area. -- 1
+kiadb industrial area. near -- 1
+industrial area. -- 1
+industrial area. near -- 1
+industrial area. near igate -- 1
+park.&#xa;plot no -- 0
+183. 1st floor. -- 0
+183. 1st floor. road -- 0
+1st floor. -- 0
+1st floor. road -- 0
+floor. road -- 0
+1b. kiadb -- 0
+1b. kiadb industrial -- 0
+kiadb industrial -- 0
+area. near -- 0
+area. near igate -- 0
+area. near igate patni&#xa;village -- 0
+near igate -- 0
+near igate patni&#xa;village -- 0
+near igate patni&#xa;village road. -- 0
+igate patni&#xa;village -- 0
+igate patni&#xa;village road. -- 0
+igate patni&#xa;village road. epip -- 0
+patni&#xa;village road. -- 0
+patni&#xa;village road. epip -- 0
+patni&#xa;village road. epip zone -- 0
+road. epip -- 0
+road. epip zone -- 0
+road. epip zone  -- 0
+epip zone -- 0
+epip zone  -- 0
+zone  -- 0
+---------------------------------------------
+*********************************************
+
+#53 , 4th cross, Behind Royal shelters, SBI Layout devarachikanahalli
+
+Building prediciton with score : 
+---------------------------------------------
+shelters  sbi layout -- 65
+ behind royal shelters -- 64
+ sbi layout -- 64
+behind royal shelters -- 61
+royal shelters -- 61
+sbi layout -- 61
+royal shelters  sbi -- 48
+behind royal shelters  -- 45
+royal shelters  -- 45
+cross  behind royal -- 19
+ behind royal -- 15
+behind royal -- 12
+ 4th cross  -- 7
+4th cross  behind -- 7
+cross  behind -- 7
+#53   4th -- 6
+  4th -- 6
+  4th cross -- 6
+ sbi layout devarachikanahalli -- 6
+4th cross  -- 4
+cross  -- 4
+shelters  sbi -- 4
+#53   -- 3
+  -- 3
+ 4th -- 3
+ 4th cross -- 3
+ behind -- 3
+ sbi -- 3
+sbi layout devarachikanahalli -- 3
+layout devarachikanahalli -- 3
+shelters  -- 1
+#53  -- 0
+4th cross -- 0
+---------------------------------------------
+*********************************************
+
+119, Namagiri, 6th Cross Panduranganagar, Bannerghatta Road
+
+Building prediciton with score : 
+---------------------------------------------
+ 6th cross panduranganagar -- 7
+cross panduranganagar  bannerghatta -- 7
+ namagiri  6th -- 6
+6th cross panduranganagar -- 4
+6th cross panduranganagar  -- 4
+cross panduranganagar -- 4
+cross panduranganagar  -- 4
+119  namagiri -- 3
+119  namagiri  -- 3
+ namagiri -- 3
+ namagiri  -- 3
+namagiri  6th -- 3
+namagiri  6th cross -- 3
+ 6th -- 3
+ 6th cross -- 3
+panduranganagar  bannerghatta -- 3
+panduranganagar  bannerghatta road -- 3
+ bannerghatta -- 3
+ bannerghatta road -- 3
+119  -- 0
+namagiri  -- 0
+6th cross -- 0
+panduranganagar  -- 0
+bannerghatta road -- 0
+---------------------------------------------
+*********************************************
+
+#200 GVT Compound Near foodworld, Bannerghatta Road, Gottigere.
+
+Building prediciton with score : 
+---------------------------------------------
+ bannerghatta road  -- 4
+bannerghatta road  gottigere. -- 4
+road  gottigere. -- 4
+near foodworld  bannerghatta -- 3
+foodworld  bannerghatta -- 3
+foodworld  bannerghatta road -- 3
+ bannerghatta -- 3
+ bannerghatta road -- 3
+ gottigere. -- 3
+bannerghatta road  -- 1
+road  -- 1
+#200 gvt -- 0
+#200 gvt compound -- 0
+#200 gvt compound near -- 0
+gvt compound -- 0
+gvt compound near -- 0
+gvt compound near foodworld -- 0
+compound near -- 0
+compound near foodworld -- 0
+compound near foodworld  -- 0
+near foodworld -- 0
+near foodworld  -- 0
+foodworld  -- 0
+bannerghatta road -- 0
+---------------------------------------------
+*********************************************
+
+Flat No 202, Poornima Shelters, No 59&66, Giddamma Layout, Akash Nagar, A Narayanapura
+
+Building prediciton with score : 
+---------------------------------------------
+59&66  giddamma layout -- 64
+ giddamma layout -- 64
+giddamma layout -- 61
+nagar  a narayanapura -- 25
+akash nagar  a -- 22
+202  poornima shelters -- 21
+ poornima shelters -- 21
+ a narayanapura -- 21
+poornima shelters -- 18
+a narayanapura -- 18
+nagar  a -- 15
+ akash nagar  -- 14
+layout  akash nagar -- 13
+shelters  no 59&66 -- 11
+akash nagar  -- 11
+ a -- 11
+no 202  poornima -- 10
+ no 59&66 -- 10
+ no 59&66  -- 10
+no 59&66  giddamma -- 10
+ akash nagar -- 10
+flat no 202 -- 7
+flat no 202  -- 7
+no 202 -- 7
+no 202  -- 7
+no 59&66 -- 7
+no 59&66  -- 7
+akash nagar -- 7
+ giddamma layout  -- 6
+giddamma layout  akash -- 6
+layout  akash -- 6
+ poornima shelters  -- 5
+poornima shelters  no -- 5
+shelters  no -- 4
+nagar  -- 4
+202  poornima -- 3
+ poornima -- 3
+ no -- 3
+59&66  giddamma -- 3
+ giddamma -- 3
+giddamma layout  -- 3
+layout  -- 3
+ akash -- 3
+poornima shelters  -- 2
+shelters  -- 1
+flat no -- 0
+202  -- 0
+59&66  -- 0
+---------------------------------------------
+*********************************************
+
+#22/B, Chaitanya 1st Block,5th Cross Akshyanagar Ramamurthynagar
+
+Building prediciton with score : 
+---------------------------------------------
+ chaitanya 1st block -- 66
+chaitanya 1st block -- 63
+1st block -- 59
+chaitanya 1st block 5th -- 44
+block 5th cross akshyanagar -- 44
+1st block 5th -- 40
+1st block 5th cross -- 40
+block 5th -- 40
+block 5th cross -- 40
+#22/b  chaitanya 1st -- 8
+ chaitanya 1st -- 8
+#22/b  chaitanya -- 5
+ chaitanya -- 5
+chaitanya 1st -- 5
+5th cross akshyanagar -- 4
+5th cross akshyanagar ramamurthynagar -- 4
+cross akshyanagar -- 4
+cross akshyanagar ramamurthynagar -- 4
+#22/b  -- 0
+5th cross -- 0
+akshyanagar ramamurthynagar -- 0
+---------------------------------------------
+*********************************************
+
+Ace technofab..No-46/2,Deepak complex,kalanaga, KG Halli, Kammagondahalli, Bangalore, Karnataka 560015, India
+
+Building prediciton with score : 
+---------------------------------------------
+ace technofab..no-46/2 deepak complex -- 25
+technofab..no-46/2 deepak complex -- 25
+deepak complex -- 25
+ bangalore  karnataka -- 13
+bangalore  karnataka 560015 -- 13
+kammagondahalli  bangalore  -- 10
+ bangalore  -- 10
+bangalore  karnataka -- 10
+ kammagondahalli  bangalore -- 7
+bangalore  -- 7
+karnataka 560015  india -- 7
+complex kalanaga  kg -- 6
+ karnataka 560015 -- 6
+ karnataka 560015  -- 6
+technofab..no-46/2 deepak complex kalanaga -- 4
+deepak complex kalanaga -- 4
+deepak complex kalanaga  -- 4
+kammagondahalli  bangalore -- 4
+ bangalore -- 4
+560015  india -- 4
+ india -- 4
+complex kalanaga -- 3
+complex kalanaga  -- 3
+kalanaga  kg -- 3
+kalanaga  kg halli -- 3
+ kg -- 3
+ kg halli -- 3
+ kg halli  -- 3
+kg halli  kammagondahalli -- 3
+halli  kammagondahalli -- 3
+halli  kammagondahalli  -- 3
+ kammagondahalli -- 3
+ kammagondahalli  -- 3
+ karnataka -- 3
+karnataka 560015 -- 3
+karnataka 560015  -- 3
+ace technofab..no-46/2 deepak -- 1
+technofab..no-46/2 deepak -- 1
+ace technofab..no-46/2 -- 0
+kalanaga  -- 0
+kg halli -- 0
+kg halli  -- 0
+halli  -- 0
+kammagondahalli  -- 0
+560015  -- 0
+---------------------------------------------
+*********************************************
+
+Purva palm beach, Hanumanappa nagar, off. Hennur road, bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+purva palm beach -- 26
+purva palm beach  -- 26
+palm beach  hanumanappa -- 17
+palm beach -- 14
+palm beach  -- 14
+purva palm -- 13
+ hanumanappa nagar  -- 7
+hanumanappa nagar  off. -- 7
+nagar  off. -- 7
+nagar  off. hennur -- 7
+hennur road  bangalore -- 5
+road  bangalore -- 5
+hanumanappa nagar  -- 4
+nagar  -- 4
+ bangalore -- 4
+beach  hanumanappa -- 3
+beach  hanumanappa nagar -- 3
+ hanumanappa -- 3
+ hanumanappa nagar -- 3
+ off. -- 3
+ off. hennur -- 3
+ off. hennur road -- 3
+off. hennur road  -- 1
+hennur road  -- 1
+road  -- 1
+beach  -- 0
+hanumanappa nagar -- 0
+off. hennur -- 0
+off. hennur road -- 0
+hennur road -- 0
+---------------------------------------------
+*********************************************
+
+Dewan N Madhava Rao Road Basvangudi Bangalore -560004
+
+Building prediciton with score : 
+---------------------------------------------
+dewan n madhava rao -- 10
+n madhava rao -- 10
+n madhava rao road -- 9
+road basvangudi bangalore -560004 -- 8
+dewan n madhava -- 7
+n madhava -- 7
+basvangudi bangalore -560004 -- 7
+bangalore -560004 -- 7
+madhava rao -- 3
+madhava rao road basvangudi -- 3
+rao road basvangudi bangalore -- 3
+madhava rao road -- 2
+rao road basvangudi -- 2
+road basvangudi bangalore -- 2
+rao road -- 1
+road basvangudi -- 1
+basvangudi bangalore -- 1
+dewan n -- 0
+---------------------------------------------
+*********************************************
+
+C 302, Tower 2 Adarsh Palm Retreat Appt Devarabisanahalli Off outer ring road
+
+Building prediciton with score : 
+---------------------------------------------
+302  tower 2 -- 70
+ tower 2 -- 70
+tower 2 -- 67
+2 adarsh palm retreat -- 43
+adarsh palm retreat -- 42
+adarsh palm retreat appt -- 38
+tower 2 adarsh palm -- 28
+2 adarsh palm -- 22
+palm retreat -- 22
+c 302  tower -- 21
+adarsh palm -- 21
+palm retreat appt -- 18
+palm retreat appt devarabisanahalli -- 18
+c 302 -- 11
+c 302  -- 11
+302  tower -- 10
+ tower -- 10
+ tower 2 adarsh -- 10
+tower 2 adarsh -- 7
+retreat appt -- 4
+retreat appt devarabisanahalli -- 4
+retreat appt devarabisanahalli off -- 4
+2 adarsh -- 1
+off outer ring road -- 1
+outer ring road -- 1
+ring road -- 1
+302  -- 0
+appt devarabisanahalli -- 0
+appt devarabisanahalli off -- 0
+appt devarabisanahalli off outer -- 0
+devarabisanahalli off -- 0
+devarabisanahalli off outer -- 0
+devarabisanahalli off outer ring -- 0
+off outer -- 0
+off outer ring -- 0
+outer ring -- 0
+---------------------------------------------
+*********************************************
+
+Umamahesh C/0 A Janaki #27/60, 2nd Floor, Behind TTK Ltd Doorvani Nagar(PO) Shakthi Nagar,5th cross Near Pleague mariyamma temple Bangalore- 560016
+
+Building prediciton with score : 
+---------------------------------------------
+nagar(po) shakthi nagar 5th -- 25
+shakthi nagar 5th -- 25
+shakthi nagar 5th cross -- 25
+doorvani nagar(po) shakthi nagar -- 21
+nagar(po) shakthi nagar -- 21
+shakthi nagar -- 21
+umamahesh c/0 a janaki -- 18
+c/0 a janaki -- 18
+c/0 a janaki #27/60 -- 18
+a janaki -- 18
+a janaki #27/60 -- 18
+a janaki #27/60  -- 18
+ behind ttk ltd -- 17
+behind ttk ltd -- 14
+ttk ltd -- 14
+pleague mariyamma temple bangalore- -- 14
+mariyamma temple bangalore- -- 14
+mariyamma temple bangalore- 560016 -- 14
+temple bangalore- -- 14
+temple bangalore- 560016 -- 14
+umamahesh c/0 a -- 8
+c/0 a -- 8
+nagar 5th cross near -- 8
+janaki #27/60  2nd -- 4
+#27/60  2nd -- 4
+#27/60  2nd floor -- 4
+ 2nd -- 4
+ 2nd floor -- 4
+ 2nd floor  -- 4
+2nd floor  behind -- 4
+nagar 5th -- 4
+nagar 5th cross -- 4
+5th cross near -- 4
+5th cross near pleague -- 4
+cross near -- 4
+cross near pleague -- 4
+cross near pleague mariyamma -- 4
+floor  behind -- 3
+floor  behind ttk -- 3
+ behind -- 3
+ behind ttk -- 3
+ltd doorvani nagar(po) shakthi -- 3
+doorvani nagar(po) shakthi -- 3
+nagar(po) shakthi -- 3
+2nd floor -- 1
+2nd floor  -- 1
+umamahesh c/0 -- 0
+janaki #27/60 -- 0
+janaki #27/60  -- 0
+#27/60  -- 0
+floor  -- 0
+behind ttk -- 0
+behind ttk ltd doorvani -- 0
+ttk ltd doorvani -- 0
+ttk ltd doorvani nagar(po) -- 0
+ltd doorvani -- 0
+ltd doorvani nagar(po) -- 0
+doorvani nagar(po) -- 0
+5th cross -- 0
+near pleague -- 0
+near pleague mariyamma -- 0
+near pleague mariyamma temple -- 0
+pleague mariyamma -- 0
+pleague mariyamma temple -- 0
+mariyamma temple -- 0
+bangalore- 560016 -- 0
+---------------------------------------------
+*********************************************
+
+#746, vishweshawaraiah layout 8th cross, opp narayan school cholanayanakanahalli, rt nagar post Bangalore 32
+
+Building prediciton with score : 
+---------------------------------------------
+#746  vishweshawaraiah layout -- 64
+ vishweshawaraiah layout -- 64
+vishweshawaraiah layout -- 61
+nagar post bangalore 32 -- 11
+cross  opp narayan -- 8
+layout 8th cross  -- 7
+8th cross  opp -- 7
+cross  opp -- 7
+ rt nagar post -- 7
+post bangalore 32 -- 7
+bangalore 32 -- 7
+ vishweshawaraiah layout 8th -- 6
+rt nagar post bangalore -- 5
+nagar post bangalore -- 5
+8th cross  -- 4
+cross  -- 4
+ opp narayan -- 4
+ opp narayan school -- 4
+rt nagar post -- 4
+nagar post -- 4
+#746  vishweshawaraiah -- 3
+ vishweshawaraiah -- 3
+vishweshawaraiah layout 8th -- 3
+vishweshawaraiah layout 8th cross -- 3
+layout 8th -- 3
+layout 8th cross -- 3
+ opp -- 3
+school cholanayanakanahalli  rt -- 3
+cholanayanakanahalli  rt -- 3
+cholanayanakanahalli  rt nagar -- 3
+ rt -- 3
+ rt nagar -- 3
+opp narayan -- 1
+opp narayan school -- 1
+opp narayan school cholanayanakanahalli -- 1
+post bangalore -- 1
+#746  -- 0
+8th cross -- 0
+narayan school -- 0
+narayan school cholanayanakanahalli -- 0
+narayan school cholanayanakanahalli  -- 0
+school cholanayanakanahalli -- 0
+school cholanayanakanahalli  -- 0
+cholanayanakanahalli  -- 0
+rt nagar -- 0
+---------------------------------------------
+*********************************************
+
+# 35 8th D Cross, 14 Main, RPC Layout Vijaynagar 2nd Stage, Attiguppe
+
+Building prediciton with score : 
+---------------------------------------------
+main  rpc layout -- 64
+ rpc layout -- 64
+rpc layout -- 61
+d cross  14 -- 18
+8th d cross  -- 15
+d cross  -- 15
+35 8th d cross -- 11
+8th d cross -- 11
+d cross -- 11
+cross  14 -- 7
+cross  14 main -- 7
+ rpc layout vijaynagar -- 6
+layout vijaynagar 2nd stage -- 5
+cross  -- 4
+rpc layout vijaynagar 2nd -- 4
+layout vijaynagar 2nd -- 4
+2nd stage  attiguppe -- 4
+ 14 -- 3
+ 14 main -- 3
+ 14 main  -- 3
+14 main  rpc -- 3
+main  rpc -- 3
+ rpc -- 3
+rpc layout vijaynagar -- 3
+layout vijaynagar -- 3
+stage  attiguppe -- 3
+ attiguppe -- 3
+vijaynagar 2nd stage -- 2
+2nd stage -- 2
+# 35 8th d -- 1
+35 8th d -- 1
+8th d -- 1
+vijaynagar 2nd -- 1
+vijaynagar 2nd stage  -- 1
+2nd stage  -- 1
+# 35 -- 0
+# 35 8th -- 0
+35 8th -- 0
+14 main -- 0
+14 main  -- 0
+main  -- 0
+stage  -- 0
+---------------------------------------------
+*********************************************
+
+no.49 i j bhavan hoodi main road ayyappa nagar.landmark s b t bank
+
+Building prediciton with score : 
+---------------------------------------------
+s b t bank -- 36
+nagar.landmark s b t -- 31
+s b t -- 31
+ayyappa nagar.landmark s b -- 25
+nagar.landmark s b -- 25
+s b -- 25
+b t bank -- 18
+b t -- 13
+no.49 i -- 12
+no.49 i j bhavan -- 9
+i j bhavan -- 9
+i j bhavan hoodi -- 6
+j bhavan -- 6
+t bank -- 5
+j bhavan hoodi main -- 4
+no.49 i j -- 3
+i j -- 3
+j bhavan hoodi -- 3
+hoodi main road ayyappa -- 2
+bhavan hoodi main -- 1
+bhavan hoodi main road -- 1
+hoodi main -- 1
+hoodi main road -- 1
+main road ayyappa -- 1
+main road ayyappa nagar.landmark -- 1
+road ayyappa -- 1
+road ayyappa nagar.landmark -- 1
+road ayyappa nagar.landmark s -- 1
+bhavan hoodi -- 0
+main road -- 0
+ayyappa nagar.landmark -- 0
+ayyappa nagar.landmark s -- 0
+nagar.landmark s -- 0
+---------------------------------------------
+*********************************************
+
+Quality department, Hare krishna hill, chord road, Rajajinagar, bangalore 560010
+
+Building prediciton with score : 
+---------------------------------------------
+krishna hill  chord -- 90
+ hare krishna hill -- 88
+hare krishna hill  -- 88
+krishna hill  -- 87
+hare krishna hill -- 85
+krishna hill -- 84
+department  hare krishna -- 16
+ hare krishna -- 14
+hare krishna -- 11
+hill  chord road -- 10
+rajajinagar  bangalore 560010 -- 10
+ bangalore 560010 -- 10
+hill  chord -- 9
+ rajajinagar  bangalore -- 7
+bangalore 560010 -- 7
+hill  -- 6
+quality department  hare -- 5
+department  hare -- 5
+ chord road  -- 5
+chord road  rajajinagar -- 5
+ chord road -- 4
+road  rajajinagar -- 4
+road  rajajinagar  -- 4
+rajajinagar  bangalore -- 4
+ bangalore -- 4
+ hare -- 3
+ chord -- 3
+ rajajinagar -- 3
+ rajajinagar  -- 3
+quality department  -- 2
+department  -- 2
+chord road  -- 2
+chord road -- 1
+road  -- 1
+quality department -- 0
+rajajinagar  -- 0
+---------------------------------------------
+*********************************************
+
+#656(1st Floor), 12th cross, 5th main, M.C.Layout, Vijayanagar, Bangalore.
+
+Building prediciton with score : 
+---------------------------------------------
+ 12th cross  -- 7
+12th cross  5th -- 7
+cross  5th -- 7
+cross  5th main -- 7
+ m.c.layout  vijayanagar -- 6
+ vijayanagar  bangalore. -- 6
+12th cross  -- 4
+cross  -- 4
+#656(1st floor)  12th -- 3
+floor)  12th -- 3
+floor)  12th cross -- 3
+ 12th -- 3
+ 12th cross -- 3
+ 5th -- 3
+ 5th main -- 3
+ 5th main  -- 3
+5th main  m.c.layout -- 3
+main  m.c.layout -- 3
+main  m.c.layout  -- 3
+ m.c.layout -- 3
+ m.c.layout  -- 3
+m.c.layout  vijayanagar -- 3
+m.c.layout  vijayanagar  -- 3
+ vijayanagar -- 3
+ vijayanagar  -- 3
+vijayanagar  bangalore. -- 3
+ bangalore. -- 3
+#656(1st floor) -- 0
+#656(1st floor)  -- 0
+floor)  -- 0
+12th cross -- 0
+5th main -- 0
+5th main  -- 0
+main  -- 0
+m.c.layout  -- 0
+vijayanagar  -- 0
+---------------------------------------------
+*********************************************
+
+104/1 N.M.R LAYOUT 3RD CROSS.NEAR INFANT CONVENT SCHOOL. UDAYANAGAR. TIN FACTORY BANGALORE
+
+Building prediciton with score : 
+---------------------------------------------
+104/1 n.m.r layout -- 61
+n.m.r layout -- 61
+104/1 n.m.r layout 3rd -- 3
+n.m.r layout 3rd -- 3
+n.m.r layout 3rd cross.near -- 3
+layout 3rd -- 3
+layout 3rd cross.near -- 3
+layout 3rd cross.near infant -- 3
+3rd cross.near infant convent -- 1
+cross.near infant convent -- 1
+cross.near infant convent school. -- 1
+infant convent -- 1
+infant convent school. -- 1
+infant convent school. udayanagar. -- 1
+udayanagar. tin factory bangalore -- 1
+tin factory bangalore -- 1
+factory bangalore -- 1
+104/1 n.m.r -- 0
+3rd cross.near -- 0
+3rd cross.near infant -- 0
+cross.near infant -- 0
+convent school. -- 0
+convent school. udayanagar. -- 0
+convent school. udayanagar. tin -- 0
+school. udayanagar. -- 0
+school. udayanagar. tin -- 0
+school. udayanagar. tin factory -- 0
+udayanagar. tin -- 0
+udayanagar. tin factory -- 0
+tin factory -- 0
+---------------------------------------------
+*********************************************
+
+#5244, Vinayaka Nilaya,Near Sunrise english school road, Subhashnagar, Nelamangala, Banglore-562123
+
+Building prediciton with score : 
+---------------------------------------------
+#5244  vinayaka nilaya -- 278
+ vinayaka nilaya -- 278
+vinayaka nilaya -- 275
+vinayaka nilaya near sunrise -- 36
+ vinayaka nilaya near -- 35
+vinayaka nilaya near -- 32
+nilaya near sunrise -- 13
+nilaya near sunrise english -- 12
+nilaya near -- 9
+ subhashnagar  nelamangala -- 6
+ nelamangala  banglore-562123 -- 6
+#5244  vinayaka -- 5
+ vinayaka -- 5
+near sunrise -- 4
+school road  subhashnagar -- 4
+road  subhashnagar -- 4
+road  subhashnagar  -- 4
+near sunrise english -- 3
+near sunrise english school -- 3
+sunrise english -- 3
+sunrise english school -- 3
+sunrise english school road -- 3
+ subhashnagar -- 3
+ subhashnagar  -- 3
+subhashnagar  nelamangala -- 3
+subhashnagar  nelamangala  -- 3
+ nelamangala -- 3
+ nelamangala  -- 3
+nelamangala  banglore-562123 -- 3
+ banglore-562123 -- 3
+english school road  -- 1
+school road  -- 1
+road  -- 1
+#5244  -- 0
+english school -- 0
+english school road -- 0
+school road -- 0
+subhashnagar  -- 0
+nelamangala  -- 0
+---------------------------------------------
+*********************************************
+
+#28/2, 14th cross, 6th main , Bapujinagar ,Mysore Road, Bangalore -560026.
+
+Building prediciton with score : 
+---------------------------------------------
+road  bangalore -560026. -- 11
+ bangalore -560026. -- 10
+ 14th cross  -- 7
+14th cross  6th -- 7
+cross  6th -- 7
+cross  6th main -- 7
+bangalore -560026. -- 7
+main   bapujinagar -- 6
+  bapujinagar -- 6
+  bapujinagar  -- 6
+ bapujinagar  mysore -- 6
+mysore road  bangalore -- 5
+road  bangalore -- 5
+14th cross  -- 4
+cross  -- 4
+ mysore road  -- 4
+ bangalore -- 4
+#28/2  14th -- 3
+#28/2  14th cross -- 3
+ 14th -- 3
+ 14th cross -- 3
+ 6th -- 3
+ 6th main -- 3
+ 6th main  -- 3
+6th main   -- 3
+main   -- 3
+  -- 3
+ bapujinagar -- 3
+ bapujinagar  -- 3
+bapujinagar  mysore -- 3
+bapujinagar  mysore road -- 3
+ mysore -- 3
+ mysore road -- 3
+mysore road  -- 1
+road  -- 1
+#28/2  -- 0
+14th cross -- 0
+6th main -- 0
+6th main  -- 0
+main  -- 0
+bapujinagar  -- 0
+mysore road -- 0
+---------------------------------------------
+*********************************************
+
+depart of mathematics hosur road
+
+Building prediciton with score : 
+---------------------------------------------
+depart of mathematics -- 12
+depart of mathematics hosur -- 12
+of mathematics -- 12
+of mathematics hosur -- 12
+of mathematics hosur road -- 12
+depart of -- 0
+mathematics hosur -- 0
+mathematics hosur road -- 0
+hosur road -- 0
+---------------------------------------------
+*********************************************
+
+Educomp Learning Private Limited, K-12 Global Development Center, Second Floor, 25, Corniche Al-Latheef , Cunningham Road, Bangalore 560 001. Indian express Busstop, bangalore - 560001, India, Karnataks.
+
+Building prediciton with score : 
+---------------------------------------------
+ india  karnataks. -- 16
+560001  india  -- 13
+ india  -- 13
+india  karnataks. -- 13
+road  bangalore 560 -- 11
+ bangalore 560 -- 10
+ bangalore 560 001. -- 10
+busstop  bangalore - -- 10
+ bangalore - -- 10
+ bangalore - 560001 -- 10
+india  -- 10
+ k-12 global development -- 7
+  cunningham road -- 7
+bangalore 560 -- 7
+bangalore 560 001. -- 7
+bangalore 560 001. indian -- 7
+bangalore - -- 7
+bangalore - 560001 -- 7
+bangalore - 560001  -- 7
+ 25  corniche -- 6
+al-latheef   cunningham -- 6
+  cunningham -- 6
+cunningham road  bangalore -- 6
+express busstop  bangalore -- 6
+k-12 global development center -- 5
+global development center -- 5
+ cunningham road  -- 5
+road  bangalore -- 5
+limited  k-12 global -- 4
+ k-12 global -- 4
+k-12 global development -- 4
+global development -- 4
+global development center  -- 4
+development center  second -- 4
+ cunningham road -- 4
+ bangalore -- 4
+busstop  bangalore -- 4
+ bangalore -- 4
+- 560001  india -- 4
+560001  india -- 4
+ india -- 4
+private limited  k-12 -- 3
+limited  k-12 -- 3
+ k-12 -- 3
+center  second -- 3
+center  second floor -- 3
+ second -- 3
+ second floor -- 3
+ second floor  -- 3
+second floor  25 -- 3
+floor  25 -- 3
+floor  25  -- 3
+ 25 -- 3
+ 25  -- 3
+25  corniche -- 3
+25  corniche al-latheef -- 3
+ corniche -- 3
+ corniche al-latheef -- 3
+ corniche al-latheef  -- 3
+corniche al-latheef   -- 3
+al-latheef   -- 3
+  -- 3
+ cunningham -- 3
+ karnataks. -- 3
+development center -- 2
+cunningham road  -- 2
+001. indian express busstop -- 2
+indian express busstop -- 2
+indian express busstop  -- 2
+express busstop -- 2
+express busstop  -- 2
+k-12 global -- 1
+development center  -- 1
+cunningham road -- 1
+road  -- 1
+educomp learning -- 0
+educomp learning private -- 0
+educomp learning private limited -- 0
+learning private -- 0
+learning private limited -- 0
+learning private limited  -- 0
+private limited -- 0
+private limited  -- 0
+limited  -- 0
+center  -- 0
+second floor -- 0
+second floor  -- 0
+floor  -- 0
+25  -- 0
+corniche al-latheef -- 0
+corniche al-latheef  -- 0
+al-latheef  -- 0
+560 001. -- 0
+560 001. indian -- 0
+560 001. indian express -- 0
+001. indian -- 0
+001. indian express -- 0
+indian express -- 0
+busstop  -- 0
+- 560001 -- 0
+- 560001  -- 0
+560001  -- 0
+---------------------------------------------
+*********************************************
+
+Arvind ltd.26/2.27/2.Kenchenahalli.Mysore Road Banglore
+
+Building prediciton with score : 
+---------------------------------------------
+arvind ltd.26/2.27/2.kenchenahalli.mysore road banglore -- 2
+arvind ltd.26/2.27/2.kenchenahalli.mysore -- 1
+arvind ltd.26/2.27/2.kenchenahalli.mysore road -- 1
+ltd.26/2.27/2.kenchenahalli.mysore road banglore -- 1
+road banglore -- 1
+ltd.26/2.27/2.kenchenahalli.mysore road -- 0
+---------------------------------------------
+*********************************************
+
+A124, SLS Sunflower, Bhoganhalli Village Road Varthur Hobli, Outer Ring Road
+
+Building prediciton with score : 
+---------------------------------------------
+sunflower  bhoganhalli village -- 6
+ bhoganhalli village -- 6
+a124  sls sunflower -- 4
+ sls sunflower -- 4
+ sls sunflower  -- 4
+sls sunflower  bhoganhalli -- 4
+ bhoganhalli village road -- 4
+ outer ring road -- 4
+a124  sls -- 3
+ sls -- 3
+sunflower  bhoganhalli -- 3
+ bhoganhalli -- 3
+bhoganhalli village -- 3
+varthur hobli  outer -- 3
+hobli  outer -- 3
+hobli  outer ring -- 3
+ outer -- 3
+ outer ring -- 3
+bhoganhalli village road varthur -- 2
+village road varthur -- 2
+village road varthur hobli -- 2
+sls sunflower -- 1
+sls sunflower  -- 1
+bhoganhalli village road -- 1
+village road -- 1
+road varthur -- 1
+road varthur hobli -- 1
+road varthur hobli  -- 1
+outer ring road -- 1
+ring road -- 1
+a124  -- 0
+sunflower  -- 0
+varthur hobli -- 0
+varthur hobli  -- 0
+hobli  -- 0
+outer ring -- 0
+---------------------------------------------
+*********************************************
+
+Flat No. G3, Himagiri Enclave 2A, Thimma Reddy layout, 27th Cross, Kaggadasapura, C.V.Raman Nagar
+
+Building prediciton with score : 
+---------------------------------------------
+g3  himagiri enclave -- 350
+ himagiri enclave -- 350
+himagiri enclave -- 347
+ thimma reddy layout -- 81
+thimma reddy layout -- 78
+reddy layout -- 78
+ himagiri enclave 2a -- 35
+himagiri enclave 2a -- 32
+himagiri enclave 2a  -- 32
+enclave 2a  thimma -- 29
+enclave 2a -- 26
+enclave 2a  -- 26
+reddy layout  27th -- 23
+thimma reddy layout  -- 20
+reddy layout  -- 20
+2a  thimma reddy -- 17
+ thimma reddy -- 17
+thimma reddy -- 14
+ 27th cross  -- 7
+27th cross  kaggadasapura -- 7
+cross  kaggadasapura -- 7
+cross  kaggadasapura  -- 7
+layout  27th -- 6
+layout  27th cross -- 6
+ kaggadasapura  c.v.raman -- 6
+27th cross  -- 4
+cross  -- 4
+no. g3  himagiri -- 3
+g3  himagiri -- 3
+ himagiri -- 3
+2a  thimma -- 3
+ thimma -- 3
+layout  -- 3
+ 27th -- 3
+ 27th cross -- 3
+ kaggadasapura -- 3
+ kaggadasapura  -- 3
+kaggadasapura  c.v.raman -- 3
+kaggadasapura  c.v.raman nagar -- 3
+ c.v.raman -- 3
+ c.v.raman nagar -- 3
+flat no. -- 0
+flat no. g3 -- 0
+flat no. g3  -- 0
+no. g3 -- 0
+no. g3  -- 0
+g3  -- 0
+2a  -- 0
+27th cross -- 0
+kaggadasapura  -- 0
+c.v.raman nagar -- 0
+---------------------------------------------
+*********************************************
+
+ISRO Satellite center,karthick nagar bus stop, marathalli , Bangalore
+
+Building prediciton with score : 
+---------------------------------------------
+marathalli   bangalore -- 7
+  bangalore -- 7
+ marathalli   -- 6
+center karthick nagar bus -- 4
+karthick nagar bus -- 4
+karthick nagar bus stop -- 4
+nagar bus -- 4
+nagar bus stop -- 4
+nagar bus stop  -- 4
+ bangalore -- 4
+bus stop  marathalli -- 3
+stop  marathalli -- 3
+stop  marathalli  -- 3
+ marathalli -- 3
+ marathalli  -- 3
+marathalli   -- 3
+  -- 3
+isro satellite -- 2
+isro satellite center -- 2
+isro satellite center karthick -- 1
+satellite center -- 1
+satellite center karthick -- 0
+satellite center karthick nagar -- 0
+center karthick -- 0
+center karthick nagar -- 0
+karthick nagar -- 0
+bus stop -- 0
+bus stop  -- 0
+stop  -- 0
+marathalli  -- 0
+---------------------------------------------
+*********************************************
+
+#46middle school road vv puram Bangalore 04
+
+Building prediciton with score : 
+---------------------------------------------
+vv puram bangalore 04 -- 11
+puram bangalore 04 -- 7
+bangalore 04 -- 7
+road vv puram bangalore -- 6
+school road vv puram -- 5
+road vv puram -- 5
+vv puram bangalore -- 5
+vv puram -- 4
+#46middle school road vv -- 1
+school road vv -- 1
+road vv -- 1
+puram bangalore -- 1
+#46middle school -- 0
+#46middle school road -- 0
+school road -- 0
+---------------------------------------------
+*********************************************
+
+Sweet land bakery ,gunjur ,krupanidhi college road Bangalore ,Karnataka
+
+Building prediciton with score : 
+---------------------------------------------
+land bakery  gunjur -- 12
+road bangalore  karnataka -- 11
+sweet land bakery -- 10
+sweet land bakery  -- 10
+bangalore  karnataka -- 10
+land bakery -- 9
+land bakery  -- 9
+college road bangalore  -- 8
+road bangalore  -- 8
+bangalore  -- 7
+ gunjur  krupanidhi -- 6
+sweet land -- 5
+bakery  gunjur -- 3
+bakery  gunjur  -- 3
+ gunjur -- 3
+ gunjur  -- 3
+gunjur  krupanidhi -- 3
+gunjur  krupanidhi college -- 3
+ krupanidhi -- 3
+ krupanidhi college -- 3
+ krupanidhi college road -- 3
+ karnataka -- 3
+krupanidhi college road bangalore -- 2
+college road bangalore -- 2
+road bangalore -- 2
+bakery  -- 0
+gunjur  -- 0
+krupanidhi college -- 0
+krupanidhi college road -- 0
+college road -- 0
+---------------------------------------------
+*********************************************
+
+#227, Munikadirappa Layout, Graphite India Road,Hoodi, Mahadevapura post, Bangalore-48
+
+Building prediciton with score : 
+---------------------------------------------
+#227  munikadirappa layout -- 64
+ munikadirappa layout -- 64
+munikadirappa layout -- 61
+ graphite india road -- 13
+india road hoodi  -- 12
+graphite india road hoodi -- 11
+india road hoodi -- 11
+graphite india road -- 10
+india road -- 10
+layout  graphite india -- 7
+ munikadirappa layout  -- 6
+munikadirappa layout  graphite -- 6
+layout  graphite -- 6
+road hoodi  mahadevapura -- 5
+ graphite india -- 4
+hoodi  mahadevapura -- 4
+hoodi  mahadevapura post -- 4
+#227  munikadirappa -- 3
+ munikadirappa -- 3
+munikadirappa layout  -- 3
+layout  -- 3
+ graphite -- 3
+ mahadevapura -- 3
+ mahadevapura post -- 3
+ mahadevapura post  -- 3
+mahadevapura post  bangalore-48 -- 3
+post  bangalore-48 -- 3
+ bangalore-48 -- 3
+road hoodi  -- 2
+graphite india -- 1
+road hoodi -- 1
+hoodi  -- 1
+#227  -- 0
+mahadevapura post -- 0
+mahadevapura post  -- 0
+post  -- 0
+---------------------------------------------
+*********************************************
+
+#59 canaan, lingarajpuram, bangalore.
+
+Building prediciton with score : 
+---------------------------------------------
+ lingarajpuram  bangalore. -- 6
+#59 canaan  lingarajpuram -- 3
+canaan  lingarajpuram -- 3
+canaan  lingarajpuram  -- 3
+ lingarajpuram -- 3
+ lingarajpuram  -- 3
+lingarajpuram  bangalore. -- 3
+ bangalore. -- 3
+#59 canaan -- 0
+#59 canaan  -- 0
+canaan  -- 0
+lingarajpuram  -- 0
+---------------------------------------------
+*********************************************
+
+# 60,2nd floor, Jaimaruthi credit co-operative society,Siddaganga middle school road,near MK stores,Jaimaruthi nagar,Nandhini layout, Bangalore-560096
+
+Building prediciton with score : 
+---------------------------------------------
+jaimaruthi nagar nandhini layout -- 65
+nagar nandhini layout -- 65
+nandhini layout -- 61
+jaimaruthi credit co-operative society -- 22
+credit co-operative society -- 22
+co-operative society -- 22
+nagar nandhini layout  -- 7
+nandhini layout  bangalore-560096 -- 6
+layout  bangalore-560096 -- 6
+road near mk stores -- 5
+2nd floor  jaimaruthi -- 4
+near mk stores -- 4
+near mk stores jaimaruthi -- 4
+mk stores -- 4
+mk stores jaimaruthi -- 4
+mk stores jaimaruthi nagar -- 4
+stores jaimaruthi nagar nandhini -- 4
+jaimaruthi nagar nandhini -- 4
+nagar nandhini -- 4
+floor  jaimaruthi -- 3
+floor  jaimaruthi credit -- 3
+ jaimaruthi -- 3
+ jaimaruthi credit -- 3
+ jaimaruthi credit co-operative -- 3
+nandhini layout  -- 3
+layout  -- 3
+ bangalore-560096 -- 3
+# 60 2nd -- 1
+# 60 2nd floor -- 1
+60 2nd -- 1
+60 2nd floor -- 1
+60 2nd floor  -- 1
+2nd floor -- 1
+2nd floor  -- 1
+credit co-operative society siddaganga -- 1
+co-operative society siddaganga -- 1
+co-operative society siddaganga middle -- 1
+society siddaganga -- 1
+society siddaganga middle -- 1
+society siddaganga middle school -- 1
+middle school road near -- 1
+school road near -- 1
+school road near mk -- 1
+road near -- 1
+road near mk -- 1
+# 60 -- 0
+floor  -- 0
+jaimaruthi credit -- 0
+jaimaruthi credit co-operative -- 0
+credit co-operative -- 0
+siddaganga middle -- 0
+siddaganga middle school -- 0
+siddaganga middle school road -- 0
+middle school -- 0
+middle school road -- 0
+school road -- 0
+near mk -- 0
+stores jaimaruthi -- 0
+stores jaimaruthi nagar -- 0
+jaimaruthi nagar -- 0
+---------------------------------------------
+*********************************************
+
+#156/x 4th phase 4th main east of kattariguppa bsk 3rd stage
+
+Building prediciton with score : 
+---------------------------------------------
+main east of kattariguppa -- 23
+east of kattariguppa -- 23
+east of kattariguppa bsk -- 23
+phase 4th main east -- 21
+#156/x 4th phase 4th -- 19
+4th phase 4th -- 19
+4th phase 4th main -- 19
+phase 4th -- 19
+phase 4th main -- 19
+of kattariguppa -- 12
+of kattariguppa bsk -- 12
+of kattariguppa bsk 3rd -- 12
+4th main east of -- 11
+main east of -- 11
+east of -- 11
+4th main east -- 2
+main east -- 2
+#156/x 4th phase -- 1
+4th phase -- 1
+kattariguppa bsk 3rd stage -- 1
+bsk 3rd stage -- 1
+3rd stage -- 1
+#156/x 4th -- 0
+4th main -- 0
+kattariguppa bsk -- 0
+kattariguppa bsk 3rd -- 0
+bsk 3rd -- 0
+---------------------------------------------
+*********************************************
+
+12/1,Alfred Street Richmond Town
+
+Building prediciton with score : 
+---------------------------------------------
+alfred street richmond town -- 5
+street richmond town -- 5
+richmond town -- 5
+12/1 alfred -- 0
+12/1 alfred street -- 0
+12/1 alfred street richmond -- 0
+alfred street -- 0
+alfred street richmond -- 0
+street richmond -- 0
+---------------------------------------------
+*********************************************
+
+No: 914, Padmashri, Sector D, Ideal homes township, Rajarajeshwari Nagar, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+d  ideal homes -- 152
+ ideal homes -- 141
+ideal homes -- 138
+ ideal homes township -- 34
+ideal homes township -- 31
+homes township -- 27
+ideal homes township  -- 20
+homes township  rajarajeshwari -- 19
+homes township  -- 16
+ sector d  -- 14
+sector d  ideal -- 14
+d  ideal -- 14
+sector d  -- 11
+d  -- 11
+ karnataka  india -- 10
+ rajarajeshwari nagar  -- 7
+rajarajeshwari nagar  bengaluru -- 7
+nagar  bengaluru -- 7
+nagar  bengaluru  -- 7
+karnataka  india -- 7
+ padmashri  sector -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+padmashri  sector d -- 4
+ sector d -- 4
+township  rajarajeshwari -- 4
+township  rajarajeshwari nagar -- 4
+rajarajeshwari nagar  -- 4
+nagar  -- 4
+ india -- 4
+no: 914  padmashri -- 3
+914  padmashri -- 3
+914  padmashri  -- 3
+ padmashri -- 3
+ padmashri  -- 3
+padmashri  sector -- 3
+ sector -- 3
+ ideal -- 3
+ rajarajeshwari -- 3
+ rajarajeshwari nagar -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+sector d -- 1
+township  -- 1
+no: 914 -- 0
+no: 914  -- 0
+914  -- 0
+padmashri  -- 0
+rajarajeshwari nagar -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Sai Mithra Appartment, Site No 2, Flat No 23, 4th Floor, 1st Cross, Green Garden Layout, Near Family Mall, Kundanahalli Gate, Marathahalli, Bangalore-560037, Phone No-8123747855 Bangalore Karnataka 560037
+
+Building prediciton with score : 
+---------------------------------------------
+sai mithra -- 232
+sai mithra appartment -- 232
+sai mithra appartment  -- 232
+ green garden layout -- 150
+green garden layout -- 147
+cross  green garden -- 121
+ green garden -- 117
+green garden -- 114
+garden layout -- 95
+green garden layout  -- 89
+ site no 2 -- 71
+site no 2 -- 68
+no 2 -- 68
+garden layout  near -- 40
+garden layout  -- 37
+ kundanahalli gate  -- 14
+kundanahalli gate  marathahalli -- 14
+gate  marathahalli -- 14
+gate  marathahalli  -- 14
+1st cross  green -- 12
+cross  green -- 12
+no 2  flat -- 11
+mall  kundanahalli gate -- 11
+ kundanahalli gate -- 11
+kundanahalli gate  -- 11
+gate  -- 11
+ flat no 23 -- 10
+no 23  4th -- 10
+no-8123747855 bangalore karnataka 560037 -- 10
+bangalore karnataka 560037 -- 10
+site no 2  -- 8
+no 2  -- 8
+ green -- 8
+kundanahalli gate -- 8
+flat no 23 -- 7
+flat no 23  -- 7
+no 23 -- 7
+no 23  -- 7
+ 1st cross  -- 7
+phone no-8123747855 bangalore karnataka -- 7
+no-8123747855 bangalore karnataka -- 7
+bangalore karnataka -- 7
+layout  near -- 6
+layout  near family -- 6
+ marathahalli  bangalore-560037 -- 6
+ bangalore-560037  phone -- 6
+mithra appartment  site -- 5
+appartment  site -- 5
+ site -- 5
+2  flat -- 4
+2  flat no -- 4
+4th floor  1st -- 4
+floor  1st -- 4
+ 1st -- 4
+1st cross  -- 4
+cross  -- 4
+ near family mall -- 4
+family mall  kundanahalli -- 4
+ phone no-8123747855 bangalore -- 4
+appartment  site no -- 3
+ site no -- 3
+ flat -- 3
+ flat no -- 3
+23  4th -- 3
+23  4th floor -- 3
+ 4th -- 3
+ 4th floor -- 3
+ 4th floor  -- 3
+floor  1st cross -- 3
+ 1st cross -- 3
+layout  -- 3
+ near -- 3
+ near family -- 3
+mall  kundanahalli -- 3
+ kundanahalli -- 3
+ marathahalli -- 3
+ marathahalli  -- 3
+marathahalli  bangalore-560037 -- 3
+marathahalli  bangalore-560037  -- 3
+ bangalore-560037 -- 3
+ bangalore-560037  -- 3
+bangalore-560037  phone -- 3
+bangalore-560037  phone no-8123747855 -- 3
+ phone -- 3
+ phone no-8123747855 -- 3
+karnataka 560037 -- 3
+2  -- 1
+near family mall -- 1
+near family mall  -- 1
+family mall -- 1
+family mall  -- 1
+phone no-8123747855 bangalore -- 1
+no-8123747855 bangalore -- 1
+mithra appartment -- 0
+mithra appartment  -- 0
+appartment  -- 0
+site no -- 0
+flat no -- 0
+23  -- 0
+4th floor -- 0
+4th floor  -- 0
+floor  -- 0
+1st cross -- 0
+near family -- 0
+mall  -- 0
+marathahalli  -- 0
+bangalore-560037  -- 0
+phone no-8123747855 -- 0
+---------------------------------------------
+*********************************************
+
+Shriram chirping woods, 12th Main Road, East Wood Township, Harlur Road.
+
+Building prediciton with score : 
+---------------------------------------------
+ east wood township -- 32
+shriram chirping woods -- 29
+east wood township -- 29
+chirping woods -- 23
+road  east wood -- 22
+ east wood -- 21
+east wood -- 18
+east wood township  -- 18
+wood township -- 18
+shriram chirping woods  -- 15
+chirping woods  12th -- 12
+woods  12th -- 12
+woods  12th main -- 12
+wood township  harlur -- 10
+chirping woods  -- 9
+woods  -- 9
+wood township  -- 7
+shriram chirping -- 6
+main road  east -- 6
+road  east -- 6
+ east -- 5
+township  harlur -- 4
+township  harlur road. -- 4
+ 12th -- 3
+ 12th main -- 3
+ 12th main road -- 3
+ harlur -- 3
+ harlur road. -- 3
+12th main road  -- 1
+main road  -- 1
+road  -- 1
+township  -- 1
+12th main -- 0
+12th main road -- 0
+main road -- 0
+harlur road. -- 0
+---------------------------------------------
+*********************************************
+
+CONTINENTAL AUTOMOTIVES, 53B,BOMMASANDRA INDUSTRIAL AREA PHASE 1,HOSUR ROAD,BANGALORE - 560099
+
+Building prediciton with score : 
+---------------------------------------------
+industrial area phase 1 -- 44
+area phase 1 -- 43
+phase 1 -- 43
+area phase 1 hosur -- 22
+phase 1 hosur -- 22
+phase 1 hosur road -- 22
+hosur road bangalore - -- 8
+road bangalore - -- 8
+road bangalore - 560099 -- 8
+bangalore - -- 7
+bangalore - 560099 -- 7
+1 hosur road bangalore -- 5
+53b bommasandra industrial area -- 4
+bommasandra industrial area -- 4
+industrial area -- 4
+continental automotives  53b -- 3
+automotives  53b -- 3
+automotives  53b bommasandra -- 3
+ 53b -- 3
+ 53b bommasandra -- 3
+ 53b bommasandra industrial -- 3
+1 hosur -- 3
+1 hosur road -- 3
+bommasandra industrial area phase -- 2
+industrial area phase -- 2
+hosur road bangalore -- 2
+road bangalore -- 2
+area phase -- 1
+continental automotives -- 0
+continental automotives  -- 0
+automotives  -- 0
+53b bommasandra -- 0
+53b bommasandra industrial -- 0
+bommasandra industrial -- 0
+hosur road -- 0
+- 560099 -- 0
+---------------------------------------------
+*********************************************
+
+#3,3rd Stage, RMV 2nd Stage
+
+Building prediciton with score : 
+---------------------------------------------
+ rmv 2nd stage -- 6
+stage  rmv 2nd -- 5
+ rmv 2nd -- 5
+3rd stage  rmv -- 3
+stage  rmv -- 3
+ rmv -- 3
+rmv 2nd stage -- 3
+rmv 2nd -- 2
+2nd stage -- 2
+#3 3rd stage -- 1
+3rd stage -- 1
+#3 3rd -- 0
+#3 3rd stage  -- 0
+3rd stage  -- 0
+stage  -- 0
+---------------------------------------------
+*********************************************
+
+Ambika c.s W/O Damodar acharya, #4006, Shiva nilaya 7th cross Gayathrinagar, Bangalore 560021
+
+Building prediciton with score : 
+---------------------------------------------
+#4006  shiva nilaya -- 275
+ shiva nilaya -- 275
+shiva nilaya -- 272
+ shiva nilaya 7th -- 32
+shiva nilaya 7th cross -- 30
+shiva nilaya 7th -- 29
+nilaya 7th cross gayathrinagar -- 14
+nilaya 7th cross -- 10
+gayathrinagar  bangalore 560021 -- 10
+ bangalore 560021 -- 10
+nilaya 7th -- 9
+cross gayathrinagar  bangalore -- 8
+bangalore 560021 -- 7
+ #4006  shiva -- 6
+7th cross gayathrinagar -- 5
+7th cross gayathrinagar  -- 5
+cross gayathrinagar -- 4
+cross gayathrinagar  -- 4
+gayathrinagar  bangalore -- 4
+ bangalore -- 4
+ambika c.s -- 3
+ambika c.s w/o -- 3
+ambika c.s w/o damodar -- 3
+damodar acharya  #4006 -- 3
+acharya  #4006 -- 3
+acharya  #4006  -- 3
+ #4006 -- 3
+ #4006  -- 3
+#4006  shiva -- 3
+ shiva -- 3
+7th cross -- 1
+c.s w/o -- 0
+c.s w/o damodar -- 0
+c.s w/o damodar acharya -- 0
+w/o damodar -- 0
+w/o damodar acharya -- 0
+w/o damodar acharya  -- 0
+damodar acharya -- 0
+damodar acharya  -- 0
+acharya  -- 0
+#4006  -- 0
+gayathrinagar  -- 0
+---------------------------------------------
+*********************************************
+
+Door No 25, Renukamba Nilaya Papaiah Layout, HV halli, Rajarajeswari Nagar
+
+Building prediciton with score : 
+---------------------------------------------
+25  renukamba nilaya -- 255
+ renukamba nilaya -- 255
+renukamba nilaya -- 252
+renukamba nilaya papaiah layout -- 70
+nilaya papaiah layout -- 70
+papaiah layout -- 61
+ renukamba nilaya papaiah -- 12
+nilaya papaiah layout  -- 12
+no 25  renukamba -- 10
+renukamba nilaya papaiah -- 9
+nilaya papaiah -- 9
+door no 25 -- 7
+door no 25  -- 7
+no 25 -- 7
+no 25  -- 7
+papaiah layout  hv -- 6
+layout  hv -- 6
+layout  hv halli -- 6
+25  renukamba -- 3
+ renukamba -- 3
+papaiah layout  -- 3
+layout  -- 3
+ hv -- 3
+ hv halli -- 3
+ hv halli  -- 3
+hv halli  rajarajeswari -- 3
+halli  rajarajeswari -- 3
+halli  rajarajeswari nagar -- 3
+ rajarajeswari -- 3
+ rajarajeswari nagar -- 3
+door no -- 0
+25  -- 0
+hv halli -- 0
+hv halli  -- 0
+halli  -- 0
+rajarajeswari nagar -- 0
+---------------------------------------------
+*********************************************
+
+Flat #4B, Multi Corner Apartments, 4th Main, 5th Cross, Basaveshwara Layout, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+ multi corner apartments -- 150
+multi corner apartments -- 147
+corner apartments -- 145
+cross  basaveshwara layout -- 68
+ basaveshwara layout -- 64
+basaveshwara layout -- 61
+#4b  multi corner -- 13
+ multi corner -- 13
+multi corner -- 10
+corner apartments  4th -- 10
+ karnataka  india -- 10
+multi corner apartments  -- 9
+corner apartments  -- 7
+ 5th cross  -- 7
+5th cross  basaveshwara -- 7
+cross  basaveshwara -- 7
+karnataka  india -- 7
+apartments  4th -- 6
+apartments  4th main -- 6
+ basaveshwara layout  -- 6
+basaveshwara layout  bengaluru -- 6
+layout  bengaluru -- 6
+layout  bengaluru  -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+5th cross  -- 4
+cross  -- 4
+ india -- 4
+flat #4b  multi -- 3
+#4b  multi -- 3
+ multi -- 3
+apartments  -- 3
+ 4th -- 3
+ 4th main -- 3
+ 4th main  -- 3
+4th main  5th -- 3
+main  5th -- 3
+main  5th cross -- 3
+ 5th -- 3
+ 5th cross -- 3
+ basaveshwara -- 3
+basaveshwara layout  -- 3
+layout  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+flat #4b -- 0
+flat #4b  -- 0
+#4b  -- 0
+4th main -- 0
+4th main  -- 0
+main  -- 0
+5th cross -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+DNB RESIDENT, DEPARTMENT OF OBSTETRICS AND GYNAECOLOGY, St Marthas Hospital, Nrupathunga Road, Sampangi Rama Nagar, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+of obstetrics and gynaecology -- 48
+and gynaecology  st -- 39
+obstetrics and gynaecology -- 36
+obstetrics and gynaecology  -- 36
+and gynaecology -- 36
+and gynaecology  -- 36
+rama nagar  bengaluru -- 18
+ department of obstetrics -- 17
+sampangi rama nagar  -- 15
+rama nagar  -- 15
+department of obstetrics -- 14
+department of obstetrics and -- 14
+ sampangi rama nagar -- 14
+of obstetrics -- 12
+of obstetrics and -- 12
+sampangi rama nagar -- 11
+rama nagar -- 11
+ karnataka  india -- 10
+nagar  bengaluru -- 7
+nagar  bengaluru  -- 7
+karnataka  india -- 7
+gynaecology  st marthas -- 6
+ st marthas -- 6
+ st marthas hospital -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+resident  department of -- 5
+ department of -- 5
+st marthas hospital  -- 5
+marthas hospital  nrupathunga -- 5
+hospital  nrupathunga -- 5
+hospital  nrupathunga road -- 5
+ nrupathunga road  -- 4
+nrupathunga road  sampangi -- 4
+road  sampangi -- 4
+road  sampangi rama -- 4
+nagar  -- 4
+ india -- 4
+dnb resident  department -- 3
+resident  department -- 3
+ department -- 3
+gynaecology  st -- 3
+ st -- 3
+st marthas -- 3
+st marthas hospital -- 3
+ nrupathunga -- 3
+ nrupathunga road -- 3
+ sampangi -- 3
+ sampangi rama -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+department of -- 2
+marthas hospital  -- 2
+hospital  -- 2
+dnb resident -- 1
+nrupathunga road  -- 1
+road  -- 1
+dnb resident  -- 0
+resident  -- 0
+obstetrics and -- 0
+gynaecology  -- 0
+marthas hospital -- 0
+nrupathunga road -- 0
+sampangi rama -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+12, Tavarekere Main Road, Kaveri Layout, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+road  kaveri layout -- 71
+ kaveri layout -- 70
+kaveri layout -- 67
+ kaveri layout  -- 12
+kaveri layout  bengaluru -- 12
+ karnataka  india -- 10
+kaveri layout  -- 9
+main road  kaveri -- 7
+road  kaveri -- 7
+karnataka  india -- 7
+ kaveri -- 6
+layout  bengaluru -- 6
+layout  bengaluru  -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+12  tavarekere -- 4
+12  tavarekere main -- 4
+ india -- 4
+ tavarekere -- 3
+ tavarekere main -- 3
+ tavarekere main road -- 3
+layout  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+12  -- 1
+tavarekere main road  -- 1
+main road  -- 1
+road  -- 1
+tavarekere main -- 0
+tavarekere main road -- 0
+main road -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Room no.407, Sri Srinivasa PG For Gents, Christ School Road, Sadduguntepalya, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+sri srinivasa pg for -- 342
+ sri srinivasa pg -- 341
+sri srinivasa pg -- 338
+no.407  sri srinivasa -- 333
+ sri srinivasa -- 333
+sri srinivasa -- 330
+srinivasa pg for gents -- 17
+srinivasa pg for -- 16
+srinivasa pg -- 12
+ karnataka  india -- 10
+karnataka  india -- 7
+ sadduguntepalya  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+pg for gents -- 5
+pg for gents  -- 5
+pg for -- 4
+for gents  christ -- 4
+school road  sadduguntepalya -- 4
+road  sadduguntepalya -- 4
+road  sadduguntepalya  -- 4
+ india -- 4
+room no.407  sri -- 3
+no.407  sri -- 3
+ sri -- 3
+gents  christ -- 3
+gents  christ school -- 3
+ christ -- 3
+ christ school -- 3
+ christ school road -- 3
+ sadduguntepalya -- 3
+ sadduguntepalya  -- 3
+sadduguntepalya  bengaluru -- 3
+sadduguntepalya  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+for gents -- 1
+for gents  -- 1
+christ school road  -- 1
+school road  -- 1
+road  -- 1
+room no.407 -- 0
+room no.407  -- 0
+no.407  -- 0
+gents  -- 0
+christ school -- 0
+christ school road -- 0
+school road -- 0
+sadduguntepalya  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+Si2 Microsystems Private limited Deep towers,EPIP Industrial Area Whitefield, Bangalore, Karnataka, INDIA.
+
+Building prediciton with score : 
+---------------------------------------------
+private limited deep towers -- 17
+limited deep towers -- 17
+deep towers -- 17
+ bangalore  karnataka -- 13
+bangalore  karnataka  -- 13
+whitefield  bangalore  -- 11
+ bangalore  -- 10
+bangalore  karnataka -- 10
+limited deep towers epip -- 9
+deep towers epip -- 9
+deep towers epip industrial -- 9
+ karnataka  india. -- 9
+bangalore  -- 7
+ karnataka  -- 6
+karnataka  india. -- 6
+towers epip industrial area -- 5
+area whitefield  bangalore -- 5
+whitefield  bangalore -- 5
+epip industrial area -- 4
+industrial area -- 4
+ bangalore -- 4
+epip industrial area whitefield -- 3
+industrial area whitefield -- 3
+ karnataka -- 3
+karnataka  -- 3
+ india. -- 3
+industrial area whitefield  -- 2
+area whitefield -- 2
+towers epip -- 1
+towers epip industrial -- 1
+area whitefield  -- 1
+whitefield  -- 1
+si2 microsystems -- 0
+si2 microsystems private -- 0
+si2 microsystems private limited -- 0
+microsystems private -- 0
+microsystems private limited -- 0
+microsystems private limited deep -- 0
+private limited -- 0
+private limited deep -- 0
+limited deep -- 0
+epip industrial -- 0
+---------------------------------------------
+*********************************************
+
+97, Wheeler Road extn, Cooke Town, Bengaluru, Karnataka, India ( delicacy reastaurant )
+
+Building prediciton with score : 
+---------------------------------------------
+karnataka  india ( -- 16
+ india ( -- 13
+ india ( delicacy -- 13
+ karnataka  india -- 10
+india ( -- 10
+india ( delicacy -- 10
+india ( delicacy reastaurant -- 10
+karnataka  india -- 7
+extn  cooke town -- 6
+ cooke town -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+ wheeler road extn -- 4
+road extn  cooke -- 4
+ india -- 4
+97  wheeler -- 3
+97  wheeler road -- 3
+ wheeler -- 3
+ wheeler road -- 3
+extn  cooke -- 3
+ cooke -- 3
+ cooke town  -- 3
+cooke town -- 3
+cooke town  bengaluru -- 3
+town  bengaluru -- 3
+town  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+wheeler road extn -- 1
+wheeler road extn  -- 1
+road extn -- 1
+road extn  -- 1
+97  -- 0
+wheeler road -- 0
+extn  -- 0
+cooke town  -- 0
+town  -- 0
+bengaluru  -- 0
+( delicacy -- 0
+( delicacy reastaurant -- 0
+( delicacy reastaurant ) -- 0
+delicacy reastaurant -- 0
+delicacy reastaurant ) -- 0
+reastaurant ) -- 0
+---------------------------------------------
+*********************************************
+
+C/O Ritu Gupta F-08, Vaishnavi Orchids, Kasavanahalli, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+f-08  vaishnavi orchids -- 18
+ vaishnavi orchids -- 18
+ vaishnavi orchids  -- 15
+vaishnavi orchids -- 15
+vaishnavi orchids  kasavanahalli -- 15
+vaishnavi orchids  -- 12
+ karnataka  india -- 10
+karnataka  india -- 7
+ kasavanahalli  bengaluru -- 6
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+orchids  kasavanahalli -- 4
+orchids  kasavanahalli  -- 4
+ india -- 4
+gupta f-08  vaishnavi -- 3
+f-08  vaishnavi -- 3
+ vaishnavi -- 3
+ kasavanahalli -- 3
+ kasavanahalli  -- 3
+kasavanahalli  bengaluru -- 3
+kasavanahalli  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+orchids  -- 1
+c/o ritu -- 0
+c/o ritu gupta -- 0
+c/o ritu gupta f-08 -- 0
+ritu gupta -- 0
+ritu gupta f-08 -- 0
+ritu gupta f-08  -- 0
+gupta f-08 -- 0
+gupta f-08  -- 0
+f-08  -- 0
+kasavanahalli  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+No. 7, 1st cross, nagappa reddy layout, A Narayanapura, Bengaluru, Karnataka, India
+
+Building prediciton with score : 
+---------------------------------------------
+ nagappa reddy layout -- 81
+nagappa reddy layout -- 78
+reddy layout -- 78
+reddy layout  a -- 31
+layout  a narayanapura -- 24
+cross  nagappa reddy -- 21
+ a narayanapura -- 21
+ a narayanapura  -- 21
+a narayanapura  bengaluru -- 21
+nagappa reddy layout  -- 20
+reddy layout  -- 20
+a narayanapura -- 18
+a narayanapura  -- 18
+ nagappa reddy -- 17
+nagappa reddy -- 14
+layout  a -- 14
+ a -- 11
+ karnataka  india -- 10
+ 1st cross  -- 7
+1st cross  nagappa -- 7
+cross  nagappa -- 7
+karnataka  india -- 7
+ bengaluru  karnataka -- 6
+bengaluru  karnataka  -- 6
+ karnataka  -- 6
+no. 7  1st -- 4
+7  1st -- 4
+ 1st -- 4
+1st cross  -- 4
+cross  -- 4
+ india -- 4
+7  1st cross -- 3
+ 1st cross -- 3
+ nagappa -- 3
+layout  -- 3
+narayanapura  bengaluru -- 3
+narayanapura  bengaluru  -- 3
+ bengaluru -- 3
+ bengaluru  -- 3
+bengaluru  karnataka -- 3
+ karnataka -- 3
+karnataka  -- 3
+no. 7 -- 0
+no. 7  -- 0
+7  -- 0
+1st cross -- 0
+narayanapura  -- 0
+bengaluru  -- 0
+---------------------------------------------
+*********************************************
+
+#210,btm layout 2nd stage 16th main 6th cross near by mes college bangalore 76
+
+Building prediciton with score : 
+---------------------------------------------
+#210 btm layout -- 61
+btm layout -- 61
+mes college bangalore 76 -- 7
+college bangalore 76 -- 7
+bangalore 76 -- 7
+cross near by mes -- 6
+btm layout 2nd stage -- 5
+layout 2nd stage -- 5
+#210 btm layout 2nd -- 4
+btm layout 2nd -- 4
+layout 2nd -- 4
+layout 2nd stage 16th -- 4
+main 6th cross near -- 4
+6th cross near -- 4
+6th cross near by -- 4
+cross near -- 4
+cross near by -- 4
+by mes college bangalore -- 3
+2nd stage -- 2
+near by mes -- 2
+near by mes college -- 2
+by mes -- 2
+by mes college -- 2
+2nd stage 16th -- 1
+2nd stage 16th main -- 1
+mes college bangalore -- 1
+college bangalore -- 1
+#210 btm -- 0
+stage 16th -- 0
+stage 16th main -- 0
+stage 16th main 6th -- 0
+16th main -- 0
+16th main 6th -- 0
+16th main 6th cross -- 0
+main 6th -- 0
+main 6th cross -- 0
+6th cross -- 0
+near by -- 0
+mes college -- 0
+---------------------------------------------
+*********************************************
+
